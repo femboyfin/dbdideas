@@ -326,7 +326,7 @@ No change
 
 - Uses an Activate Ability button instead of requiring you to be empty handed.
   - Makes the perk significantly less restrictive, no longer discouraging the use of items (that often interact with the objects shown by Clairvoyance)
-- Remove range limitation
+- Remove range limitation (was 64m)
   - Somewhat sizable buff that most brings the power level of the perk to a similar level across all maps.
 
 
@@ -422,3 +422,40 @@ No change
   - Prevents the survivor from being punished for peforming well in chase
 - Decrease timer to 30 seconds
   - This prevents the killer from being punished for chasing and downing another survivor, and then stumbling back upon you 30-60 second later and being punished for it
+
+
+### [Déjà Vu](https://deadbydaylight.wiki.gg/wiki/Déjà_Vu)
+
+- Make Repair speed bonus is predicative upon Generator Aura.
+  - This allows for counterplay via Blindness-inflicting perks, e.g. Mindbreaker.
+
+
+### [Deliverance](https://deadbydaylight.wiki.gg/wiki/Deliverance)
+
+- Deactivates once the end game collapse begins
+  - Prevents loss conditions outside of the killer's control.
+- Disabled for the remainder of the trial after being unhooked
+  - Simply a visual improvement because as of right now it displays active even when the perk is unusable.
+- Increase broken status effect to 120 seconds
+  - Number change to offset the strength of the perk.
+- Receive 10% Hinder for 10 seconds on Self-Unhook
+  - Counters basekit BT's Haste 10% effect
+- While unhooking without any hook states, scream after completing an unhook action
+  - Allows other players to know that the perk is in play.
+- Unique animation or visual effect for survivors on hook in summoning phase if the perk is active
+  - Allows other players to know that the perk is in play.
+
+
+### [Desperate Measures](https://deadbydaylight.wiki.gg/wiki/Desperate_Measures)
+
+No change
+
+
+### [Detective's Hunch](https://deadbydaylight.wiki.gg/wiki/Detective%27s_Hunch)
+
+- Additionally reveals the auras of the Hatch and Exit Gate Switches
+  - Brings it closer in strength to Clairvoyance
+- Remove range limitation (was 32/48/64m)
+  - Provides a minor strength increase to a very weak and heavily outclassed perk.
+- Increase aura reveal duration to 30 seconds (from 20)
+  - Minor strength increase without stepping on the toes of Visionary
