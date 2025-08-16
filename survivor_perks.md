@@ -546,7 +546,9 @@ No change
 ## [Flashbang](<https://deadbydaylight.wiki.gg/wiki/Flashbang>) 🗑️
 
 - Instead of activating after repairing Generators, gain **1 Token**
-- Entering a locker and pressing the Active Ability button crafts a Flash Grenade
+  - Removes the need to stop repairing and go to the nearest locker immediately to get your flashbang, letting you bank tokens to retrieve a flashbang per 40% repaired.
+- Entering a locker and pressing the Active Ability button crafts a Flash Grenade and consumes **-1 Token**
+  - Changed Active Ability button to use the new token-based system from the change above.
 
 
 ## [Flip-Flop](<https://deadbydaylight.wiki.gg/wiki/Flip-Flop>) 📉
@@ -557,15 +559,17 @@ No change
 ## [Fogwise](<https://deadbydaylight.wiki.gg/wiki/Fogwise>) 📉 🗑️
 
 - Triggers on all Great Skill Checks not only Generator repair skill checks.
-- Increased duration to **6/8/10 seconds**.
+  - Increases versatility allowing aura reveal from Healing skill checks where it's arguably more critical.
+- Increased duration to **6/8/10 seconds** *(was 4/5/6)*
+  - Numbers buff to increase the strength of the perk
 
 
 ## [For the People](<https://deadbydaylight.wiki.gg/wiki/For_the_People>) 📉 🧑‍🤝‍🧑
 
 - No longer requires the Survivor to be healing without using a Med-Kit
-  - QoL: Makes it easier to
+  - Makes it easier to use the perk last second if you realize you just barely aren't going to get a Med-Kit heal off in time.
 - Heals to full health regardless of deep wound state
-  - Simplifies the perk
+  - Slight buff, simplifying the perk
 - Removed intiial Obsession chance reduction
   - Simplifies the perk
 
@@ -573,15 +577,19 @@ No change
 ## [Friendly Competition](<https://deadbydaylight.wiki.gg/wiki/Friendly_Competition>) 📉 🗑️
 
 - Increased Repair speed bonus to **10%** *(was 5%)*
+  - Sizable numbers buff to bring it up to snuff with Prove Thyself.
 - Increased duration to **70/80/90 seconds** *(was 45/60/75)*
-- Now applies to yourself and separately other Survivor(s) who are working on the Generator with you at the time of it's completion, allowing you to gain the Repair speed bonus without working on a Generator with another Survivor.
+  - Makes it significantly less punishing to travel to an ideal generator rather than jumping on the nearest one to preserve your effect.
+- Now applies to yourself and additionally other Survivors working on the Generator with you at the time of it's completion.
+  - This removes the requirement that someone else is working on the generator with you at the time of it's completion, making the perk more versatile.
 
 
-## [Hardened](<https://deadbydaylight.wiki.gg/wiki/Hardened>) 📉
+## [Hardened](<https://deadbydaylight.wiki.gg/wiki/Hardened>) 📉 🗑️
 
 - Changed activiation to either opening a Chest, or blessing-or-cleansing a Totem
+  - Reduces the time it takes to activate the perk intially substantially
 - Increased duration to **6/8/10 seconds** *(was 3/4/5)*
-
+  - Significant numbers buff to increase the perk's strength
 
 ## [Head On](<https://deadbydaylight.wiki.gg/wiki/Head_On>)
 
@@ -599,36 +607,49 @@ No change
 ## [Hyperfocus](<https://deadbydaylight.wiki.gg/wiki/Hyperfocus>)
 
 - Removed maximum Tokens *(was 6 Tokens)*
-- Removed maximum of **24%** increase to Skill Check Trigger odds and Pointer Rotation speed.
+  - Allows you to indefinitely increase your trigger odds at the cost of making them increasingly difficult until you can't hit them anymore.
 - Capped Skill Check Bonus progression at **60/120/180%**
+  - Artificially imposes the old token limit specifically to bonus progression, preventing the perk from becoming too oppressive, but keeping it skill expressive.
 - No longer lose all Tokens when the interaction is interrupted, instead lose **-1 Token** and then **-1 Token** every **3 seconds** afterwards.
+  - Qualtiy of life change allowing you to momentarily check ping, dodge gen exploding perks, quickly heal a teammate, etc.
 
 
 ## [Inner Focus](<https://deadbydaylight.wiki.gg/wiki/Inner_Focus>) 📉
 
 - No longer requires Health state loss to be the result of the Killer
+  - Makes it slightly more versatile
 - Additionally reveals the Aura of the Survivor who lost the Health State
+  - Increases the perk's viability for hit-tanking.
 - Increased duration to **16/18/20 seconds** *(was 6/8/10)*
+  - Provides more time to get in position for a hit-tank, and otherwise provides more information about where the chase is/is going.
 
 
 ## [Inner Strength](<https://deadbydaylight.wiki.gg/wiki/Inner_Strength>)
 
-- Fully heals instead of Healing one health state, meaning you're always set to Healthy not healed from Deep Wound
+- Fully heals instead of Healing one health state, meaning you're always set to Healthy, ignoring Deep Wound
+  - Slightly increases the strength of perk.
 
 
 ## [Invocation: Treacherous Crows](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Treacherous_Crows>) 📉
 
 - Decreased broken duration to **120 seconds** *(was permanent)*
+  - Changes the perks downside to create a reasonable argument that it's use is a trade-off instead of detrimental.
 - Completing the Inovation applies the effects from all Invocation perks of Survivor(s) participating
+  - Increases viability of stacking Invocation perks, without a 120 second timer to activate both.
 - Increased acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
+  - Increases the viability of multiple people working to complete the Invocations together, turning it into a trade-off rather than a waste of time.
 
 
 ## [Invocation: Weaving Spiders](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Weaving_Spiders>) 📉
 
 - Decreased broken duration to **120 seconds** *(was permanent)*
+  - Changes the perks downside to create a reasonable argument that it's use is a trade-off instead of detrimental.
 - Completing the Inovation applies the effects from all Invocation perks of Survivor(s) participating
+  - Increases viability of stacking Invocation perks, without a 120 second timer to activate both.
 - Increased acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
+  - Increases the viability of multiple people working to complete the Invocations together, turning it into a trade-off rather than a waste of time.
 - Increased charge reduction to **8/10/12 Charges** *(was 8/9/10)*
+  - Increases the charge reduction slightly bringing it on-par time wise with simply sitting on a generator for the duration of the invocation.
 
 
 ## [Iron Will](<https://deadbydaylight.wiki.gg/wiki/Iron_Will>)
@@ -644,30 +665,39 @@ No change
 ## [Last Stand](<https://deadbydaylight.wiki.gg/wiki/Survivor_Perks>)
 
 - Reduced activation time to **80/70/60 seconds** *(was 120/105/90)*
+  - Slight numbers buff reverting it to it's numbers from the PTB now that the vault speed increase and same-side vault stuns have been fixed.
 
 
 ## [Leader](<https://deadbydaylight.wiki.gg/wiki/Leader>) 📉
 
 - Increased range to **16 meters** *(was 8)*
+  - Slight numbers buff to increase the viability of the perk. Particularly helpful for applying the bonus to a teammate on a gate from the safety of an adjacent tile or around the corner.
 
 
 ## [Left Behind](<https://deadbydaylight.wiki.gg/wiki/Left_Behind>) 📉 😷
 
 - Now activates once the Exit Gates are powered *(was once you are the Last Survivor Standing)*
+  - Removes the inherent selfishness of the perk
 - Now reveals the auras of Survivors within the exit gates to you
+  - Provides utility to your teammates while they're still alive in the trial
 - Now reveals your aura to Survivors within the exit gates
+  - Enables your teammates to help you in getting to the gate
 - Now reveals the Aura of the Hatch to you after another Survivor has Escaped *(was within 24/28/32 meters)*
+  - Now rewards you for staying in the trial to buy time for your teammates to escape.
 
 
 ## [Light-Footed](<https://deadbydaylight.wiki.gg/wiki/Light-Footed>) 📉
 
 - Now works while injured
+  - Increases overall viability, effectively allows for synergy with Iron Will and Off the Record, but otherwise has minimal benefit.
 - Removed cooldown
+  - Increases the effectiveness of mind-gaming by allowing it to be done after using a window to break line of sight.
 
 
 ## [Lightweight](<https://deadbydaylight.wiki.gg/wiki/Lightweight>)
 
 - Make scratch marks spawn farther apart
+  - Makes it slightly more difficult to effectively track players around corners, through doorways, and at cross-roads.
 
 
 ## [Lithe](<https://deadbydaylight.wiki.gg/wiki/Lithe>)
