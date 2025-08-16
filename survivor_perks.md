@@ -2,7 +2,7 @@
 
 ## [Ace in the Hole](<https://deadbydaylight.wiki.gg/wiki/Ace_in_the_Hole>) 📉 🗑️
 
-- Change first slot rarity to have a minimum of Rare rather than a Maximum of Visceral
+- Changed first slot rarity to have a minimum of Rare rather than a Maximum of Visceral
   - Increases the consistency of the first Add-on slot, ensuring you get some sort of impactful Add-on.
 
 or
@@ -13,8 +13,8 @@ or
 
 ## [Adrenaline](<https://deadbydaylight.wiki.gg/wiki/Adrenaline>) 😷 💪
 
-- Remove the Haste bonus and Exhausted status effect
-  - Lowers the strength level by removing it's secondary effect. Also removes one of the stronger feast or famine aspects by making it impossible to use as an Unbreakable + Sprint Burst combo on it's own.
+- Removed Haste bonus and Exhausted status effect
+  - Lowers the strength level by removing it's secondary effect. Also removes one of the stronger feast or famine aspects by making it impossible to use as an Unbreakable & Sprint Burst combo on it's own.
 
 
 ## [Aftercare](<https://deadbydaylight.wiki.gg/wiki/Aftercare>) 📉 🗑️
@@ -42,9 +42,9 @@ or
 
 ## [Apocalyptic Ingenuity](<https://deadbydaylight.wiki.gg/wiki/Apocalyptic_Ingenuity>) 📉 🗑️
 
-- Change activation condition to repairing a total of **40%** of a Generator *(was unlock/rummage two chests)*
+- Changed activation condition to repairing a total of **40%** of a Generator *(was unlock/rummage two chests)*
   - Greatly increases it's viability for use throughout the match by removing the need to accomplish a side objective to activate your perk which in and of itself is effectively a side objective.
-- Reduce rebuild time to **3 seconds** *(was 4)*
+- Reduced rebuild time to **3 seconds** *(was 4)*
   - Slight numbers buff to an already weak perk, specifically without creating guaranteed re-stuns.
 
 
@@ -57,7 +57,7 @@ or
 
 and either:
 
-- No longer limited to two rummages per chest
+- Removed maximum of two rummages per chest
   - Removes the need to scour the map for multiple chests to get full value from your perk, again reducing the time spent on side-objectives.
 
 or
@@ -84,18 +84,18 @@ or
 
 ## [Background Player](<https://deadbydaylight.wiki.gg/wiki/Background_Player>) *🗑️ (for Exhaustion)*
 
-- Change activation condition to pressing an Active Ability button while a Survivor is being carried.
+- Changed activation condition to pressing an Active Ability button while a Survivor is being carried.
   - Prevents accidental activations and allows more thoughtful gameplay for one of the less-used Exhaustion perks.
 
 or
 
-- Reduce Exhaustion duration to **5 seconds** *(was 20)*
+- Reduced Exhausted duration to **5 seconds** *(was 20)*
   - Accidental activations are less punishing and makes synergy with other Exhaustion perks to be more viable.
 
 
 ## [Balanced Landing](<https://deadbydaylight.wiki.gg/wiki/Balanced_Landing>) *🗑️ (for Exhaustion)*
 
-- Separate stagger reduction from Exhaustion
+- Separate stagger reduction from Exhausted
   - Increases the consistency of a map-specific, low-use exhaustion perk across a variety maps, potentially opening up the doors to unqiue plays in and out of chase that are otherwise unachievable
 
 
@@ -103,7 +103,7 @@ or
 
 - Removed range limitation *(was 16 meters)*
   - Allows the perk to have a global rather than localized effect, making it somewhat an opposing counterpart to Prove Thyself
-- Reduce cooldown to **52/44/36 seconds** *(was 110/100/90)*
+- Reduced cooldown to **52/44/36 seconds** *(was 110/100/90)*
   - Allows for the strategic gambling of getting a higher roll, without making getting a low roll instantly cause you to re-roll on repeat.
 - Now increases skillcheck trigger chance by **0/1/2/3%** based on roll
   - Increases the overall strength of the perk, hopefully not too much.
@@ -145,11 +145,11 @@ or
 
 ## [Blood Pact](<https://deadbydaylight.wiki.gg/wiki/Blood_Pact>) 📉
 
-- Remove injured condition, allowing aura read to/from obsession while healthy
+- Now works while healthy
   - Slight buff to info making it easier to buddy up with the obsession prior to their injury, making it easier to coordinate activating the haste portion of the perk.
 - Add the "linger" effect from Teamwork: Power of Two
   - Quality of life change to make it a bit more forgiving when looping with friends.
-- If you are the obsession, only deactivate aura unless the haste effect is active.
+- No longer deactivates if you yourself are the Obsession.
   - Minor buff that simply makes it so being turned into the obsession by another perk doesn't have the potential to complete nullify your already mid-tier perk.
 
 
@@ -196,9 +196,9 @@ or
 
 or
 
-- Remove Med-Kit exception to altruistic healing speed bonus
+- Removed Med-Kit exception to altruistic healing speed bonus
   - Generally increasing viability of the perk by removing a situation where it previously made no difference.
-- Remove injured predicate on aura reveal
+- Now works while healthy
   - Provides the opportunitiy for an injured survivor to navigate directly to a healthy player with a healing build within a boon for an extremely fast multi-person reset.
 - Increased altruistic healing speed bonus to **150%** *(from 100%)*
   - Numbers buff to increase the general viability of the perk, offsetting the time loss of traversing into the Boon's range.
@@ -243,7 +243,7 @@ or
 
 or
 
-- Increased Haste & Endurance effect to **11/13/15 seconds** *(was 6/8/10)*
+- Increased Haste & Endurance effects to **11/13/15 seconds** *(was 6/8/10)*
   - Sizable numbers buff to increase the viability of the perk in a post-basekit-BT world.
 - Use the Activate ability button to grant the unhooker 15 seconds of Endurance once per match (incompatible with Shoulder the Burden)
   - Enables the same ability from our preferred buff but in a much more limited capacity, with the benefit of it being usable in endgame. This also disallows use with shoulder in this case, meaning you can't get free endurance AND take the survivors health state at the very end of the game.
@@ -259,7 +259,7 @@ or
 
 - If the killer is within **16 meters** when you're unhooked, they're given **10% Hinder** for **15 Seconds**
   - This effectively mimicks Forced Hesitation and moves a fringe relatively unhealthy perk in the direction of being Anti-Camp based.
-- Reduce hook respawn time to **60 seconds** *(was 180)*
+- Reduced hook respawn time to **60 seconds** *(was 180)*
   - Compensatory reduction in duration as a result of the change above, additionally 3 minutes of not being able to simply hook someone under that hook is very likely to cause extreme slugging scenarios, two minutes probably isn't too far off of 3, but could be adjusted in accordance with the numbers of the above change.
 
 
@@ -302,7 +302,7 @@ No change
 
 - Decreased cooldown to **40/30/20 seconds** *(was 60/50/40)*
   - Slight number buff to enable more active use in chase without changing the power level of the perk too much.
-- Change Hinder effect to **40% Hinder** for **5 seconds** *(was 50% for 4 seconds)*
+- Changed Hinder effect to **40% Hinder** for **5 seconds** *(was 50% for 4 seconds)*
   - Increasing effectiveness against high-mobility killers, effecitvely preventing them from using dash type abilites for an additional second, while still giving the survivor the same amount of distance versus low-mobility killers.
 
 
@@ -316,7 +316,7 @@ No change
 
 - Uses an Activate Ability button instead of requiring you to be empty handed.
   - Makes the perk significantly less restrictive, no longer discouraging the use of items (that often interact with the objects shown by Clairvoyance)
-- Remove range limitation *(was 64m)*
+- Removed range limitation *(was 64m)*
   - Somewhat sizable buff that most brings the power level of the perk to a similar level across all maps.
 
 
@@ -330,7 +330,7 @@ No change
 
 - In addition to revealing your Aura to the killer, reveal the Killer's aura to you for **5 seconds**
   - Helps with the goal of the perk which is to get the killer to chase you instead of the other survivors, allowing you to throw yourself in the killers face even if they tried to initially ignore you to tunnel.
-- Remove injured/dying requirement for stealth aspects
+- Now works on Healthy survivors
   - Allows you to assist healthy survivors that are death hook but were nearby as you saved (for instance due to a lack of communication as a result of low-party size), somewhat avoiding soft-tunnelling.
 
 
@@ -346,7 +346,7 @@ No change
 
 - Reveal the aura of the Survivor(s) who consumed a token until they finish their interaction.
   - Increases the strength of the Aura reveal providing more info on who is doing what passively.
-- Remove token limit
+- Removed token limit
   - Allows the user to store a large buffer of skill check improvement tokens that can be used even in a situation where they're left on hook.
 - Turns Failed Skill Checks into Good Skill Checks and grants non-Med-Kit Good Skill Checks an additional **1%** bonus progression
   - Greatly increases the viability of the perk and moves it from being primarily a new-player aid to an assistant across all skill levels, similar to Stake out but altruistic. Med-kit skill checks are specifically exempt to prevent balancing issues around Self-Healing and Suture type addons.
@@ -354,7 +354,7 @@ No change
 
 ## [Counterforce](<https://deadbydaylight.wiki.gg/wiki/Counterforce>) 📉 🗑️
 
-- Change Totem Aura reveal from farthest to nearest
+- Changed Totem Aura reveal from farthest to nearest
   - Significantly lessens travel time.
 - Increased Totem Aura reveal to **20 seconds** *(was 14)*
   - Minor number bump to make it easier to navigate to a totem, particularly on in-door maps.
@@ -364,7 +364,7 @@ No change
 
 ## [Cut Loose](<https://deadbydaylight.wiki.gg/wiki/Cut_Loose>) 📉 🗑️
 
-- Remove cooldown
+- Removed cooldown
   - Cooldown isn't particularly necessary because the chaining of the effect is lost after it's pre-existing timer expires and the effect isn't particulrarly strong.
 - Increased timer to **6/7/8** seconds *(was 4/5/6)*
   - Makes the timer a bit more forgiving, enabling chaining to be slightly more viable as the cost of unnecessarily incrementing window-entity-blocks is cost enough on it's own.
@@ -392,7 +392,7 @@ No change
 
 ## [Deadline](<https://deadbydaylight.wiki.gg/wiki/Deadline>) 📉 🗑️
 
-- Removed injured requirement
+- Now works while injured
   - Makes the perks more reasonably useful for the majority of the match.
 - Increased skill check trigger chance to **8/10/12%** *(was 6/8/10%)*
   - Noticeable strength increase to increase playrate of a low-tier perk.
@@ -445,7 +445,7 @@ No change
 
 - Additionally reveals the auras of the Hatch and Exit Gate Switches
   - Brings it closer in strength to Clairvoyance
-- Remove range limitation *(was 32/48/64m)*
+- Removed range limitation *(was 32/48/64m)*
   - Provides a minor strength increase to a very weak and heavily outclassed perk.
 - Increased duration to **30 seconds** *(was 20)*
   - Minor strength increase without stepping on the toes of Visionary
@@ -500,7 +500,7 @@ No changes
 
 ## [Empathy](<https://deadbydaylight.wiki.gg/wiki/Empathy>)
 
-- Remove injured/dying survivor range limitation
+- Removed range limitation
 - Shows the Aura of Survivor(s) in chase farther than **64/48/32 meters**
 
 
@@ -508,7 +508,7 @@ No changes
 
 - No longer only applies on Pallet stun, instead applying on all stuns.
   - Allows for more perk synergy
-- Recharges the Item by **+80/90/100%** *(was 75%)*
+- Recharges the Item by **80/90/100%** *(was 75%)*
   - Slight numbers buff to increase strength level
 - Removed cooldown *(was 30/25/20 seconds)*
   - Since stuns are such a low-frequency event, this effectively provides a minor numbers buff without much risk.
@@ -643,7 +643,7 @@ No change
 
 ## [Last Stand](<https://deadbydaylight.wiki.gg/wiki/Survivor_Perks>)
 
-- Reduce activation time to **80/70/60 seconds** *(was 120/105/90)*
+- Reduced activation time to **80/70/60 seconds** *(was 120/105/90)*
 
 
 ## [Leader](<https://deadbydaylight.wiki.gg/wiki/Leader>) 📉
@@ -661,8 +661,8 @@ No change
 
 ## [Light-Footed](<https://deadbydaylight.wiki.gg/wiki/Light-Footed>) 📉
 
-- Now suppresses your footsteps while Injured
-- Remove cooldown
+- Now works while injured
+- Removed cooldown
 
 
 ## [Lightweight](<https://deadbydaylight.wiki.gg/wiki/Lightweight>)
