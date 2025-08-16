@@ -46,3 +46,17 @@ We use the following emojis as shorthands to make it easier to view or opinions 
 | 🧑‍🤝‍🧑    | Abusable      | High potential to be abused in coordinated groups, particularly by high level players  |
 | 🔬    | Needs testing | Appreciable potential to be problematic (e.g. when comboed), requires playtesting      |
 | 💡    | Idea          | Just an early idea, not necessarily for implementation, and no balance promises        |
+
+
+## Styling
+
+In order to keep our changes as natural as possible, we do our best to format them familiarly. When describing an idea, we first try to mimic the official patch notes as much as possible (e.g. bolding numbers and their units and suffixing previous values in italics). Second we prioritize the [Wiki's style guide](https://deadbydaylight.wiki.gg/wiki/Dead_by_Daylight_Wiki:Style_guide), which provides explicit rules and guidelines to enhance consistency. Finally, we do our best to keep things consistent outside of the aforementioned wherever applicable.
+
+Let's use an example from a recent patch to demonstrate. If we want to lower the duration of insidious from it's previous 4/3/2 seconds to 3/2/1 seconds, the resulting change would be:
+- Decreased the time it takes to activate to **3/2/1 second** *(was 4/3/2)*
+
+Note there are two differences from the official patch notes here which are done for clarity:
+
+1. We don't prefix every change with that element's name (e.g. Insidious: is not on the line above that change), instead we use markdown headings for ease of viewing.
+
+2. We do not suffix changes with punctuation in-line, instead reserving end of line punctuation for sub-bullet notes. This makes it easier to identify that our notes are not the theoretical "patch notes".

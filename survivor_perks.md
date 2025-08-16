@@ -7,7 +7,7 @@
 
 or
 
-- Increase second slot maximum rarity from Uncommon to Rare
+- Increased second slot maximum rarity from Uncommon to Rare
   - Provides a slight increase in the average strength of items retrieved.
 
 
@@ -30,7 +30,7 @@ or
 
 or
 
-- Increase aura reveal duration to **10 seconds** *(was 5 seconds)*
+- Increased duration to **10 seconds** *(was 5 seconds)*
   - Numbers buff that extends the practical benefit of the perk, as previously nearly half the duration is simply showing the Survivor the killer's kick animation.
 
 
@@ -50,9 +50,9 @@ or
 
 ## [Appraisal](<https://deadbydaylight.wiki.gg/wiki/Appraisal>) 📉 🗑️
 
-- Increase action speed of unlocking in addition to rummaging
+- Increased action speed of unlocking in addition to rummaging
   - Makes the perk more universally useful when interacting with chests, lessening the imapct of completing a side-objective as required for the rest of the perk's functions.
-- Increase action speed bonus to **60/80/100%** *(was 40/60/80%)*
+- Increased action speed bonus to **60/80/100%** *(was 40/60/80%)*
   - Slight numbers buff increasing the speed benefit again to lessen the impact of going out of your way to complete a side objective.
 
 and either:
@@ -72,7 +72,7 @@ or
   - Allows gaining altruistic benefits from Self-Healing, without being fundamentally broken with uber-fast Self-Healing, removing the bar of only gaining tokens via Altruistic healing for another niche improvement.
 - Allow usage with Med-Kits
   - Straightforward removal of one of the perk downsides to increase it's overall viability and opportunities for synergy.
-- Adjust skillcheck healing progress by token to: **0/10/20/30/40/60%** per stack (was -15/0/15/30/45/60%)
+- Adjust skillcheck healing progress by token to: **0/10/20/30/40/60%** per stack *(was -15/0/15/30/45/60%)*
   - Slight numbers buff avoiding the awkward situation where the first Autodidact skill check could potentially cause a teammate's heal to be incomplete because of the -15% progress, removing an artifical downside aside from the inability to hit great skill checks.
 
 
@@ -101,11 +101,11 @@ or
 
 ## [Bardic Inspiration](<https://deadbydaylight.wiki.gg/wiki/Bardic_Inspiration>) 📉 🗑️ 🔬
 
-- Remove range limitation *(was 16 meters)*
+- Removed range limitation *(was 16 meters)*
   - Allows the perk to have a global rather than localized effect, making it somewhat an opposing counterpart to Prove Thyself
 - Reduce cooldown to **52/44/36 seconds** *(was 110/100/90)*
   - Allows for the strategic gambling of getting a higher roll, without making getting a low roll instantly cause you to re-roll on repeat.
-- Increase skillcheck trigger chance by **0/1/2/3%** based on roll
+- Now increases skillcheck trigger chance by **0/1/2/3%** based on roll
   - Increases the overall strength of the perk, hopefully not too much.
 
 
@@ -129,7 +129,7 @@ or
   - Thematic added effects to slightly increase the strength level of a weak perk.
 - Only suppresses the above and existing effects from the Killer
   - Ensures that the benefits of the perk don't incidentally make it more difficult to be healed by a teammate.
-- Increase penalty reduction to **2/1/0%** *(was 3/2/1%)*
+- Increased penalty reduction to **2/1/0%** *(was 3/2/1%)*
   - Slight number buff on an already very weak perk.
 - Failing skill checks no longer pauses healing progress
   - Another slight buff, introducing a new function on an already very weak perk.
@@ -175,11 +175,11 @@ or
 
 - Grants the ability for all Survivors to read the Auras of all Hooks within **16 meters** of the carried Survivor
   - Adds an info effect to the perk.
-- Increases the Sabotage speed of Survivor(s) within **16 meters** by **15%**
+- Now increases the Sabotage speed of Survivor(s) within **16 meters** by **15%**
   - Plays further into the idea of it being a "come and help me perk", making it viable to encourage sabo-teamplay without overshadowing Saboteur.
 - Allows the Survivor to control the direction of the killer's wiggle strafes
   - Adds a unique wiggle effect that plays into the theme of the perk, while accomodating for the nerf below in a way that hopefully makes the perk more consistent across maps without feeling too cheesy or weak.
-- Remove 33% wiggle progression penalty when falling from a height
+- Removed **33%** wiggle progression penalty when falling from a height
   - This was an unhealthy portion of the perk that fundamentally relied on sort of cheesy map abuse to see proper value, in general only receiving value when there's little to no counterplay from the Killer side.
 
 
@@ -200,13 +200,13 @@ or
   - Generally increasing viability of the perk by removing a situation where it previously made no difference.
 - Remove injured predicate on aura reveal
   - Provides the opportunitiy for an injured survivor to navigate directly to a healthy player with a healing build within a boon for an extremely fast multi-person reset.
-- Increase altruistic healing speed bonus to **150%** *(from 100%)*
+- Increased altruistic healing speed bonus to **150%** *(from 100%)*
   - Numbers buff to increase the general viability of the perk, offsetting the time loss of traversing into the Boon's range.
 
 
 ## [Boon: Dark Theory](<https://deadbydaylight.wiki.gg/wiki/Boon:_Dark_Theory>) 📉 🗑️
 
-- Increase linger duration to **2/4/6 seconds** *(from 2/3/4)*
+- Increased duration to **2/4/6 seconds** *(from 2/3/4)*
   - Slight numbers buff to a low playrate perk without much risk for abuse.
 
 
@@ -220,9 +220,9 @@ or
 
 - Additionally highlight the Auras of Totems, Exit Gate Switches, and other Survivors
   - Slight increase to the number of tracked auras for a slight info improvement.
-- Increase Action speed bonus for Cleansing to **25%** *(was 10%)*
+- Increased bonus Totem cleansing speed to **25%** *(was 10%)*
   - Increases the ability to use Illumination as an anti-Hex boon.
-- Increase Action speed bonus for Blessing to **100%** *(was 10%)*
+- Increased bonus Totem blessing speed to **100%** *(was 10%)*
   - Makes moving your Boon around to a more fitting environment significantly less punishing and much more viable to do on repeat
 - Effect lingers for **2/4/6 seconds** after leaving the Boon Totem's range
   - Makes it slightly easier to navigate to objectives outside of the Boon's range, more quality of life but technically a slight buff.
@@ -232,7 +232,7 @@ or
 
 - Suppresses the sound of footsteps and prevents loud noise notifications from triggering
   - Plays further into the stealth concept of the perk while allowing quiet resets even if someone misses a skill check.
-- Increase linger duration to **2/4/6 seconds** *(from 2/3/4)*
+- Increased duration to **2/4/6 seconds** *(from 2/3/4)*
   - Slight numbers buff to a low playrate perk without much risk for abuse.
 
 
@@ -243,7 +243,7 @@ or
 
 or
 
-- Increase Haste & Endurance effect to **11/13/15 seconds** *(was 6/8/10)*
+- Increased Haste & Endurance effect to **11/13/15 seconds** *(was 6/8/10)*
   - Sizable numbers buff to increase the viability of the perk in a post-basekit-BT world.
 - Use the Activate ability button to grant the unhooker 15 seconds of Endurance once per match (incompatible with Shoulder the Burden)
   - Enables the same ability from our preferred buff but in a much more limited capacity, with the benefit of it being usable in endgame. This also disallows use with shoulder in this case, meaning you can't get free endurance AND take the survivors health state at the very end of the game.
@@ -251,7 +251,7 @@ or
 
 ## [Botany Knowledge](<https://deadbydaylight.wiki.gg/wiki/Botany_Knowledge>) 🔬 💡
 
-- Increase altruistic Healing speed to **35/65/75%** *(was 30/40/50%)*, Self-Healing speed remains the same.
+- Increased altruistic Healing speed to **35/65/75%** *(was 30/40/50%)*, Self-Healing speed remains the same.
   - Buff to the altruistic aspect of the perk without risking self-healing becoming too oppressive.
 
 
@@ -265,7 +265,7 @@ or
 
 ## [Breakout](<https://deadbydaylight.wiki.gg/wiki/Breakout>) 📉
 
-- Increase range to **6 meters** *(was 5)*
+- Increased range to **6 meters** *(was 5)*
   - Mild buff to make the perk slightly safer, particularly in scenarios where the players invovled have a poor connection or Agitation is in play. This change partially reverts the one in 7.1.0.
 
 
@@ -290,7 +290,7 @@ No change
 
 ## [Camaraderie](<https://deadbydaylight.wiki.gg/wiki/Camaraderie>) 📉
 
-- Increase range to **24 meters** *(was 16)*
+- Increased range to **24 meters** *(was 16)*
   - Makes it possible for survivors to activate it from safely outside of AFC range where a proxy-camping killer is likely to reside on the border of.
 - Decreased pause time to **22/26/30 seconds** *(was 26/30/34)*
   - Slight duration nerf with cleaner numbers to accomodate for the following larger buff.
@@ -328,7 +328,7 @@ No change
 
 ## [Come and Get Me!](<https://deadbydaylight.wiki.gg/wiki/Come_and_Get_Me!>) 📉 🗑️
 
-- In addition to revealing your Aura to the killer, reveal the Killer's aura to you for 5 seconds.
+- In addition to revealing your Aura to the killer, reveal the Killer's aura to you for **5 seconds**
   - Helps with the goal of the perk which is to get the killer to chase you instead of the other survivors, allowing you to throw yourself in the killers face even if they tried to initially ignore you to tunnel.
 - Remove injured/dying requirement for stealth aspects
   - Allows you to assist healthy survivors that are death hook but were nearby as you saved (for instance due to a lack of communication as a result of low-party size), somewhat avoiding soft-tunnelling.
@@ -348,7 +348,7 @@ No change
   - Increases the strength of the Aura reveal providing more info on who is doing what passively.
 - Remove token limit
   - Allows the user to store a large buffer of skill check improvement tokens that can be used even in a situation where they're left on hook.
-- Turns Failed Skill Checks into Good Skill Checks and grants non-Med-Kit Good Skill Checks an additional 1% bonus progression
+- Turns Failed Skill Checks into Good Skill Checks and grants non-Med-Kit Good Skill Checks an additional **1%** bonus progression
   - Greatly increases the viability of the perk and moves it from being primarily a new-player aid to an assistant across all skill levels, similar to Stake out but altruistic. Med-kit skill checks are specifically exempt to prevent balancing issues around Self-Healing and Suture type addons.
 
 
@@ -356,9 +356,9 @@ No change
 
 - Change Totem Aura reveal from farthest to nearest
   - Significantly lessens travel time.
-- Increase Totem Aura reveal to **20 seconds** *(was 14)*
+- Increased Totem Aura reveal to **20 seconds** *(was 14)*
   - Minor number bump to make it easier to navigate to a totem, particularly on in-door maps.
-- Increase default Cleansing speed to **150%** *(was 125%)*
+- Increased default Cleansing speed to **150%** *(was 125%)*
   - Minor number bump to increase the perk's overall strength slightly.
 
 
@@ -366,7 +366,7 @@ No change
 
 - Remove cooldown
   - Cooldown isn't particularly necessary because the chaining of the effect is lost after it's pre-existing timer expires and the effect isn't particulrarly strong.
-- Increase timer to **6/7/8** seconds *(was 4/5/6)*
+- Increased timer to **6/7/8** seconds *(was 4/5/6)*
   - Makes the timer a bit more forgiving, enabling chaining to be slightly more viable as the cost of unnecessarily incrementing window-entity-blocks is cost enough on it's own.
 
 
@@ -378,9 +378,9 @@ No change
 
 ## [Dark Sense](<https://deadbydaylight.wiki.gg/wiki/Dark_Sense>) 📉 🗑️
 
-- Decrease range to **16 meters** *(was 24)*
+- Decreased range to **16 meters** *(was 24)*
   - Increases the skill range where this perk is still reasonably useful.
-- Increase Aura Reveal to **8/10/12 seconds** *(was 5/7/10)*
+- Increased Aura Reveal to **8/10/12 seconds** *(was 5/7/10)*
   - Mild numbers increase to increase the strength of a low strength perk.
 
 
@@ -394,9 +394,9 @@ No change
 
 - Removed injured requirement
   - Makes the perks more reasonably useful for the majority of the match.
-- Increase skill check trigger chance to **8/10/12%** *(was 6/8/10%)*
+- Increased skill check trigger chance to **8/10/12%** *(was 6/8/10%)*
   - Noticeable strength increase to increase playrate of a low-tier perk.
-- Decrease penalty for missed skilled skill checks to **75%** *(was 50%)*
+- Decreased penalty for missed skilled skill checks to **75%** *(was 50%)*
   - Minor number change to incentivize using the perk by making the added skill check difficulty less penalizing.
 
 
@@ -410,7 +410,7 @@ No change
 
 - Timer no longer decreases in chase
   - Prevents the survivor from being punished for peforming well in chase
-- Decrease timer to **30 seconds** *(was 60)*
+- Decreased timer to **30 seconds** *(was 60)*
   - This prevents the killer from being punished for chasing and downing another survivor, and then stumbling back upon you 30-60 second later and being punished for it
 
 
@@ -426,10 +426,10 @@ No change
   - Prevents loss conditions outside of the killer's control.
 - Disabled for the remainder of the trial after being unhooked
   - Simply a visual improvement because as of right now it displays active even when the perk is unusable.
-- Increase broken status effect to 120 seconds
+- Increased broken status effect to **140/130/120 seconds** *(was 100/80/60)*
   - Number change to offset the strength of the perk.
-- Receive 10% Hinder for 10 seconds on Self-Unhook
-  - Counters basekit BT's Haste 10% effect
+- Receive **10% Hinder** for **10 seconds** on Self-Unhook
+  - Effectively removes basekit BT's 10% Haste effect
 - While unhooking another Survivor without any hook states, scream after completing the unhook action
   - Allows other players to identify the perk has been activated, similar to Shoulder the Burden.
 - Unique animation or visual effect for the Survivor on Hook if the perk is active and they are in the Summoning Phase.
@@ -445,9 +445,9 @@ No change
 
 - Additionally reveals the auras of the Hatch and Exit Gate Switches
   - Brings it closer in strength to Clairvoyance
-- Remove range limitation (was 32/48/64m)
+- Remove range limitation *(was 32/48/64m)*
   - Provides a minor strength increase to a very weak and heavily outclassed perk.
-- Increase aura reveal duration to 30 seconds (was 20)
+- Increased duration to **30 seconds** *(was 20)*
   - Minor strength increase without stepping on the toes of Visionary
 
 
@@ -471,7 +471,7 @@ No change
 
 ## [Do No Harm](<https://deadbydaylight.wiki.gg/wiki/Do_No_Harm>) 📉 💡
 
-- Increase altruistic healing speed by **40/50/60%** *(was 30/40/50%)*, up to a maximum of **60/80/100%**.
+- Increased altruistic healing speed by **40/50/60%** *(was 30/40/50%)*, up to a maximum of **60/80/100%**.
   - Increases low-stage healing progression while maintaining the same strength late game to prevent it from overshadowing other perks or becoming too oppressive.
 
 
@@ -487,9 +487,9 @@ No change
 
 - No longer provides Haste to all survivors within a set range, instead providing Haste to the Survivor(s) that were protected by the Protection Hit.
   - Prevents the Haste from being given to Survivor(s) other than those getting hit tanked for.
-- Reduced duration of Haste effect to **1/2/3 seconds** *(was 4/5/6)*
+- Reduced duration to **1/2/3 seconds** *(was 4/5/6)*
   - Reduces the strength of the perk, combined with the below change this is intended to make the perk a lot more healthy and less unfun to go against.
-- Now provides the Survivor who takes the Protection Hit with Duty of Care **25%** Haste for **1/2/3 seconds** as well.
+- Now provides the Survivor who takes the Protection Hit with Duty of Care **25% Haste** for **1/2/3 seconds** as well.
   - Allows for hit-tanking survivor to take the hit and then safely escape after doing so.
 
 
@@ -518,11 +518,11 @@ No changes
 
 ## [Eyes of Belmont](<https://deadbydaylight.wiki.gg/wiki/Eyes_of_Belmont>) 📉 🗑️
 
-- Increase Aura reveal duration to **3/4/5 seconds** *(was 1/2/3)*
+- Increased duration to **3/4/5 seconds** *(was 1/2/3)*
   - Slight numbers buff to increase perk strength
 - Additionally trigger Aura reveal at the start of the Trial
   - Already known as "Lethal for survivors", this makes that actually true and provides early game utility.
-- Increase Aura reveal duration extension to **3 seconds** *(was 2)*
+- Increased extension to **3 seconds** *(was 2)*
   - Numbers buff to increase perk strength
 
 
@@ -530,8 +530,8 @@ No changes
 
 - No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button and the Tokens are applied after repairing for **8 seconds**
   - Makes the perk less RNG dependent and allows the Survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
-- 1 Token per hook, effective max of 9
-- 6% per token
+- **1 Token** per hook, up to a maximum of **9 Tokens**
+- Increased bonus Progression to **6%** per Token
 
 ## [Finesse](<https://deadbydaylight.wiki.gg/wiki/Finesse>)
 
@@ -543,7 +543,7 @@ No change
 No change
 
 
-## [Flashbang](<https://deadbydaylight.wiki.gg/wiki/Flashbang>)
+## [Flashbang](<https://deadbydaylight.wiki.gg/wiki/Flashbang>) 🗑️
 
 - Instead of activating after repairing Generators, gain **1 Token**
 - Entering a locker and pressing the Active Ability button crafts a Flash Grenade
@@ -554,16 +554,16 @@ No change
 No change
 
 
-## [Fogwise](<https://deadbydaylight.wiki.gg/wiki/Fogwise>)
+## [Fogwise](<https://deadbydaylight.wiki.gg/wiki/Fogwise>) 📉 🗑️
 
 - Triggers on all Great Skill Checks not only Generator repair skill checks.
-- Increased Aura reveal duration to **6/8/10 seconds**.
+- Increased duration to **6/8/10 seconds**.
 
 
 ## [For the People](<https://deadbydaylight.wiki.gg/wiki/For_the_People>) 📉 🧑‍🤝‍🧑
 
 - No longer requires the Survivor to be healing without using a Med-Kit
-  - Simplifies the perk
+  - QoL: Makes it easier to
 - Heals to full health regardless of deep wound state
   - Simplifies the perk
 - Removed intiial Obsession chance reduction
@@ -572,15 +572,15 @@ No change
 
 ## [Friendly Competition](<https://deadbydaylight.wiki.gg/wiki/Friendly_Competition>) 📉 🗑️
 
-- Increas Repair speed bonus to 10%
-- Increase duration to 70/80/90 seconds
+- Increased Repair speed bonus to **10%** *(was 5%)*
+- Increased duration to **70/80/90 seconds** *(was 45/60/75)*
 - Now applies to yourself and separately other Survivor(s) who are working on the Generator with you at the time of it's completion, allowing you to gain the Repair speed bonus without working on a Generator with another Survivor.
 
 
-## [Hardened](<https://deadbydaylight.wiki.gg/wiki/Hardened>)
+## [Hardened](<https://deadbydaylight.wiki.gg/wiki/Hardened>) 📉
 
 - Changed activiation to either opening a Chest, or blessing-or-cleansing a Totem
-- Increase Aura reveal duration to **6/8/10 seconds** *(was 3/4/5)*
+- Increased duration to **6/8/10 seconds** *(was 3/4/5)*
 
 
 ## [Head On](<https://deadbydaylight.wiki.gg/wiki/Head_On>)
@@ -592,7 +592,7 @@ No change
 
 - Visual indicator on players that have the perk active
   - Allows the killer to identify tha it's in play
-- Deactivates for 30 seconds after losing a Health state
+- Deactivates for **30 seconds** after losing a Health state
   - Enables the killer to reasonably take the risk of chasing a Hope user, similar to Finesse, and makes it realistic to continue chasing after getting your first hit. Also incentivizes attacking the Hope user with ranged and high mobility powers.
 
 
@@ -604,11 +604,11 @@ No change
 - No longer lose all Tokens when the interaction is interrupted, instead lose **-1 Token** and then **-1 Token** every **3 seconds** afterwards.
 
 
-## [Inner Focus](<https://deadbydaylight.wiki.gg/wiki/Inner_Focus>)
+## [Inner Focus](<https://deadbydaylight.wiki.gg/wiki/Inner_Focus>) 📉
 
-- No longer requires Health state loss to be a result of the Killer
+- No longer requires Health state loss to be the result of the Killer
 - Additionally reveals the Aura of the Survivor who lost the Health State
-- Increase duration to **16/18/20 seconds** *(was 6/8/10 seconds)*
+- Increased duration to **16/18/20 seconds** *(was 6/8/10)*
 
 
 ## [Inner Strength](<https://deadbydaylight.wiki.gg/wiki/Inner_Strength>)
@@ -616,18 +616,18 @@ No change
 - Fully heals instead of Healing one health state, meaning you're always set to Healthy not healed from Deep Wound
 
 
-## [Invocation: Treacherous Crows](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Treacherous_Crows>)
+## [Invocation: Treacherous Crows](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Treacherous_Crows>) 📉
 
 - Decreased broken duration to **120 seconds** *(was permanent)*
 - Completing the Inovation applies the effects from all Invocation perks of Survivor(s) participating
-- Increase acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
+- Increased acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
 
 
-## [Invocation: Weaving Spiders](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Weaving_Spiders>)
+## [Invocation: Weaving Spiders](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Weaving_Spiders>) 📉
 
 - Decreased broken duration to **120 seconds** *(was permanent)*
 - Completing the Inovation applies the effects from all Invocation perks of Survivor(s) participating
-- Increase acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
+- Increased acceleration bonus to **150%** and **100%** *(was 100% and 50%)*
 - Increased charge reduction to **8/10/12 Charges** *(was 8/9/10)*
 
 
@@ -646,19 +646,20 @@ No change
 - Reduce activation time to **80/70/60 seconds** *(was 120/105/90)*
 
 
-## [Leader](<https://deadbydaylight.wiki.gg/wiki/Leader>)
+## [Leader](<https://deadbydaylight.wiki.gg/wiki/Leader>) 📉
 
-- Increase range to **16 meters** *(was 8)*
-
-
-## [Left Behind](<https://deadbydaylight.wiki.gg/wiki/Left_Behind>) 😷
-
-- Reveals the Aura of Survivor(s) in Exit Gates
-- Reveals your Aura to Survivor(s) in Exit Gates
-- Reveal the Aura of the Hatch to you after another Survivor has Escaped
+- Increased range to **16 meters** *(was 8)*
 
 
-## [Light-Footed](<https://deadbydaylight.wiki.gg/wiki/Light-Footed>)
+## [Left Behind](<https://deadbydaylight.wiki.gg/wiki/Left_Behind>) 📉 😷
+
+- Now activates once the Exit Gates are powered *(was once you are the Last Survivor Standing)*
+- Now reveals the auras of Survivors within the exit gates to you
+- Now reveals your aura to Survivors within the exit gates
+- Now reveals the Aura of the Hatch to you after another Survivor has Escaped *(was within 24/28/32 meters)*
+
+
+## [Light-Footed](<https://deadbydaylight.wiki.gg/wiki/Light-Footed>) 📉
 
 - Now suppresses your footsteps while Injured
 - Remove cooldown
