@@ -43,6 +43,11 @@ During the final portion (e.g. 10-20 seconds) of each hook stage, the other-surv
 Modify the normal 7-second grace period based on the average progression of the anti-camp meter per hook stage.
 
 
+### Tie running grunts to grunts of pain
+
+There is an additional sound layer to players running called "running grunts" that begin playing after sprinting continuously for ~5 steps. Currently there is nothing that effects the existence nor volume of these. Tying the volume of Running Grunts to the Grunts of Pain adjustments done by Iron Will, Off the Record, Stridor, etc. would provide these otherwise injured-only effects a more general minor benefit.
+
+
 ## UI
 
 ### Mid-match text chat

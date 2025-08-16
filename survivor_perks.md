@@ -157,8 +157,6 @@ or
 
 - No longer deactivates on Conspicuous Action
   - Allows you to heal yourself and work on objectives shortly after being unhooked while still maintaining your suboptimal anti-tunnel.
-- Activating blood rush maintains your current Exhausted percentage while allowing you to activate an exhaustion perk
-  - Enables tactical 99ing of exhaustion perks alongside Blood Rush, rather tha discouraging it.
 
 and either:
 
@@ -226,6 +224,8 @@ or
   - Makes moving your Boon around to a more fitting environment significantly less punishing and much more viable to do on repeat
 - Effect lingers for **2/4/6 seconds** after leaving the Boon Totem's range
   - Makes it slightly easier to navigate to objectives outside of the Boon's range, more quality of life but technically a slight buff.
+- Auras revealed by Boon: Illumination are tracked, and will be revealed even if the boon is relocated and they're no longer in range. Tracked Auras are reset on snuff.
+  - Self-synergy with the bonus to blessing speed, incentivizing moving your boon by blessing different totems before it's been snuffed out. *Credit to [SubZeroIV](https://www.twitch.tv/SubZeroIV ) for the idea.*
 
 
 ## [Boon: Shadow Step](<https://deadbydaylight.wiki.gg/wiki/Boon:_Shadow_Step>) 📉 🗑️
@@ -239,7 +239,7 @@ or
 ## [Borrowed Time](<https://deadbydaylight.wiki.gg/wiki/Borrowed_Time>) 📉 🗑️
 
 - Grants the unhooker **10 seconds** of Endurance (only before exit gates have been powered)
-  - Converts BT into an altruistic Anti-Camp perk pre-endgame denying a free 1 for 1 by proxy camping killers. Disproportionately affects killers who wouldn't have triggered AFC (Anti-Facecamp) which are primarily high tiers.
+  - Converts BT into an altruistic Anti-Camp perk pre-endgame denying a free 1 for 1 by proxy camping killers. Disproportionately affects killers who wouldn't have triggered AFC (Anti-Facecamp) which are primarily high tiers. Keep in mind this only effectively guarantees that the hit after an unhook will hit a player with Endurance, which can also be accomplished reliably by running Resilience instead, as the 9% difference provides enough time for the unhooker and unhooked survivors to sprint towards each other before the killer can swing a second time.
 
 or
 
@@ -298,7 +298,7 @@ No change
   - This does substantially benefit the perk but also takes it more in line with Reassurance, effectively making the trade-off that it's only usable on you but can be used on both stages over being able to be used altruistically.
 
 
-## [Champion of Light](<https://deadbydaylight.wiki.gg/wiki/Champion_of_Light>) 📉
+## [Champion of Light](<https://deadbydaylight.wiki.gg/wiki/Champion_of_Light>)
 
 - Decreased cooldown to **40/30/20 seconds** *(was 60/50/40)*
   - Slight number buff to enable more active use in chase without changing the power level of the perk too much.
@@ -591,9 +591,11 @@ No change
 - Increased duration to **6/8/10 seconds** *(was 3/4/5)*
   - Significant numbers buff to increase the perk's strength
 
+
 ## [Head On](<https://deadbydaylight.wiki.gg/wiki/Head_On>)
 
-No change
+- The Aura of the Locker your in is revealed in yellow to teammates within **16 meters**
+  - Makes the perk more viable in low party sizes and easier to coordinate overall.
 
 
 ## [Hope](<https://deadbydaylight.wiki.gg/wiki/Hope>) 😷
@@ -657,9 +659,10 @@ No change
 No change
 
 
-## [Kindred](<https://deadbydaylight.wiki.gg/wiki/Kindred>)
+## [Kindred](<https://deadbydaylight.wiki.gg/wiki/Kindred>) 💡
 
-No change
+- Killer Aura reveal now lingers for **2/4/6 seconds** after the killer exits the aura reveal range.
+  - Increases the strength of the perk, punishing proxy camping and bringing up it's low strength in the context of SWFs where the majority of the perk serves little to no purpose. Additionally, this would function as a reasonable buff to accomodate the [partially basekit kindred change](misc.md#partially-basekit-kindred).
 
 
 ## [Last Stand](<https://deadbydaylight.wiki.gg/wiki/Survivor_Perks>)
@@ -700,6 +703,57 @@ No change
   - Makes it slightly more difficult to effectively track players around corners, through doorways, and at cross-roads.
 
 
-## [Lithe](<https://deadbydaylight.wiki.gg/wiki/Lithe>)
+## [Lithe](<https://deadbydaylight.wiki.gg/wiki/Lithe>) 💡
 
-No change
+- No longer activates on Medium vaults
+  - This would be a trade-off, this gives you a faster-than-slow vault that won't trigger the Haste effect, while also meaning if you intended to fast vault and medium vaulted instead, you don't receive the benefits. This should somewhat increase the skill floor and ceiling of the perk slightly.
+
+
+## [Low Profile](<https://deadbydaylight.wiki.gg/wiki/Low_Profile>) 📉
+
+- Now allows survivors within **8 meters** to fully recover from the dying state.
+  - Shifts the perk to an altruistic anti-slug purpose rather than a selfish stealth purpose.
+- Now deactivates as soon as you are no longer the only incapacitated Survivor
+  - Prevents the perk from being abused in combination with other anti-slug perks and limits the strength of the stealth aspect when the above function is used.
+
+
+## [Lucky Break](<https://deadbydaylight.wiki.gg/wiki/Lucky_Break>) 📉 🧑‍🤝‍🧑
+
+- No longer decreases the timer while standing still, being healed, or healing.
+  - Stops the timer from decreasing while you aren't generating any scratch marks regardless. Doesn't allow you to use it as a stealthy prerun gen perk deliberately.
+- Now recharges one second per charge healed *(was per second healed)*
+  - Enables synergy with healing perks to speed up altruistic heals.
+
+
+## [Lucky Star](<https://deadbydaylight.wiki.gg/wiki/Lucky_Star>) 📉 🗑️
+
+- Removed cooldown *(was 40/35/30 seconds)
+
+
+## [Made for This](<https://deadbydaylight.wiki.gg/wiki/Made_for_This>)
+
+No changes
+
+
+## [Mettle of Man](<https://deadbydaylight.wiki.gg/wiki/Mettle_of_Man>) 📉 🗑️ 🧑‍🤝‍🧑
+
+- Now works while healthy
+  - Enables use against instadown killers.
+- No longer reveals your Aura
+  - Removes punishment for using your own perk.
+- Now deactivates upon taking your shielded-hit
+  - Allows you to begin progress towards another shield-hit immediately.
+- No longer increases your chance of becoming the Obsession
+  - Minor buff by removing an odd down-side. Also indirect nerf to DS, by making the Obsession indicator slightly more likely to simply mean "DS".
+
+
+## [Mirrored Illusion](<https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion>)
+
+- Instead of activating after repairing Generators, gain **1 Token**
+  - Allows you to bank multiple tokens and apply multiple illusions simultaneously, as well as progress towards another illusion while one is still active.
+- Pressing the Active Ability button now consumes **-1 Token** when spawning a Static Illusion
+  - Changed Active Ability button to use the new token-based system from the change above.
+- Now suppresses screams while interacting with a prop with a Static Illusion placed on it
+  - Enables stealthing within the illusion.
+- Increased duration to **100/110/120 seconds** *(was 40/50/60)
+  - Numbers buff reverting this nerf from [8.2.0](https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion#Patch_8.2.0)
