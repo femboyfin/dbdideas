@@ -14,7 +14,7 @@ or
 ## [Adrenaline](<https://deadbydaylight.wiki.gg/wiki/Adrenaline>) 😷 💪
 
 - Remove the Haste bonus and Exhausted status effect
-  - Lowers the strength level by removing it's secondary effect. Also removes one of the stronger feast or famine aspects by making it impossible to use as an Unbreakable + Sprint Brust combo on it's own.
+  - Lowers the strength level by removing it's secondary effect. Also removes one of the stronger feast or famine aspects by making it impossible to use as an Unbreakable + Sprint Burst combo on it's own.
 
 
 ## [Aftercare](<https://deadbydaylight.wiki.gg/wiki/Aftercare>) 📉 🗑️

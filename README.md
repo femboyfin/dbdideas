@@ -40,7 +40,7 @@ We use the following emojis as shorthands to make it easier to view or opinions 
 | Emoji | Name          | Description                                                                            |
 |-------|---------------|----------------------------------------------------------------------------------------|
 | 📉    | Low pick rate | In the lower two thirds of pick rate according to [NightLight](https://nightlight.gg/) |
-| 😷    | Unhealthy     | See definition under the [Methodlogy](#Methodlogy)                                     |
+| 😷    | Unhealthy     | See definition under the [Methodology](#Methodology)                                     |
 | 💪    | Too strong    | Extremely powerful without a need for comboing                                         |
 | 🗑️    | Too weak      | Either overall low strength or outclassed by similar stronger elements                 |
 | 🧑‍🤝‍🧑    | Abusable      | High potential to be abused in coordinated groups, particularly by high level players  |
