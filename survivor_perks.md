@@ -271,7 +271,7 @@ or
 
 ## [Buckle Up](<https://deadbydaylight.wiki.gg/wiki/Buckle_Up>) 📉
 
-No change.
+No changes.
 
 
 ## [Built to Last](<https://deadbydaylight.wiki.gg/wiki/Built_to_Last>)
@@ -401,10 +401,11 @@ No change.
 
 
 ## [Deception](<https://deadbydaylight.wiki.gg/wiki/Deception>) 📉 🗑️
-<!-- todo: add reasoning -->
 
 - Suppress Grunts of Pain as well
+  - Minor buff to help with the trickery aspect, prevents your grunts from giving away youre not in the locker.
 - Instead of attempting to rush-enter the locker to activate, instead use an Activate Ability button.
+  - Makes the action more deliberate, ensuring the perk doesn't accidentally become detrimental in situations where you wanted to fast enter a locker.
 
 
 ## [Decisive Strike](<https://deadbydaylight.wiki.gg/wiki/Decisive_Strike>) 😷 💪
@@ -439,7 +440,7 @@ No change.
 
 ## [Desperate Measures](<https://deadbydaylight.wiki.gg/wiki/Desperate_Measures>)
 
-No change.
+No changes.
 
 
 ## [Detective's Hunch](<https://deadbydaylight.wiki.gg/wiki/Detective%27s_Hunch>) 📉 🗑️
@@ -502,7 +503,9 @@ No changes.
 ## [Empathy](<https://deadbydaylight.wiki.gg/wiki/Empathy>)
 
 - Removed range limitation.
+  - Slightly increases the strength while removing map variance caused by extremely large maps.
 - Shows the Aura of Survivor(s) in chase farther than **64/48/32 meters**
+  - Moves Empathy to a more altruistic perk, allowing you to set up to be in a position to heal/save/hit tank, etc. for a teammate who's going to imminently be injured.
 
 
 ## [Exultation](<https://deadbydaylight.wiki.gg/wiki/Exultation>) 📉 🗑️
@@ -528,22 +531,23 @@ No changes.
 
 
 ## [Fast Track](<https://deadbydaylight.wiki.gg/wiki/Fast_Track>) 📉 🗑️
-<!-- todo: add reasoning -->
 
 - No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button and the Tokens are applied after repairing for **8 seconds**
   - Makes the perk less RNG dependent and allows the Survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
-- **1 Token** per hook, up to a maximum of **9 Tokens**
-- Increased bonus Progression to **6%** per Token
+- **1 Token** *(was 1/2/3)* per hook, up to a maximum of **9 Tokens** *(was 9/18/27)*
+  - To make the perk slightly more intuitive, we're moving the level variation to the  % per stack which is functionally identical. 1 stack for 1/2/3% at level 3 = 1/2/3% per stack, 1/2/3 stacks for 1% at level 3 is also 3%.
+- Increased bonus Progression to **4/5/6%** per Token *(was 1%)*
+  - In addition to moving the level variation to the progression %, we've also given it a numbers buff to increase it's strength. We want Fast Track to function as a 3-gen breaker/comeback mechanic, this should make it significantly more viable for these purposes.
 
 
 ## [Finesse](<https://deadbydaylight.wiki.gg/wiki/Finesse>)
 
-No change.
+No changes.
 
 
 ## [Fixated](<https://deadbydaylight.wiki.gg/wiki/Fixated>)
 
-No change.
+No changes.
 
 
 ## [Flashbang](<https://deadbydaylight.wiki.gg/wiki/Flashbang>) 🗑️
@@ -556,7 +560,7 @@ No change.
 
 ## [Flip-Flop](<https://deadbydaylight.wiki.gg/wiki/Flip-Flop>) 📉
 
-No change.
+No changes.
 
 
 ## [Fogwise](<https://deadbydaylight.wiki.gg/wiki/Fogwise>) 📉 🗑️
@@ -659,7 +663,7 @@ No change.
 
 ## [Iron Will](<https://deadbydaylight.wiki.gg/wiki/Iron_Will>)
 
-No change.
+No changes.
 
 
 ## [Kindred](<https://deadbydaylight.wiki.gg/wiki/Kindred>) 💡
@@ -731,7 +735,7 @@ No change.
 ## [Lucky Star](<https://deadbydaylight.wiki.gg/wiki/Lucky_Star>) 📉 🗑️
 
 - Removed cooldown *(was 40/35/30 seconds)
-
+  - Increases viability. Can now be reasonably synergized with Vigil and Head On as well.
 
 ## [Made for This](<https://deadbydaylight.wiki.gg/wiki/Made_for_This>)
 
