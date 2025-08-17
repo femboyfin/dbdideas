@@ -19,7 +19,7 @@ or
 
 ## [Aftercare](<https://deadbydaylight.wiki.gg/wiki/Aftercare>) 📉 🗑️
 
-- Once you are hooked, stop revealing the auras of the **2** longest revealed Survivor(s) *(was stop revealing all revealed Survivor(s))
+- Once you are hooked, stop revealing the auras of the **2** longest revealed Survivor(s) *(was stop revealing all revealed Survivor(s))*
   - Increases the consistency of the perk providing even more value in low-party-size situations.
 
 
@@ -79,12 +79,12 @@ or
 ## [Babysitter](<https://deadbydaylight.wiki.gg/wiki/Babysitter>) 📉
 
 - Suppress Grunts of Pain in addition to Scratch Marks and Pools of Blood
-  - Secondary still-thematic effects that synergize well with the perks perfect while not making it [too powerful](<https://deadbydaylight.wiki.gg/wiki/Babysitter#Patch_9.0.0).
+  - Secondary still-thematic effects that synergize well with the perks perfect while not making it [too powerful](<https://deadbydaylight.wiki.gg/wiki/Babysitter#Patch_9.0.0>).
 
 
 ## [Background Player](<https://deadbydaylight.wiki.gg/wiki/Background_Player>) *🗑️ (for Exhaustion)*
 
-- Changed activation condition to pressing an Active Ability button while a Survivor is being carried
+- Changed activation condition to pressing an Activate Ability button while a Survivor is being carried
   - Prevents accidental activations and allows more thoughtful gameplay for one of the less-used Exhaustion perks.
 
 or
@@ -554,8 +554,8 @@ No changes.
 
 - Instead of activating after repairing Generators, gain **1 Token**
   - Removes the need to stop repairing and go to the nearest locker immediately to get your flashbang, letting you bank tokens to retrieve a flashbang per 40% repaired.
-- Entering a locker and pressing the Active Ability button crafts a Flash Grenade and consumes **-1 Token**
-  - Changed Active Ability button to use the new token-based system from the change above.
+- Entering a locker and pressing the Activate Ability button crafts a Flash Grenade and consumes **-1 Token**
+  - Changes Activate Ability button to use the new token-based system from the change above.
 
 
 ## [Flip-Flop](<https://deadbydaylight.wiki.gg/wiki/Flip-Flop>) 📉
@@ -734,7 +734,7 @@ No changes.
 
 ## [Lucky Star](<https://deadbydaylight.wiki.gg/wiki/Lucky_Star>) 📉 🗑️
 
-- Removed cooldown *(was 40/35/30 seconds)
+- Removed cooldown *(was 40/35/30 seconds)*
   - Increases viability. Can now be reasonably synergized with Vigil and Head On as well.
 
 ## [Made for This](<https://deadbydaylight.wiki.gg/wiki/Made_for_This>)
@@ -758,9 +758,9 @@ No changes.
 
 - Instead of activating after repairing Generators, gain **1 Token**
   - Allows you to bank multiple tokens and apply multiple illusions simultaneously, as well as progress towards another illusion while one is still active.
-- Pressing the Active Ability button now consumes **-1 Token** when spawning a Static Illusion
-  - Changed Active Ability button to use the new token-based system from the change above.
+- Pressing the Activate Ability button now consumes **-1 Token** when spawning a Static Illusion
+  - Changed Activate Ability button to use the new token-based system from the change above.
 - Now suppresses screams while interacting with a prop with a Static Illusion placed on it
   - Enables stealthing within the illusion.
-- Increased duration to **100/110/120 seconds** *(was 40/50/60)
+- Increased duration to **100/110/120 seconds** *(was 40/50/60)*
   - Numbers buff reverting this nerf from [8.2.0](https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion#Patch_8.2.0)
