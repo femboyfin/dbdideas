@@ -780,7 +780,7 @@ No changes.
   - Creates the ability for interesting synergies that were previously impossible, increasing perk diversity overall and the viability of No Mither in particular.
 - Now activates upon first injury, rather than at the start of the Trial
   - Effectively grants you +1 Health State per chase and prevents it from being identified immediately.
-- Increased Recovery speed to **30/40/50%** *(was 15/20/25%)
+- Increased Recovery speed to **30/40/50%** *(was 15/20/25%)*
   - Mild numbers buff to increase the strength of the perk.
 
 
@@ -796,7 +796,7 @@ No changes.
 
 - Now increases all Action speeds
   - Increases versatility of the perk outside of the 3 main objective interactions (yes, including vaulting).
-- Increased Action speed bonus to **11/13/15%** *(was 2/4/6%)
+- Increased Action speed bonus to **11/13/15%** *(was 2/4/6%)*
   - Sizable numbers buff making this portion of the perk actually impactful.
 - Decreased activation interval to **18 seconds** *(was 30)*
   - Greatly increases how often the perk is active, making it much more dynamic in chase.
@@ -824,7 +824,7 @@ No changes.
 
 ## [Overzealous](<https://deadbydaylight.wiki.gg/wiki/Overzealous>) 📉 🗑️
 
-- Now deactivates upon being Hooked *(was after losing a Health State)
+- Now deactivates upon being Hooked *(was after losing a Health State)*
   - Discourages hit-and-run gameplay, allowing the perk to be active for longer, and potentially for 3 separate hook states against said gameplay.
 - Increased Dull Totem and Hex Totem Repair speed to 11/13/15% *(was 8/9/10)* and 19/22/25% *(was 16/18/20)*
   - Mild numbers buff to increase viability of the perk, now accounting for travel time and cleanse time to offset the activation condition and make it more of a trade-off than it previously was.
@@ -861,7 +861,7 @@ No changes
 
 - Removed range limitation
   - Mild strength increase that shouldn't cause too much visual clutter as the maximum number of chests is 14 and they're small rather objects. The perk's purpose is to help you seek out and search chests optimally, this change ensures that can happen on larger maps.
-- Increased chances of finding rarer Items to **50/75/100%** *(was 50%)
+- Increased chances of finding rarer Items to **50/75/100%** *(was 50%)*
   - Mild strength increase and ensures there's a value variable by level since the range is no longer variable.
 - Now reveals the Aura of **all Chests** *(was Closed Chests)*
   - Added synergy with rummage perks.
