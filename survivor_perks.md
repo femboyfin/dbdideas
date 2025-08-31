@@ -129,7 +129,7 @@ or
   - Thematic added effects to slightly increase the strength level of a weak perk.
 - Only suppresses the above and existing effects from the Killer
   - Ensures that the benefits of the perk don't incidentally make it more difficult to be healed by a teammate.
-- Increased penalty reduction to **2/1/0%** *(was 3/2/1%)*
+- Reduced failed skill check penalty to **2/1/0%** *(was 3/2/1%)*
   - Slight number buff on an already very weak perk.
 - Failing skill checks no longer pauses healing progress
   - Another slight buff, introducing a new function on an already very weak perk.
