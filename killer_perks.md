@@ -1,43 +1,50 @@
 # Killer Perk Changes
 
-Work on these will begin once the first full pass on Survivor Perks has been completed.
+Killer perks are a work-in-progress, some changes may not have their reasoning transcribed yet, and many do not have proposed changes.
 
-<!-- NOTE: The below "Too weak" indicators have not been discussed. As of right now, I've simply marked all perks that are rated at 1 star or 2 stars by Otzdarva's Killer Perk Tierlist (8.3.0) as Too weak. We DO NOT *fully* agree with Otzdarva's ratings, however more often than not, give or take a tier, we do agree with his ratings, making it a reasonable starting point to have laid out ahead of time. These will all be discussed thoroughly as we go through each perk, do not see this as a shortcut, everything will continue to get the attention it deserves.
 
 
 ## [A Nurse's Calling](<https://deadbydaylight.wiki.gg/wiki/A_Nurse%27s_Calling>)
 
--
+- Increased range to **24/28/32 meters** *(was 20/24/28)*
 
 
 ## [Agitation](<https://deadbydaylight.wiki.gg/wiki/Agitation>)
 
--
+No changes
 
 
 ## [Alien Instinct](<https://deadbydaylight.wiki.gg/wiki/Alien_Instinct>) 📉 🗑️
 
--
+- Increased Aura reveal duration to **16 seconds** *(was 8)*
+  - Sizable numbers buff to increase perk stregnth and therefor playrate.
 
 
 ## [All-Shaking Thunder](<https://deadbydaylight.wiki.gg/wiki/All-Shaking_Thunder>) 📉
 
--
+- Removed deactivation timer *(was 8/12/16)*
+- Now gain **+2 Tokens** up to a maximum of **2 Tokens** after falling from a height
+- Now consumes **-1 Token** every time you perform a Lunge Attack
+- Increased cooldown to **60 seconds** *(was 5)*
 
 
 ## [Awakened Awareness](<https://deadbydaylight.wiki.gg/wiki/Awakened_Awareness>) 📉 🗑️
 
--
+- Added a linger effect to the Aura of Survivors within range of a successful Hook, this lingering Aura reveal lasts for **8 seconds**
+- Increased range to **24 meters** *(was 20)*
 
 
 ## [Bamboozle](<https://deadbydaylight.wiki.gg/wiki/Bamboozle>)
 
--
+No changes
 
 
 ## [Barbecue & Chilli](<https://deadbydaylight.wiki.gg/wiki/Barbecue_%26_Chilli>)
 
--
+No changes
+
+
+<!-- NOTE: The below "Too weak" indicators have not been discussed. As of right now, I've simply marked all perks that are rated at 1 star or 2 stars by Otzdarva's Killer Perk Tierlist (8.3.0) as Too weak. We DO NOT *fully* agree with Otzdarva's ratings, however more often than not, give or take a tier, we do agree with his ratings, making it a reasonable starting point to have laid out ahead of time. These will all be discussed thoroughly as we go through each perk, do not see this as a shortcut, everything will continue to get the attention it deserves.
 
 
 ## [Batteries Included](<https://deadbydaylight.wiki.gg/wiki/Batteries_Included>) 🗑️
