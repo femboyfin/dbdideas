@@ -39,14 +39,14 @@ We use the following emojis as shorthands to make it easier to view or opinions 
 
 | Emoji | Name          | Description                                                                            |
 |-------|---------------|----------------------------------------------------------------------------------------|
-| 📉    | Low pick rate | In the lower two thirds of pick rate according to [NightLight](https://nightlight.gg/) |
-| 😷    | Unhealthy     | See definition under the [Methodology](#Methodology)                                     |
-| 💪    | Too strong    | Extremely powerful without a need for comboing                                         |
-| 🗑️    | Too weak      | Either overall low strength or outclassed by similar stronger elements                 |
-| 🧑‍🤝‍🧑    | Abusable      | High potential to be abused in coordinated groups, particularly by high level players  |
-| 🔬    | Needs testing | Appreciable potential to be problematic (e.g. when comboed), requires playtesting      |
-| 💡    | Idea          | Just an early idea, not necessarily for implementation, and no balance promises        |
-
+|  📉   | Low pick rate | In the lower two thirds of pick rate according to [NightLight](https://nightlight.gg/) |
+|  😷   | Unhealthy     | See definition under the [Methodology](#Methodology)                                   |
+|  💪   | Too strong    | Extremely powerful without a need for comboing                                         |
+|  🗑️   | Too weak      | Either overall low strength or outclassed by similar stronger elements                 |
+|  🧑‍🤝‍🧑   | Abusable      | High potential to be abused in coordinated groups, particularly by high level players  |
+|  🔬   | Needs testing | Appreciable potential to be problematic (e.g. when comboed), requires playtesting      |
+|  💡   | Idea          | Just an early idea, not necessarily for implementation, and no balance promises        |
+|  ⏲️   | Incoming!     | A feature that has been officially roadmapped and concretely will be implemented soon  |
 
 ## Styling
 
