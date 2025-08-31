@@ -1225,7 +1225,7 @@ No changes
 No changes
 
 
-## [Visionary](<https://deadbydaylight.wiki.gg/wiki/Visionary>)
+## [Visionary](<https://deadbydaylight.wiki.gg/wiki/Visionary>) 📉 🗑️
 
 - Removed deactiviation condition
   - Removes an unnecessary drawback from an already weak and low play rate perk. This has the added bonus of decreasing complexity to strengthen appeal.
@@ -1256,7 +1256,7 @@ No changes
 No changes
 
 
-## [Wicked](<https://deadbydaylight.wiki.gg/wiki/Wicked>)
+## [Wicked](<https://deadbydaylight.wiki.gg/wiki/Wicked>) 📉
 
 - Now increases the rate at which you gain Resolve by **+100%** when hooked inside the Basement
   - Resolve is the official term for the Anti-Face Camp meter that allows you to un-hook yourself if you're camped too long. This gives the perk a reasonable potential to allow for a self-unhook during the Struggle phase of hook, while also discouraging basement camping.
@@ -1268,7 +1268,7 @@ No changes
   - Slight nerf to a relatively high strength and extremely high pickrate perk that should also prevent overstimulation issues on resource-dense maps without kneecapping the perk too much.
 
 
-## [Wiretap](<https://deadbydaylight.wiki.gg/wiki/Wiretap>)
+## [Wiretap](<https://deadbydaylight.wiki.gg/wiki/Wiretap>) 📉
 
 - Now displays a pair of headphones dangling off of the Generator after being installed to both Survivors and Killers
   - Allows the Killer to identify it's in play
