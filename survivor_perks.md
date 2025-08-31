@@ -68,9 +68,9 @@ or
 
 ## [Autodidact](<https://deadbydaylight.wiki.gg/wiki/Autodidact>) 📉 🔬
 
-- Allow gaining tokens from Self-Heal, only restricting the progression modifier to altruistic healing
+- Allowed gaining tokens from Self-Heal, only restricting the progression modifier to altruistic healing
   - Allows gaining altruistic benefits from Self-Healing, without being fundamentally broken with uber-fast Self-Healing, removing the bar of only gaining tokens via Altruistic healing for another niche improvement.
-- Allow usage with Med-Kits
+- Allowed usage with Med-Kits
   - Straightforward removal of one of the perk downsides to increase it's overall viability and opportunities for synergy.
 - Adjust skillcheck healing progress by token to: **0/10/20/30/40/60%** per stack *(was -15/0/15/30/45/60%)*
   - Slight numbers buff avoiding the awkward situation where the first Autodidact skill check could potentially cause a teammate's heal to be incomplete because of the -15% progress, removing an artifical downside aside from the inability to hit great skill checks.
@@ -225,7 +225,7 @@ or
 - Effect lingers for **2/4/6 seconds** after leaving the Boon Totem's range
   - Makes it slightly easier to navigate to objectives outside of the Boon's range, more quality of life but technically a slight buff.
 - Auras revealed by Boon: Illumination are tracked, and will be revealed even if the boon is relocated and they're no longer in range. Tracked Auras are reset on snuff
-  - Self-synergy with the bonus to blessing speed, incentivizing moving your boon by blessing different totems before it's been snuffed out. *Credit to [SubZeroIV](https://www.twitch.tv/SubZeroIV ) for the idea.*
+  - Self-synergy with the bonus to blessing speed, incentivizing moving your boon by blessing different totems before it's been snuffed out. *Credit to [SubZeroIV](<https://www.twitch.tv/SubZeroIV>) for the idea.*
 
 
 ## [Boon: Shadow Step](<https://deadbydaylight.wiki.gg/wiki/Boon:_Shadow_Step>) 📉 🗑️
@@ -266,7 +266,7 @@ or
 ## [Breakout](<https://deadbydaylight.wiki.gg/wiki/Breakout>) 📉
 
 - Increased range to **6 meters** *(was 5)*
-  - Mild buff to make the perk slightly safer, particularly in scenarios where the players invovled have a poor connection or Agitation is in play. This change partially reverts the one in 7.1.0.
+  - Mild buff to make the perk slightly safer, particularly in scenarios where the players invovled have a poor connection or Agitation is in play. This reverts one of the changes it received in [7.1.0](<https://deadbydaylight.wiki.gg/wiki/Breakout#Patch_7.1.0>).
 
 
 ## [Buckle Up](<https://deadbydaylight.wiki.gg/wiki/Buckle_Up>) 📉
@@ -414,6 +414,8 @@ No changes.
   - Prevents the survivor from being punished for peforming well in chase.
 - Decreased timer to **30 seconds** *(was 60)*
   - This prevents the killer from being punished for chasing and downing another survivor, and then stumbling back upon you 30-60 second later and being punished for it.
+- Decreased stun duration to **3 seconds** *(was 4)*
+  - This still allows you to make an adjacent pallet and then some, without the concern of old Enduring.
 
 
 ## [Déjà Vu](<https://deadbydaylight.wiki.gg/wiki/Déjà_Vu>) 💪
@@ -535,7 +537,7 @@ No changes.
 - No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button and the Tokens are applied after repairing for **8 seconds**
   - Makes the perk less RNG dependent and allows the Survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
 - **1 Token** *(was 1/2/3)* per hook, up to a maximum of **9 Tokens** *(was 9/18/27)*
-  - To make the perk slightly more intuitive, we're moving the level variation to the  % per stack which is functionally identical. 1 stack for 1/2/3% at level 3 = 1/2/3% per stack, 1/2/3 stacks for 1% at level 3 is also 3%.
+  - To make the perk slightly more intuitive, we're moving the level variation to the % per stack which is functionally identical. 1 stack for 1/2/3% at level 3 = 1/2/3% per stack, 1/2/3 stacks for 1% at level 3 is also 3%.
 - Increased bonus Progression to **4/5/6%** per Token *(was 1%)*
   - In addition to moving the level variation to the progression %, we've also given it a numbers buff to increase it's strength. We want Fast Track to function as a 3-gen breaker/comeback mechanic, this should make it significantly more viable for these purposes.
 
@@ -754,7 +756,7 @@ No changes.
   - Minor buff by removing an odd down-side. Also indirect nerf to DS, by making the Obsession indicator slightly more likely to simply mean "DS".
 
 
-## [Mirrored Illusion](<https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion>)
+## [Mirrored Illusion](<https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion>) 📉 🗑️
 
 - Instead of activating after repairing Generators, gain **1 Token**
   - Allows you to bank multiple tokens and apply multiple illusions simultaneously, as well as progress towards another illusion while one is still active.
@@ -763,4 +765,514 @@ No changes.
 - Now suppresses screams while interacting with a prop with a Static Illusion placed on it
   - Enables stealthing within the illusion.
 - Increased duration to **100/110/120 seconds** *(was 40/50/60)*
-  - Numbers buff reverting this nerf from [8.2.0](https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion#Patch_8.2.0)
+  - Numbers buff reverting this nerf from [8.2.0](<https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion#Patch_8.2.0>).
+
+
+## [Moment of Glory](<https://deadbydaylight.wiki.gg/wiki/Moment_of_Glory>) 📉 🗑️
+
+- Decreased number of Chest interactions to **1** *(was 2)*
+  - Reduces the amount of work required to activate the perk and increases the number of times you can use it per Trial.
+
+
+## [No Mither](<https://deadbydaylight.wiki.gg/wiki/No_Mither>) 📉 🗑️
+
+- Now allows usage of all Healthy-only perks while injured
+  - Creates the ability for interesting synergies that were previously impossible, increasing perk diversity overall and the viability of No Mither in particular.
+- Now activates upon first injury, rather than at the start of the Trial
+  - Effectively grants you +1 Health State per chase and prevents it from being identified immediately.
+- Increased Recovery speed to **30/40/50%** *(was 15/20/25%)
+  - Mild numbers buff to increase the strength of the perk.
+
+
+## [No One Left Behind](<https://deadbydaylight.wiki.gg/wiki/No_One_Left_Behind>) 📉
+
+- Increased Action speed bonus to **100/125/150%** *(was 50/75/100%)*
+  - Slight numbers buff to increase the strength of a low playrate perk.
+- Now reveals your Aura to other Survivors as well.
+  - Slight buff making it easier for other Survivors to come and get healed and coordinate a save in end-game, self synergy.
+
+
+## [Object of Obsession](<https://deadbydaylight.wiki.gg/wiki/Object_of_Obsession>) 📉 🗑️
+
+- Now increases all Action speeds
+  - Increases versatility of the perk outside of the 3 main objective interactions (yes, including vaulting).
+- Increased Action speed bonus to **11/13/15%** *(was 2/4/6%)
+  - Sizable numbers buff making this portion of the perk actually impactful.
+- Decreased activation interval to **18 seconds** *(was 30)*
+  - Greatly increases how often the perk is active, making it much more dynamic in chase.
+
+
+## [Off the Record](<https://deadbydaylight.wiki.gg/wiki/Off_the_Record>)
+
+- Now increases the duration of off-hook Endurance instead of granting Endurance for a set time
+- Reduced timer for Aura-shielding and Grunts of Pain suppression to **40/50/60 seconds** *(from 60/70/80)*
+- Endurance duration decreased to **10/20/30 seconds** *(was 60/70/80)*
+  - This effectively means 40 seconds of Endurance including basekit BT endurance, halving the strength of the perk by default, while also enabling synergy with other off-hook-endurance extensions like BT, anti-camp self-unhook.
+
+
+## [Open-Handed](<https://deadbydaylight.wiki.gg/wiki/Open-Handed>) 📉 🗑️
+
+- Now stackable up to 24 meters
+  - Mild buff that makes it no longer detrimental to have multiple players running it at the same time.
+
+
+## [Overcome](<https://deadbydaylight.wiki.gg/wiki/Overcome>) 📉
+
+- Now grants the Endurance status effect for **4 seconds** on activation
+  - Minor buff that will occasionally prevent double hits.
+
+
+## [Overzealous](<https://deadbydaylight.wiki.gg/wiki/Overzealous>) 📉 🗑️
+
+- Now deactivates upon being Hooked *(was after losing a Health State)
+  - Discourages hit-and-run gameplay, allowing the perk to be active for longer, and potentially for 3 separate hook states against said gameplay.
+- Increased Dull Totem and Hex Totem Repair speed to 11/13/15% *(was 8/9/10)* and 19/22/25% *(was 16/18/20)*
+  - Mild numbers buff to increase viability of the perk, now accounting for travel time and cleanse time to offset the activation condition and make it more of a trade-off than it previously was.
+
+
+## [Parental Guidance](<https://deadbydaylight.wiki.gg/wiki/Parental_Guidance>) 📉 🗑️ 🧑‍🤝‍🧑
+
+- Now activates exclusively on Pallet Stuns rather than all stuns
+  - This prevents some particularly powerful perk synergies that provide little counterplay, notably Parental Guidance with Decisive Strike, paired with Sprint Burst as well this becomes even stronger. Notably this does still enable synergy with Smash Hit.
+- Now reveals the Killer's Aura to all Survivors for the activation duration
+  - Flavorful buff that benefits non-partied Survivors more than SWFs, lessening that gap slightly.
+
+
+## [Pharmacy](<https://deadbydaylight.wiki.gg/wiki/Pharmacy>) 📉 🗑️
+
+- Increased rarity of the guaranteed Med-Kit to **Very Rare** *(was Rare)*
+  - Emergency Med-Kits were originally chosen because they stood out for self-healing. As this is no longer the case and this is and otherwise weak perk, guaranteeing a purple Med-Kit which also incentivizes use of the perk altruistically should noticeably increase the strength of the perk without much risk.
+- Now silences the audible range of all noises related to the Unlocking interaction **completely** *(was by -16 metres)*
+  - Mild increase to the strength of an inherently low-benefit stat to increase perk strength
+- Now also Reduces the audible range of all noises related to the Rummaging interaction **completely**.
+  - Enables synergy with other chest perks while slightly increasing perk strength and synergizing with the below changes
+- Now uses an Activate Ability prompt to get the Med-Kit from the chest, rather than being automatic
+  - Provides more user choice on when you'd like to retrieve your Med-Kit. Prevents the awkward situation where you're trying to go for a hail mary play searching a chest for a key, only to be shot in the foot by your own perk.
+- Now grants the rummage option on chests to get the guaranteed Med-Kit on chests that have been opened
+  - Allows you to get the original item from the chest and still receive your Med-Kit, meaning you can exchagne the extra time of an added rummage action for the benefit of an extra random item. Somewhat increases chest build synergy as well.
+
+
+## [Plot Twist](<https://deadbydaylight.wiki.gg/wiki/Plot_Twist>)
+
+No changes
+
+
+## [Plunderer's Instinct](<https://deadbydaylight.wiki.gg/wiki/Plunderer%27s_Instinct>) 📉 🗑️
+
+- Removed range limitation
+  - Mild strength increase that shouldn't cause too much visual clutter as the maximum number of chests is 14 and they're small rather objects. The perk's purpose is to help you seek out and search chests optimally, this change ensures that can happen on larger maps.
+- Increased chances of finding rarer Items to **50/75/100%** *(was 50%)
+  - Mild strength increase and ensures there's a value variable by level since the range is no longer variable.
+- Now reveals the Aura of **all Chests** *(was Closed Chests)*
+  - Added synergy with rummage perks.
+
+
+## [Poised](<https://deadbydaylight.wiki.gg/wiki/Poised>) 📉 🗑️
+
+- Increased duration of Scratch Marks suppression to **16/18/20 seconds** *(was 10/12/14)*
+  - Minor numbers buff to increase perk strength. In practice by the time you're 14 seconds away, you've more than likely either already been found or if not you should have been able to position yourself somewhere that you can reasonable walk to continue stealthing. However this does increase the strength by technicality nonetheless, potentially in cases where you're immediately running to the next gen and that gen happens to be more than 56 meters away, you'll get some value out of the change.
+- Increased duration of the Killer Aura Reveal to **6/8/10 seconds** *(was 6)*
+  - Mild numbers buff that should increase the perk's strength mildly without too much impact.
+- Now reveals the Aura of the Killer to any other Survivors who are interacting with the same Generator during the duration of the effect
+  - Flavorful change that benefits non-partied survivors without providing much benefit to SWFs.
+
+
+## [Potential Energy](<https://deadbydaylight.wiki.gg/wiki/Potential_Energy>) 📉 🗑️
+
+No changes
+
+
+## [Power Struggle](<https://deadbydaylight.wiki.gg/wiki/Power_Struggle>) 📉 🧑‍🤝‍🧑
+
+- Now reveals the Aura of upright Pallets within **8 meters** while in chase
+  - Makes the perk easier to use while not stepping on Windows of Opportunity's toes too much via the multiple limitations. Could effectively be used as a high-skill Windows that only shows whether or not a pallet is where within a tile you're already in, without guiding you to a nearby resource like WOO does.
+
+
+## [Premonition](<https://deadbydaylight.wiki.gg/wiki/Premonition>) 📉 🗑️
+
+- Decreased range to **24 meters** *(was 36)*
+  - Should prevent "false positive" activations. Against the majority of killers you aren't going to be interested in hiding until the killer has come within less than 32 meters regardless, prerunning from outside terror radius is minimally beneficial and you'd have to be doing full 360s more than once per second to identify the killer's direction before they come within the standard terror radius distance of 32m anyways.
+- Reduced Detection angle **15 degrees** *(was 45)*
+  - Should allow for more precisely identifying the killer's location
+- Reduced cooldown to **30/20/10 seconds** *(was 60/45/30)*
+  - Enables more active identification of the killers' location, paired with the reduced detection angle, this creates legitimate potential for it to be used in addition to visual and heartbeat checkspots in chase.
+
+
+## [Prove Thyself](<https://deadbydaylight.wiki.gg/wiki/Prove_Thyself>)
+
+- Now applies repair bonus to yourself in addition to others
+  - This is what a lot of players assume it does at first glance, and this brings it closer in strength to it's previous state while still being slightly weaker. Notably, because the cooperative repair speed penalty is -15% per player, the gen would still be done inefficiently.
+
+
+## [Quick & Quiet](<https://deadbydaylight.wiki.gg/wiki/Quick_%26_Quiet>)
+
+No changes
+
+
+## [Quick Gambit](<https://deadbydaylight.wiki.gg/wiki/Quick_Gambit>) 📉 🧑‍🤝‍🧑
+
+- Reduced cooldown to **30 seconds** *(was 60)*
+  - Mild numbers buff making it realistic to reliably get it up more than once per chase. In this state, this means you'll be providing the bonus for your total chase time excluding shift teching minus 30 seconds.
+
+
+## [Rapid Response](<https://deadbydaylight.wiki.gg/wiki/Rapid_Response>) 📉 🗑️
+
+- Reduced duration of Exhausted to **20/15/10 seconds** *(was 30/25/20)*
+  - Makes it significantly less punishing particularly in combination with other perks.
+- Now reveals your Aura to other survivors after fast exiting a Locker
+  - Flavorful buff that gives it a secondary indirect healing benefit while also benefitting non-partied Survivors more than SWFs.
+
+
+## [Reactive Healing](<https://deadbydaylight.wiki.gg/wiki/Reactive_Healing>) 📉 🧑‍🤝‍🧑
+
+- Now provides progression towards your Mend Bar when applicable
+  - Minor buff, realistically shouldn't actually change very much, but there aren't many options for buffs that don't further increase it's strength when used with high levels of coordination.
+- Now reveals the Aura of the Killer for 8 seconds upon activation
+  - Minor strength increase without increasing it's strength in coordinated SWFs very much.
+
+
+## [Reassurance](<https://deadbydaylight.wiki.gg/wiki/Reassurance>) 📉 🧑‍🤝‍🧑
+
+- Increased range to **12 meters** *(was 6)*
+  - Mild buff that enables you to apply the effect from a safer distance and without disrupting resolve as much as you otherwise might.
+
+
+## [Red Herring](<https://deadbydaylight.wiki.gg/wiki/Red_Herring>) 📉 🗑️
+
+- No longer requires you to repair a Generator for a full second, instead appplying it's effects to the last generator you repaired
+  - Makes the perk easier to activate, the 1-second delay was really unnecessary and having anything holding back a perk that's already this low caliber is not great.
+- Now uses an Activate Ability button to activate instead of entering a Locker
+  - Enables the on-demand usage, making using it a pebble-esque stealth mechanic to buy a slight amount of time while making the get-away.
+
+
+## [Repressed Alliance](<https://deadbydaylight.wiki.gg/wiki/Repressed_Alliance>) 📉 🗑️
+
+- Reduced activation time to **45/40/30 seconds** *(was 55/50/45)*
+  - Mild numbers buff making the activation to activated time 1:1. Keep in mind this does not mean permanent uptime because this is the time to activate the perk via repair, not a cooldown.
+- Now deactivates once a Generator has been blocked instead of becoming a timer
+  - Allows you to begin progress towards another blocking another Generator after one has already been blocked, instead of having to wait for it to naturally deactivate.
+
+
+## [Residual Manifest](<https://deadbydaylight.wiki.gg/wiki/Residual_Manifest>) 📉 🗑️
+
+- Increased duration of Blindness Status Effect to **35/40/45 seconds** *(was 20/25/30)*
+  - Sizable numbers buff to increase the strength of the perk's effect. The actual benefits of inflicting Blindness are rarely directly seen by the Survivors, this has the potential to make the perk feel more rewarding for using it.
+
+AND
+
+- Now guarantees a **Sport Flashlight** *(was a basic Flashlight)*
+  - Mild increase to perk strength with the one downside of lost Exultation synergy.
+
+OR
+
+- Now guarantees a Flashlight of any rarity *(was a basic Flashlight)*
+  - Alternative gamba option to the above, still increases perk strength, but enables risky potential for Exultation synergy as well as the potential for a significantly stronger flashlight than the above change would give you.
+
+
+## [Resilience](<https://deadbydaylight.wiki.gg/wiki/Resilience>)
+
+No changes
+
+
+## [Resurgence](<https://deadbydaylight.wiki.gg/wiki/Resurgence>)
+
+- Decreased Healing progress to **30/40/50%** *(was 50/60/70)*
+  - Mild numbers nerf to take the perk's strength down out of S tier, making it more comparable to a selfish version of We'll Make It.
+
+
+## [Rookie Spirit](<https://deadbydaylight.wiki.gg/wiki/Rookie_Spirit>) 📉 🗑️
+
+- Now active from the beginning of the trial
+  - Minor increase to strength by removing the activation condition that will likely be met before the perk would take effect in most situations anyways. Assuming average skill check luck, you'll have the perk up in under 40 seconds of generator repairs, it's very uncommon for a generator to begin regressing during this time, nevermind for the regression to be meaningful.
+- Now applies to the nearest **5/6/7** generators
+  - Moved level-variable stat to generators. 7 generators at level 3 means all generators.
+- Now adjusts Aura intensity based on the Generator's regression rate
+  - Provides a secondary info benefit that has potential for interesting team play usage as well as allowing you to prioritize whether or not you want to fix regression based on how quickly a generator is rgressing (e.g. prioritizing a gen that is being regressed by Call of Brine).
+
+
+## [Saboteur](<https://deadbydaylight.wiki.gg/wiki/Saboteur>) 📉
+
+- No longer applies cool-down unless a hook is successfully sabotaged
+  - Quality of life change, prevents accidental activations from being too punishing. Serves as a very minor buff in the niche situation where you want to try to sabo more than one hook during a single carry, for example immediately going to sabo one hook, seeing the killer turn around after they finish the pickup, and using background player to get to the next one.
+- Now reveals auras within a range of the carried Survivor instead of their original Pick-up location
+   - Allows you to remotely track where a Survivor is being carried across the map, along with ensuring you see all nearby potential hook candidates in cases where the killer is faster than normal carrying speed (e.g. clown invigoration bottle and/or agitation). This adds the potential for using Sabtoeur to more ffectively dodge pain res procs outside of partied environments.
+- Reduced Hook Aura reveal range to **48 meters** *(was 56)*
+  - Prevents visual clutter and enables more accurate tracking in accordance with the above change.
+- Swapped Aura colors, highlighting Scourge Hooks in White and Normal Hooks in Yellow
+  - Keeps the hooks consistently colored with Scourge Hooks on killer. Currently this is inverted for Survivor which is weird.
+- Now permits seeing Scourge Hooks' white outline and smoky visual effect at all times
+  - Allows you to identify if a Scourge Hook is in play and die away from them before a survivor has been picked up.
+
+
+## [Scavenger](<https://deadbydaylight.wiki.gg/wiki/Scavenger>) 📉 🗑️
+
+- No longer requires you to hold a Toolbox nor depleted Item to gain stacks
+  - This means you can now use the increased Toolbox repair skill check rate to perpetuate your toolbox assuming you hit 5 greats (for reference, this would require a toolbox with 18 charges or more to be a statistical guarantee), and you can use other items while repairing, waiting to retrieve your guaranteed toolbox from a chest until later.
+- Now exclusively fully recharges a fully depleted Toolbox
+  - Since the perk can now reach 5 stacks with an in-use toolbox, this prevents the toolbox from being refilled until you've fully emptied it. Mainly, this ensures the above change is a buff not a side-grade.
+
+
+## [Scene Partner](<https://deadbydaylight.wiki.gg/wiki/Scene_Partner>)
+
+No changes
+
+
+## [Second Wind](<https://deadbydaylight.wiki.gg/wiki/Second_Wind>) 📉
+
+No changes
+
+
+## [Self-Care](<https://deadbydaylight.wiki.gg/wiki/Self-Care>)
+
+- Now increases self-heal speed & efficiency with a Med-Kit by 35%
+  - Enabes synergy with Med-Kits without making the perk itself too oppressive.
+
+
+## [Self-Preservation](<https://deadbydaylight.wiki.gg/wiki/Self-Preservation>) 📉 🗑️
+
+- Increased range to **40 meters** *(was 16)*
+  - At first glance this may seem major but shouldn't make that much of a difference in practice as the perk's effects (suppressed scratch marks, grunts of pain, and bleeding) inherently decrease in value the farther away you are from the Killer (the farther you are, the less likely these are to be seen).
+- Increased duration to **21/23/25 seconds** *(was 6/8/10)*
+  - Sizable numbers buff but once again, this shouldn't actually do very much in practice, as if you haven't already managed to lose the killer within 10-seconds, the killer has already likely caught up to you and it's unlikely that you'll be lost completely in the following 15, could make it easier to jiggy in certain situations after use even if found within the old 10 second period, however that seems like a flavorful change and this is an already weak perk.
+- Now reveals the Aura of the Survivor who activated the perk
+  - This allows you to more intelligently run away from the killer after activation.
+
+
+## [Shoulder the Burden](<https://deadbydaylight.wiki.gg/wiki/Shoulder_the_Burden>) 📉 🧑‍🤝‍🧑
+
+- Now causes the Survivor to become Deep Wounded and receive **60/50/40 seconds** of Broken instead of Exposed
+  - Ensures there is an actual down-side to using the perk. If the killer isn't able to catch up within 40 seconds as-is, the Exposed has done literally nothing. Assuming you get the unhook off, there's also zero downside to using the perk while injured as-is, which is also fixed by this as you now won't be able to heal. The intention of this portion of the perk is also inherently designed to give the unhooker a single health state, Deep Wounding the unhooker ensures Endurance perks and addons aren't usable to gain an effective extra health state, while also slightly increasing the penalty of using the perk by requiring the user to mend after unhooking.
+- No longer requires the Survivor to not be on Death Hook, killing the user instantly
+  - This is a popular half-joke suggestion I have seen a variety of times. I think the silly factor serves to increase the playrate of the perk, and enables using the perk to give hatch to your teammates. This does have the potential to be used for going next, but if that is a major concern, that could be limited by putting a clause on this specific use of it becoming available exclusively when either there are two Survivors remaining in the Trial, or when you are the Last Survivor Standing.
+
+
+## [Slippery Meat](<https://deadbydaylight.wiki.gg/wiki/Slippery_Meat>) 📉 🗑️ 🧑‍🤝‍🧑
+
+No changes
+
+
+## [Small Game](<https://deadbydaylight.wiki.gg/wiki/Small_Game>) 📉 🗑️
+
+- Reduced Detection angle to **20 degress** *(was 45)*
+  - Increases the precision of the info, making it easier to precisely identify totem locations, especially given the following change.
+- Increased range to **12/14/16 meters** *(was 8/10/12)*
+  - Mildly increases the range, allowing you to locate totems from farther away.
+- Now goes on cooldown after the Totem leaves the detection zone
+  - Prevents the sound effect from repeatedly playing, and allows you to tactically identify when the cooldown begins to get a more precise estimation on where exactly the totem is.
+- Reduced cooldown to **8/6/4 seconds** *(was 14/12/10)*
+  - Given the above change, a 4-second cooldown shouldn't be particularly annoying anymore, instead helping you more quickly identify the location of totems.
+- Reduced Detection angle reduction to **3 degrees** *(was 5)*
+  - Because we reduced the base detection angle to 20 degrees, this needed to be reduced to prevent the value from becoming negative.
+- Now triggers a unique sound effect depending on if the Totem is a Hex Totem, Boon Totem, or Dull Totem
+  - Provides a small amount more info, should result in the user spending slightly less time seaching for that specific totem spawn if they know it's a Dull and they're looking for a specific Hex like NOED or Devour Hope, while also preventing confusion if there's a Boon Totem on another floor above them that's being detected inadvertently.
+
+
+## [Smash Hit](<https://deadbydaylight.wiki.gg/wiki/Smash_Hit>) 📉 *🗑️ (For Exhaustion)*
+
+- Now activates on any stun, not just Pallet stuns
+  - Boradens the acitivation condition to enable use with Decisive Strike, Last Stand, and Blast Mine (Head On triggers Exhausted meaning it will not work with Head On). Smash Hit is the only exhaustion perk that isn't in the top 33% playrate, this should also encourage build diversity to an extent, and gives it comparable value to Sprint Burst when used with Decisive Strike for anti-tunnel purposes.
+
+
+## [Sole Survivor](<https://deadbydaylight.wiki.gg/wiki/Sole_Survivor>) 📉 😷 🗑️
+
+- No longer increases your obsession chance
+  - Indirect DS nerf, also indirectly means you're more likely to be tunnelled as people are less-likely to tunnel the Obsession given their increased likelihood of DS, will also mean you're no longer left for last by STBFL users/dropped by PWYF players making the selfish gameplay loop a bit more challenging.
+- Increased Repair speed bonus to **+200%** *(was 75)*
+  - Mild numbers buff, in terms of escape rate this shouldn't be very positive as it will very rarely make more sense to do a generator instead of playing around gates or hatch with this perk's benefits to their interaction speeds, but it does serve to make Sole Survivor a specialty perk for the otherwise very difficult Left for Dead achievement
+
+
+## [Solidarity](<https://deadbydaylight.wiki.gg/wiki/Solidarity>) 📉
+
+- Allowed usage with Med-Kits
+  - Straightforward removal of one of the perk downsides to increase it's overall viability and opportunities for synergy.
+- Removed Personal Healing speed penalty
+  - Penalizing the user for benefitting from the perks own effects in a given away is counterintuitive, this solves that.
+
+
+## [Soul Guard](<https://deadbydaylight.wiki.gg/wiki/Soul_Guard>)
+
+No changes
+
+
+## [Specialist](<https://deadbydaylight.wiki.gg/wiki/Specialist>) 📉 🗑️
+
+- No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button and the Tokens are applied after repairing for **8 seconds**
+  - Makes the perk less RNG dependent and allows the Survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
+- Removed Token limit
+  - Prevents you from needing to apply your 6 Tokens onto a gen and then go back to searching if you want to use the perk to remove a large amount from a gen at one time.
+
+
+## [Spine Chill](<https://deadbydaylight.wiki.gg/wiki/Spine_Chill>) 📉 🗑️
+
+- Once again indicates if the Killer is approaching you via it's activation progress
+  - Allows you to identify distance and pre-run effectively, giving it a practical benefit against stealth killers and for accessibility. This partially reverts one of the changes it received in [7.1.0](<https://deadbydaylight.wiki.gg/wiki/Spine_Chill#Patch_7.1.0>)
+- Increased Action speed bonus to **11/13/15%** *(was 2/4/6)*
+  - Sizable numbers buff. With the removal of the Vault Speed bonus, increasing the bonus percentage is now quite reasonable as it will still only apply both in range and while the killer has line of sight. Somewhat flavorful as the shiver down your spine as the killer comes towards you as you're just about to finish off the last tiny portion of a heal or generator gives you the an edge of urgency to get it done that little bit faster.
+
+
+## [Sprint Burst](<https://deadbydaylight.wiki.gg/wiki/Sprint_Burst>)
+
+No changes
+
+
+## [Stake Out](<https://deadbydaylight.wiki.gg/wiki/Stake_Out>)
+
+No changes
+
+
+## [Still Sight](<https://deadbydaylight.wiki.gg/wiki/Still_Sight>) 📉 🗑️
+
+- Now activates while healing or being healed
+  - Sizable buff to the perk, making it particularly effective for safely resetting Survivors without being interrupted.
+- Increased range to **32 meters** *(was 24)*
+  - Now extends the full range of a standard Terror Radius, meaning if you have heartbeat and stand still, you should be able to see the killer's position absent one of few 40m TR killers or TR extending perks.
+
+
+## [Streetwise](<https://deadbydaylight.wiki.gg/wiki/Streetwise>) 📉 🗑️
+
+- Increased bonus Charges to **80/90/100%** *(was 60/70/80)*
+  - Mild numbers increase to increase perk strength.
+- Increased Killer Aura reveal duration to **10 seconds** *(was 8)*
+  - Minor numbers increase to increase perk strength.
+
+
+## [Strength in Shadows](<https://deadbydaylight.wiki.gg/wiki/Strength_in_Shadows>) 📉
+
+- Now increases self-heal speed & efficiency with a Med-Kit by 70%
+  - Enabes synergy with Med-Kits without making the perk itself too oppressive.
+
+
+## [Teamwork: Collective Stealth](<https://deadbydaylight.wiki.gg/wiki/Teamwork:_Collective_Stealth>) 📉 🗑️
+
+- Now grants the Elusive status effect to both Survivors
+  - Sizable flavorful buff to the a weak, low playrate perk's strength.
+
+
+## [Teamwork: Power of Two](<https://deadbydaylight.wiki.gg/wiki/Teamwork:_Power_of_Two>) 📉
+
+No changes
+
+
+## [Teamwork: Throw Down](<https://deadbydaylight.wiki.gg/wiki/Teamwork:_Throw_Down>) 📉 🧑‍🤝‍🧑
+
+- Decreased range to **12 meters** *(was 24)*
+  - Limits how often it will feel too oppressive in high coordination in environments, particularly in end-game when approaching gates.
+- Now activates on any stun, not just Pallet stuns
+  - Enables perk synergy. With the above buff, this should still mean that risky flashlight maneuvers from non-partied teammates who don't know you have Decisive Strike have a bit of a thank-you safety net for their attempted altruism.
+
+
+## [Teamwork: Toughen Up](<https://deadbydaylight.wiki.gg/wiki/Teamwork:_Toughen_Up>) 📉 🗑️
+
+- Now grants the Elusive status effect.
+
+
+## [Technician](<https://deadbydaylight.wiki.gg/wiki/Technician>) 📉 🗑️
+
+- Now silences the audible range of all noises related to the Repair interaction **completely** *(was by -8 metres)*
+  - Mild increase to the strength of an inherently low-benefit stat to increase perk strength
+- Now grants Elusive while repairing a Generator
+  - Flavorful change that hones in on the idea of being able to tactfully perform repairs without leaving a trace.
+- Failing skill checks no longer pauses repair progress
+  - Another slight buff, introducing a new function on an already very weak perk.
+- Additionally suppresses the Loud Noise Notification triggered by other Survivors working on the same generator
+  - Allows you to prevent the mistakes of others on the same generator from notifying the killer, providing a slight team benefit and giving it a niche benefit of being helpful for teaching a new survivor, letting them get better at skill checks with less of a penalty.
+
+
+## [Tenacity](<https://deadbydaylight.wiki.gg/wiki/Tenacity>) 📉
+
+No changes pending 9.2.0 PTB patch notes release.
+
+
+## [This Is Not Happening](<https://deadbydaylight.wiki.gg/wiki/This_Is_Not_Happening>) 📉 🗑️
+
+- Now works while Healthy
+  - For how low-strength this perk is, having it only active while injured is completely unnecessary. Even with the below change, a high skill player can still hit extremely difficult skill checks somewhat reliably (e.g. deadline + hyperfocus), meaning all this does is increase the gap in viability between skill levels and arguably input schemes.
+- Increased Success zone increase to **40/80/100%** *(was 10/20/30)*
+  - Major numbers buff bringing the perk up from minimally impactful to very noticeable, ideally this brings it up to snuff with Stake Out and our reworked Corrective Action.
+
+
+## [Troubleshooter](<https://deadbydaylight.wiki.gg/wiki/Troubleshooter>) 📉 🗑️
+
+- Now reveals the Aura of all Generators being repaired during chase
+  - Makes the perk better at what it's intended to do, allowing you to avoid interrupting ongoing generator repairs while in chase.
+- Now reveals the Aura of the Generator with the most progress in white both while in and out of chase
+  - Maintains the old info effect, telling you which specific generator has the highest progress, allowing you to travel to it upon escaping chase if desired.
+- Increased linger duration to **16/18/20 seconds** *(was 6/8/10)*
+  - Mild numbers buff that shouldn't make too much of a difference but is nice quality of life in helping you decide where to go.
+
+
+## [Unbreakable](<https://deadbydaylight.wiki.gg/wiki/Unbreakable>)
+
+- No longer affects Recovery speed
+  - Noticeable decreases perk strength and prevents using this secondary effect too oppressively in combination with other anti-slugging perks aggressively.
+- Now activates after 40 seconds of remaining stationary in one Dying State, allowing you to recover yourself once per Trial
+  - Sizable nerf, giving the killer plenty of time to ensure they aren't going to end up in a "let them get picked up, or pick up and get pallet saved" situation, while still leaving the perk effective in extreme slugging situations. This number is also notably greater than the duration of our adjusted Decisive Strike timer, meaning this lose-lose situation has been lessen significantly.
+
+
+## [Up the Ante](<https://deadbydaylight.wiki.gg/wiki/Up_the_Ante>) 📉 🗑️ 🧑‍🤝‍🧑
+
+No changes
+
+
+## [Urban Evasion](<https://deadbydaylight.wiki.gg/wiki/Urban_Evasion>) 🗑️
+
+- Now increases crouched Survivor volume reduction to **100%** *(from 50)*
+  - Flavorful secondary benefit increasing the strength of a base-game effect in a fitting way.
+
+
+## [Vigil](<https://deadbydaylight.wiki.gg/wiki/Vigil>)
+
+No changes
+
+
+## [Visionary](<https://deadbydaylight.wiki.gg/wiki/Visionary>)
+
+- Removed deactiviation condition
+  - Removes an unnecessary drawback from an already weak and low play rate perk. This has the added bonus of decreasing complexity to strengthen appeal.
+- Increased distance to **64/96/128 meters** *(was 32)*
+  - Substantial numbers buff to increase the strength level of the perk
+- Now adjusts Aura intensity based on the Generator's current progress
+  - Provides a unique type of information specific to this perk giving it a reason to use it over Deja Vu that's somewhat comparable to it's extra Repair speed bonus.
+
+
+## [Wake Up!](<https://deadbydaylight.wiki.gg/wiki/Wake_Up!>) 📉
+
+- Removed both range limitations *(was 128 meters)*
+  - Simplifies the perk slightly which should hopefully slightly increase appeal via reduced complexity.
+- Now active from the beginning of the Trial *(was once all Generators are completed)*
+  - Enables prerunning to gates before the final generator has been completed while also reducing complexity of the perk description slightly.
+- Now displays the Wake Up! icon to all teammates in the Player Effects portion of the HUD once the gates are powered. (undocumented)
+  - This prevents awkward situations where a non-partied survivor won't let you open the exit gate, preventing you from using your perk and opening it slower.
+
+
+## [We'll Make It](<https://deadbydaylight.wiki.gg/wiki/We%27ll_Make_It>) 💡
+
+- Decreased timer to **20/40/60 seconds** *(was 30/60/90)*
+  - Slight numbers nerf to limit situations where the perk is used to heal players who did not assist in activating the perk.
+
+
+## [We're Gonna Live Forever](<https://deadbydaylight.wiki.gg/wiki/We%27re_Gonna_Live_Forever>)
+
+No changes
+
+
+## [Wicked](<https://deadbydaylight.wiki.gg/wiki/Wicked>)
+
+- Now increases the rate at which you gain Resolve by **+100%** when hooked inside the Basement
+  - Resolve is the official term for the Anti-Face Camp meter that allows you to un-hook yourself if you're camped too long. This gives the perk a reasonable potential to allow for a self-unhook during the Struggle phase of hook, while also discouraging basement camping.
+
+
+## [Windows of Opportunity](<https://deadbydaylight.wiki.gg/wiki/Windows_of_Opportunity>)
+
+- Now only applies to the nearest 3 Breakable Walls, nearest 3 Pallets, and nearest 3 Windows
+  - Slight nerf to a relatively high strength and extremely high pickrate perk that should also prevent overstimulation issues on resource-dense maps without kneecapping the perk too much.
+
+
+## [Wiretap](<https://deadbydaylight.wiki.gg/wiki/Wiretap>)
+
+- Now displays a pair of headphones dangling off of the Generator after being installed to both Survivors and Killers
+  - Allows the Killer to identify it's in play
+- Now deactivates once a listening device has been installed instead of becoming a timer
+  - Allows you to begin progress towards another Wiretap after one has already been installed on a Generator, instead of having to wait for it to naturally deactivate or be kicked.
+- Installing a listening device now deactivates all previous listening devices
+  - Prevents installing listening devices on multiple Generators at once.

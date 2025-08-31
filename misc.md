@@ -15,7 +15,7 @@ This one has been suggested a lot, but having the survivor-aura portion of Kindr
 
 ### Refined serum blight trail on all Haste effects
 
-The survivor Halloween event add-on [Refined Serum](https://deadbydaylight.wiki.gg/wiki/Refined_Serum) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify NOED at the beginning of end-game, or confirming Boon: Dark Theory.
+The survivor Halloween event add-on [Refined Serum](<https://deadbydaylight.wiki.gg/wiki/Refined_Serum>) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify NOED at the beginning of end-game, or confirming Boon: Dark Theory.
 
 
 ### Automatic dying state recovery
@@ -47,6 +47,10 @@ Modify the normal 7-second grace period based on the average progression of the 
 
 There is an additional sound layer to players running called "running grunts" that begin playing after sprinting continuously for ~5 steps. Currently there is nothing that effects the existence nor volume of these. Tying the volume of Running Grunts to the Grunts of Pain adjustments done by Iron Will, Off the Record, Stridor, etc. would provide these otherwise injured-only effects a more general minor benefit.
 
+### Striped auras for objects that would be highlighted in multiple different colors
+
+If for example a Generator should be highlighted in both White and Yellow, this would be shown as horiztonal white and yellow striping.
+
 
 ## UI
 
@@ -62,7 +66,7 @@ This will function similar to DBD Mobile's implementation, providing you with a 
 
 ### Teammate loadout previews
 
-Show the loadouts (perks, offerings, items, and addons) of survivors to one another, allowing survivors to play into each others perks. This is [partially planned](https://x.com/DeadbyDaylight/status/1956094946320007554), but only for perks and only once survivors are in the match, meaning you cannot plan your build around others (e.g. you may still have multiple healing players, multiple open-handeds, 4 kindreds, etc and only realize this once you're in-game).
+Show the loadouts (perks, offerings, items, and addons) of survivors to one another, allowing survivors to play into each others perks. This is [partially planned](<https://x.com/DeadbyDaylight/status/1956094946320007554>), but only for perks and only once survivors are in the match, meaning you cannot plan your build around others (e.g. you may still have multiple healing players, multiple open-handeds, 4 kindreds, etc and only realize this once you're in-game).
 
 
 ### Status effects in survivor HUD
@@ -95,3 +99,20 @@ As of right now, a limited set of perks are displayed to the opposing role in th
 ### Display identified perks to all survivors
 
 Currently, if one survivor encounters a perk like Dead Man's Switch or Oppression that show up in the upper right, this is only displayed to the survivor that encountered it, meaning it can be communciated to teammates in SWFs but not in solo queue. This could very easily be changed to also display it to other survivors once it's encountered.
+
+
+## Settings
+
+### Indepently adjustable sliders for different types of audio
+
+Separate the master and sound effects volume sliders into multiple sliders, for example:
+- Menu/Lobby sound effects (e.g. doctor laugh, Jonesey meow, etc.)
+- Terror Radii & Lullaby
+- Chase Music
+- Screams
+- Killer Power Sound Effects (Blight rush, global Wraith cloak, Biopod ambient noise, etc.)
+
+
+### Indepently adjustable graphics settings
+
+Enable changing the graphics settings ScalabilitGroups from the GameUserSettings.ini file directly through the in-game UI, opening up this customization to more PC players and to console players. Currently this consists of Resolution, View Distance, Anti-Aliasing, Shadows, Global Illumination, Reflections, Post-Processing Effects, Textures, Visual Effects, Foliage, Shading, Animation, and Landscape.
