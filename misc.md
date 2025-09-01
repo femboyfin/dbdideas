@@ -18,12 +18,12 @@ This one has been suggested a lot, but having the survivor-aura portion of Kindr
 The survivor Halloween event add-on [Refined Serum](<https://deadbydaylight.wiki.gg/wiki/Refined_Serum>) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify NOED at the beginning of end-game, or confirming Boon: Dark Theory.
 
 
-### Automatic dying state recovery
+### Automatic dying state recovery ⏲️
 
 Automatically recover up to 95% (or 99% if allowed via perks) while not crawling. This prevents slugged survivors from forgetting to recover or griefing by refusing the recover.
 
 
-### Change self-recovery action to an active ability button
+### Change self-recovery action to an active ability button ⏲️
 
 This one is quite simple, similar to the 2v8 Scout ability, instead of fully filling your recovery bar, you gain an active ability button to recover yourself once you're eligible to do so, instead of filling the bar. This ensures self-recovery is more deliberate, and works in tandem with the above automatic recovery change.
 
@@ -47,9 +47,15 @@ Modify the normal 7-second grace period based on the average progression of the 
 
 There is an additional sound layer to players running called "running grunts" that begin playing after sprinting continuously for ~5 steps. Currently there is nothing that effects the existence nor volume of these. Tying the volume of Running Grunts to the Grunts of Pain adjustments done by Iron Will, Off the Record, Stridor, etc. would provide these otherwise injured-only effects a more general minor benefit.
 
+
 ### Striped auras for objects that would be highlighted in multiple different colors
 
 If for example a Generator should be highlighted in both White and Yellow, this would be shown as horiztonal white and yellow striping.
+
+
+### Clearly mark the escape boundary in exit gates
+
+Over time a variety of new gate designs have been introduced to better suit different maps. This is great thematically and in certain maps the traditional gates would definitely clash/feel jarring. However this has introduced the issue where it is sometimes unclear exactly where the line to escape is, leading to some awkward situations where you may think you're in a safe position stalling for time but you actually aren't, or think you're safe from a given exit gate blocker addon because the escape boundary is farther than you intuitively thought. Having some sort of subtle glow or fog eminate from the line would make this much clearer, including for killers at a distance before their exit gate blockers are shown, making it easier to gauge whether hitting someone will knock them out or not before the swing.
 
 
 ## UI
@@ -99,6 +105,21 @@ As of right now, a limited set of perks are displayed to the opposing role in th
 ### Display identified perks to all survivors
 
 Currently, if one survivor encounters a perk like Dead Man's Switch or Oppression that show up in the upper right, this is only displayed to the survivor that encountered it, meaning it can be communciated to teammates in SWFs but not in solo queue. This could very easily be changed to also display it to other survivors once it's encountered.
+
+
+### Revealed status effect in 1v4
+
+In 2v8, Survivor Aura reveal is done via a Status Effect known as Revealed. This clearly communicates to the user that their Aura is being revealed. This is tremendously good for the new player experience, as absent equipping either Distortion (4,500 IS) or Object of Obsession (500 AC), there is no way to know if your Aura is being revealed to the opposing side. This could be done to both roles, meaning Killers would gain the Revealed effect as well. This would result in less confusion and allow for more opposing-side perk identification where it's otherwise impossible in many cases (Kindred, Wiretap, I'm All Ears, Bitter Murmur, etc).
+
+
+### Display Perk/Addon/Power Icon for the source of Status Effects
+
+Currently, the strength percentage values of certain effects like Haste & Hindered are both shown in the corner of those effects. This could be extended to display the icon of whatever caused it in the upper left corner. This means if you received the Mangled status from from Sloppy Butcher, you'll see the Sloppy Butcher icon in the corner of the Mangled icon in your HUD. This allows you to identify the source of an effect if you miss the initial cause of it in the upper right of the HUD, makes inflicting status effects more clear to the user, and makes it easier to identify if you're being affected by a perk's othter effects in cases where Aura reveal and other effects are triggered at once (think Babysitter, Gearhead).
+
+
+### Display names of Perk/Addon/Powers in the upper right for effects shown in the Player Effects section of the HUD
+
+Buff/debuff Player Effects currently don't always identify themselves by name in the upper right, making it more difficult to recognize and learn them for new players. For experienced players, they have the icon visible and can identify it visually, but there's no way for a new player to ask their friend what it does mid-match, or google it while working on generator/as you hook using a voice assistant. There is effectively no downside to this as you're not introducing new information, instead serving existing information in an additional way, making this primarily an accessibility and new player experience change.
 
 
 ## Settings
