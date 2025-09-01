@@ -12,12 +12,12 @@ These are primarily ideas myself and my partner Echo have come up with and bounc
 
 The intention is to slowly iterate through element by element taking the time to make thoughtful changes and then periodically review them. You can see our methodology in the next section.
 
-- [ ] [Survivor perks](survivor_perks.md) **IN PROGRESS!**
-- [ ] [Basekit/Miscellaneous](misc.md)  **IN PROGRESS!**
-- [ ] Killer perks
+- [x] [Survivor perks](survivor_perks.md) *as of 9.1.3*
+- [ ] [Killer perks](killer_perks.md) **IN PROGRESS**
+- [ ] [Basekit/miscellaneous](misc.md) **IN PROGRESS**
 - [ ] Killer powers
-- [ ] Killer Addons
-- [ ] Survivor Item & Addons
+- [ ] Killer addons
+- [ ] Survivor items & addons
 
 
 ## Goals
@@ -47,6 +47,7 @@ We use the following emojis as shorthands to make it easier to view or opinions 
 |  🔬   | Needs testing | Appreciable potential to be problematic (e.g. when comboed), requires playtesting      |
 |  💡   | Idea          | Just an early idea, not necessarily for implementation, and no balance promises        |
 |  ⏲️   | Incoming!     | A feature that has been officially roadmapped and concretely will be implemented soon  |
+
 
 ## Styling
 
