@@ -2,7 +2,7 @@
 
 Here we'll include changes to other features that don't fit into the categories of perks/items/addons/powers. Often this means UI changes, adjustments to or additional basekit features, or more typically making an existing feature partially or fully basekit.
 
-*Note this is not yet structued in an official fashion.*
+*Note this is not yet structured in an official fashion.*
 
 
 ## Basekit changes
@@ -15,7 +15,7 @@ This one has been suggested a lot, but having the survivor-aura portion of Kindr
 
 ### Refined serum blight trail on all Haste effects
 
-The survivor Halloween event add-on [Refined Serum](<https://deadbydaylight.wiki.gg/wiki/Refined_Serum>) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify NOED at the beginning of end-game, or confirming Boon: Dark Theory.
+The survivor Halloween event add-on [Refined Serum](<https://deadbydaylight.wiki.gg/wiki/Refined_Serum>) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify Hex: No One Escapes Death at the beginning of end-game, or confirming Boon: Dark Theory.
 
 
 ### Automatic dying state recovery ⏲️
@@ -30,7 +30,7 @@ This one is quite simple, similar to the 2v8 Scout ability, instead of fully fil
 
 ### Anti-power-proxy-camp mechanics
 
-Progress the anticamp meter at a faster rate based on killer power proximity. Would take more than one stage, say 90 seconds, to fully fill the anticamp meter, meaning in practice, it primarily prevents the killer from proxying with power and then face camping to secure the stage progression. Would be somewhat tricky for certain killers like Huntress and Ghoul, although less effective, there could be checks on whether the hatchet is held down and aimed within a 90 degree cone towards the hook from the killer's position, same going for Ghoul power with his power held up ready to leap. This definitely would vary in effectiveness killer to killer, but overall would definitely be an improvement if tuned well.
+Progress the anti-camp meter at a faster rate based on killer power proximity. Would take more than one stage, say 90 seconds, to fully fill the anti-camp meter, meaning in practice, it primarily prevents the killer from proxying with power and then face camping to secure the stage progression. Would be somewhat tricky for certain killers like Huntress and Ghoul, although less effective, there could be checks on whether the hatchet is held down and aimed within a 90 degree cone towards the hook from the killer's position, same going for Ghoul power with his power held up ready to leap. This definitely would vary in effectiveness killer to killer, but overall would definitely be an improvement if tuned well.
 
 
 ### Anti-camp stage secure prevention
@@ -50,12 +50,12 @@ There is an additional sound layer to players running called "running grunts" th
 
 ### Striped auras for objects that would be highlighted in multiple different colors
 
-If for example a Generator should be highlighted in both White and Yellow, this would be shown as horiztonal white and yellow striping.
+If for example a Generator should be highlighted in both White and Yellow, this would be shown as horizontal white and yellow striping.
 
 
 ### Clearly mark the escape boundary in exit gates
 
-Over time a variety of new gate designs have been introduced to better suit different maps. This is great thematically and in certain maps the traditional gates would definitely clash/feel jarring. However this has introduced the issue where it is sometimes unclear exactly where the line to escape is, leading to some awkward situations where you may think you're in a safe position stalling for time but you actually aren't, or think you're safe from a given exit gate blocker addon because the escape boundary is farther than you intuitively thought. Having some sort of subtle glow or fog eminate from the line would make this much clearer, including for killers at a distance before their exit gate blockers are shown, making it easier to gauge whether hitting someone will knock them out or not before the swing.
+Over time a variety of new gate designs have been introduced to better suit different maps. This is great thematically and in certain maps the traditional gates would definitely clash/feel jarring. However this has introduced the issue where it is sometimes unclear exactly where the line to escape is, leading to some awkward situations where you may think you're in a safe position stalling for time but you actually aren't, or think you're safe from a given exit gate blocker addon because the escape boundary is farther than you intuitively thought. Having some sort of subtle glow or fog emanate from the line would make this much clearer, including for killers at a distance before their exit gate blockers are shown, making it easier to gauge whether hitting someone will knock them out or not before the swing.
 
 
 ## UI
@@ -72,7 +72,7 @@ This will function similar to DBD Mobile's implementation, providing you with a 
 
 ### Teammate loadout previews
 
-Show the loadouts (perks, offerings, items, and addons) of survivors to one another, allowing survivors to play into each others perks. This is [partially planned](<https://x.com/DeadbyDaylight/status/1956094946320007554>), but only for perks and only once survivors are in the match, meaning you cannot plan your build around others (e.g. you may still have multiple healing players, multiple open-handeds, 4 kindreds, etc and only realize this once you're in-game).
+Show the loadouts (perks, offerings, items, and addons) of survivors to one another, allowing survivors to play into each others perks. This is [partially planned](<https://x.com/DeadbyDaylight/status/1956094946320007554>), but only for perks and only once survivors are in the match, meaning you cannot plan your build around others (e.g. you may still have multiple healing players, multiple Open-Handed's, 4 Kindreds, etc and only realize this once you're in-game).
 
 
 ### Status effects in survivor HUD
@@ -87,9 +87,9 @@ This comes in two parts:
 This can use the same bar used for hook states/deep wound, simply displaying how healed a survivor is so you can tell if they're 99ed, have resurgence, etc. remotely. The decreasing deep wound timer could be changed to display as an outline around the bar, allowing the bar itself to display the mend progress consistent with the injured heal progress display.
 
 
-### Display anticamp self-unhook progress
+### Display anti-camp self-unhook progress
 
-This could be implemented similarly to the above change to the deep wound display, where there would be an outline around the hook stage bar indicating how close the survivor is to filling their anticamp meter, making it easier to play around a camping killer and know if the killer is camping without other sorts of communication.
+This could be implemented similarly to the above change to the deep wound display, where there would be an outline around the hook stage bar indicating how close the survivor is to filling their anti-camp meter, making it easier to play around a camping killer and know if the killer is camping without other sorts of communication.
 
 
 ### Enable chat for console players
@@ -99,12 +99,12 @@ At worst this means console players can read chat but will have a hard time resp
 
 ### Display all encountered perks post-interaction
 
-As of right now, a limited set of perks are displayed to the opposing role in the upper right when they're encountered. This means post interaction, sometimes it's unclear exactly what effect applied. This is particularly true in the case of Endurance effects, as it can be nearly impossible to tell if the survivor that got picked up died getting their final Mettle stack, had Soul Guard, or if the healer had WGLF. This creates an unfortunate game of guesswork even among highly experienced players, and makes it more difficult for newer players to catch onto what effects are being used against them mid-game. Some easy examples are perks that cause survivors to scream, Endurance effects (and mettle), Breakout if it assists in a wiggle, Saboteur if it's used to succesfully sabotage a hook, the cause of a generator explosion, and so-on.
+As of right now, a limited set of perks are displayed to the opposing role in the upper right when they're encountered. This means post interaction, sometimes it's unclear exactly what effect applied. This is particularly true in the case of Endurance effects, as it can be nearly impossible to tell if the survivor that got picked up died getting their final Mettle stack, had Soul Guard, or if the healer had We're Gonna Live Forever. This creates an unfortunate game of guesswork even among highly experienced players, and makes it more difficult for newer players to catch onto what effects are being used against them mid-game. Some easy examples are perks that cause survivors to scream, Endurance effects (and mettle), Breakout if it assists in a wiggle, Saboteur if it's used to successfully sabotage a hook, the cause of a generator explosion, and so-on.
 
 
 ### Display identified perks to all survivors
 
-Currently, if one survivor encounters a perk like Dead Man's Switch or Oppression that show up in the upper right, this is only displayed to the survivor that encountered it, meaning it can be communciated to teammates in SWFs but not in solo queue. This could very easily be changed to also display it to other survivors once it's encountered.
+Currently, if one survivor encounters a perk like Dead Man's Switch or Oppression that show up in the upper right, this is only displayed to the survivor that encountered it, meaning it can be communicated to teammates in SWFs but not in solo queue. This could very easily be changed to also display it to other survivors once it's encountered.
 
 
 ### Revealed status effect in 1v4
@@ -114,7 +114,7 @@ In 2v8, Survivor Aura reveal is done via a Status Effect known as Revealed. This
 
 ### Display Perk/Addon/Power Icon for the source of Status Effects
 
-Currently, the strength percentage values of certain effects like Haste & Hindered are both shown in the corner of those effects. This could be extended to display the icon of whatever caused it in the upper left corner. This means if you received the Mangled status from from Sloppy Butcher, you'll see the Sloppy Butcher icon in the corner of the Mangled icon in your HUD. This allows you to identify the source of an effect if you miss the initial cause of it in the upper right of the HUD, makes inflicting status effects more clear to the user, and makes it easier to identify if you're being affected by a perk's othter effects in cases where Aura reveal and other effects are triggered at once (think Babysitter, Gearhead).
+Currently, the strength percentage values of certain effects like Haste & Hindered are both shown in the corner of those effects. This could be extended to display the icon of whatever caused it in the upper left corner. This means if you received the Mangled status from from Sloppy Butcher, you'll see the Sloppy Butcher icon in the corner of the Mangled icon in your HUD. This allows you to identify the source of an effect if you miss the initial cause of it in the upper right of the HUD, makes inflicting status effects more clear to the user, and makes it easier to identify if you're being affected by a perk's other  effects in cases where Aura reveal and other effects are triggered at once (think Babysitter, Gearhead).
 
 
 ### Display names of Perk/Addon/Powers in the upper right for effects shown in the Player Effects section of the HUD
@@ -124,7 +124,7 @@ Buff/debuff Player Effects currently don't always identify themselves by name in
 
 ## Settings
 
-### Indepently adjustable sliders for different types of audio
+### Independently adjustable sliders for different types of audio
 
 Separate the master and sound effects volume sliders into multiple sliders, for example:
 - Menu/Lobby sound effects (e.g. doctor laugh, Jonesey meow, etc.)
@@ -134,6 +134,6 @@ Separate the master and sound effects volume sliders into multiple sliders, for 
 - Killer Power Sound Effects (Blight rush, global Wraith cloak, Biopod ambient noise, etc.)
 
 
-### Indepently adjustable graphics settings
+### Independently adjustable graphics settings
 
-Enable changing the graphics settings ScalabilitGroups from the GameUserSettings.ini file directly through the in-game UI, opening up this customization to more PC players and to console players. Currently this consists of Resolution, View Distance, Anti-Aliasing, Shadows, Global Illumination, Reflections, Post-Processing Effects, Textures, Visual Effects, Foliage, Shading, Animation, and Landscape.
+Enable changing the graphics settings Scalability Groups from the GameUserSettings.ini file directly through the in-game UI, opening up this customization to more PC players and to console players. Currently this consists of Resolution, View Distance, Anti-Aliasing, Shadows, Global Illumination, Reflections, Post-Processing Effects, Textures, Visual Effects, Foliage, Shading, Animation, and Landscape.

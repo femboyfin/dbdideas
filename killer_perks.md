@@ -17,7 +17,7 @@ No changes
 ## [Alien Instinct](<https://deadbydaylight.wiki.gg/wiki/Alien_Instinct>) 📉 🗑️
 
 - Increased Aura reveal duration to **16 seconds** *(was 8)*
-  - Sizable numbers buff to increase perk stregnth and therefor playrate.
+  - Sizable numbers buff to increase perk strength and therefor playrate.
 
 
 ## [All-Shaking Thunder](<https://deadbydaylight.wiki.gg/wiki/All-Shaking_Thunder>) 📉
