@@ -1,0 +1,102 @@
+# [Huntress](<https://deadbydaylight.wiki.gg/wiki/Anna>)
+
+## Addons
+
+### [Soldier's Puttee](<https://deadbydaylight.wiki.gg/wiki/Soldier%27s_Puttee>) (Red)
+
+-
+
+
+### [Iridescent Head](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Head>) (Red)
+
+-
+
+
+### [Wooden Fox](<https://deadbydaylight.wiki.gg/wiki/Wooden_Fox>) (Purple)
+
+-
+
+
+### [Infantry Belt](<https://deadbydaylight.wiki.gg/wiki/Infantry_Belt>) (Purple)
+
+-
+
+
+### [Glowing Concoction](<https://deadbydaylight.wiki.gg/wiki/Glowing_Concoction>) (Purple)
+
+-
+
+
+### [Begrimed Head](<https://deadbydaylight.wiki.gg/wiki/Begrimed_Head>) (Purple)
+
+-
+
+
+### [Venomous Concoction](<https://deadbydaylight.wiki.gg/wiki/Venomous_Concoction>) (Blue)
+
+-
+
+
+### [Rusty Head](<https://deadbydaylight.wiki.gg/wiki/Rusty_Head>) (Blue)
+
+-
+
+
+### [Rose Root](<https://deadbydaylight.wiki.gg/wiki/Rose_Root>) (Blue)
+
+-
+
+
+### [Flower Babushka](<https://deadbydaylight.wiki.gg/wiki/Flower_Babushka>) (Blue)
+
+-
+
+
+### [Deerskin Gloves](<https://deadbydaylight.wiki.gg/wiki/Deerskin_Gloves>) (Blue)
+
+-
+
+
+### [Weighted Head](<https://deadbydaylight.wiki.gg/wiki/Weighted_Head>) (Green)
+
+-
+
+
+### [Shiny Pin](<https://deadbydaylight.wiki.gg/wiki/Shiny_Pin>) (Green)
+
+-
+
+
+### [Oak Haft](<https://deadbydaylight.wiki.gg/wiki/Oak_Haft>) (Green)
+
+-
+
+
+### [Manna Grass Braid](<https://deadbydaylight.wiki.gg/wiki/Manna_Grass_Braid>) (Green)
+
+-
+
+
+### [Leather Loop](<https://deadbydaylight.wiki.gg/wiki/Leather_Loop>) (Green)
+
+-
+
+
+### [Yellowed Cloth](<https://deadbydaylight.wiki.gg/wiki/Yellowed_Cloth>) (Brown)
+
+-
+
+
+### [Coarse Stone](<https://deadbydaylight.wiki.gg/wiki/Coarse_Stone>) (Brown)
+
+-
+
+
+### [Bandaged Haft](<https://deadbydaylight.wiki.gg/wiki/Bandaged_Haft>) (Brown)
+
+-
+
+
+### [Amanita Toxin](<https://deadbydaylight.wiki.gg/wiki/Amanita_Toxin>) (Brown)
+
+-
