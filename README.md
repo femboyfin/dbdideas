@@ -1,11 +1,11 @@
 # DBD Ideas
 
-This repository is supposed to be an exhaustive list of theoretical positive changes to any and all aspect of Dead by Daylight. Specific priorities and other information is listed below.
+This repository is supposed to be an exhaustive list of theoretical positive changes to any and all aspect of Dead by Daylight. Specific priorities and other information like balance priorities are listed below.
 
 
 ## Who's ideas are these? What makes you qualified to suggest balance changes?
 
-These are primarily ideas myself and my partner Echo have come up with and bounced off each other. I started in August of 2024 and have racked up 2,700 hours in my first year of playing, with the majority of my time duo queuing in public matches. On the other hand, Echo has been playing since shortly after launch and has comp experience, so we both have a reasonably high level of experience in different segments of Dead by Daylight. Some ideas may be the product of cryptomnesia and there's surely going to be plenty of examples of parallel thinking as well, but overall these ideas are from hours of discussion going through element by element of a current feature's implementation and thinking about what we could change to accomplish our [goals](#Goals).
+These are primarily ideas myself and my friend Echo have come up with and bounced off each other. I started in August of 2024 and have 2,800 hours to date, with the majority of my time duo queuing in public matches. On the other hand, Echo has been playing since shortly after launch and has comp experience, so we both have a reasonably high level of experience in different segments of Dead by Daylight. Some ideas may be the product of cryptomnesia and there's surely going to be plenty of examples of parallel thinking as well, but overall these ideas are from hours of discussion going through element by element of a current feature's implementation and thinking about what we could change to accomplish our [goals](#Goals).
 
 
 ## Current progress
