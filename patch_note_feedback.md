@@ -1,0 +1,508 @@
+# THESE ARE JUST MY (FIN'S) OPINIONS, UNLIKE THE REMAINDER OF THIS REPOSITORY WHERE ALL CONTENT HAS BEEN BOUNCED OFF OF A CLOSE FRIEND. ALL OPINIONS HERE ARE MY OWN.
+
+## Important
+
+### New PTB Flow
+
+- Starting with the 9.2.0 PTB, we are changing the way users connect to the PTB, simplifying the process we use to port saves over to test builds:
+  - All characters you have unlocked via Steam will be unlocked on the PTB, including any new character(s) introduced in this update.
+    - *If DLC content has been unlocked via a platform other than Steam (including the in-game Store), this will not be automatically unlocked in the PTB. This content can be unlocked with the provided Auric Cells.* **This is not always true. In the case of characters/outfits who suffered a loss of license (currently Hellraiser, Stranger Things in the past), these characters become unobtainable. This also prevents players from using any limited time availability cosmetics such as old Rift Pass cosmetics, temporary licensed cosmetics like the Attack on Titan ones, Twitch Drop rewards, any cosmetic unlocked via a redeem code, etc. There either needs to be some sort of entitlements grant system where a list of unlocks are held somewhere separate from the player inventory on BHVR's end, allowing them to be unlocked easily without any concerns of lost content from cross-progression or inaccessibility from AC-purchased unlockables/cosmetics. /**
+  - When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process. **Loss of character levelling data means no Bloody cosmetics, Perk charms, or upcoming P100 rewards for players who've unlocked the aforementioned. It seems odd that BHVR would have a feature in the pipeline to reward player loyalty and simply not have it work for the environment where primarily the most loyal players are going to be doing voluntary user acceptance feedback and QA work for them with no benefits. These should be changed to Prestige 9 Level 0 allowing for usage of Bloody cosmetics and Perk charms. Currently "as well as any items that would regularly be obtained during this process" is false, see next bullet:**
+  - All offerings, items, and add-ons will be pre-loaded with 99 units available. **This fundamentally breaks the rarity system. The average rarity of equippables (items, addons, offerings) was tremendously higher than on Live servers, which both results in generally less fun gameplay where you're effectively required to bring a high strength equippable yourself because you now know for a fact the opposing side does have high strength equippables they can bring, it's just a matter of choice that you can't identify until it's too late. While there already was less concern to equippable usage on PTB because of the ephemeral nature, this will further stray data from PTB away from what will actually be seen on Live servers. Simultaneously this makes the PTB a less diverse and less fun experience, indirectly causing players to be less interested in playing it, and pushing those that do back to Live servers sooner, resulting in less community feedback and bug-testing (and therefor bug-reporting). There is an extremely simple solution to this, awarding the items as if the player bulk spent the Bloodpoints to get the automatically given prestige, resulting in a much more realistic distribution of items (for reference, 10.5M spend on Survivor = ~15 of each Iri addon, ~35 of purples, ~40 blues, ~20 greens, and ~50 browns), this combined with the above change to set players to P9 makes for a very reasonable and realistic item variance for players wishing to play more than a day or so on the PTB and still creating the urge to ration at least a little bit, at the very least this improves the situation.**
+  - 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store. **12,500 Auric Cells is not enough to purchase every character in the game for a single side, nevermind both sides. If we're unable to receive our AC-unlocked characters, this means it is very much so possible for someone to be unable to test all of the characters they'd like to in a PTB. This is less applicable to survivor, but even then there have been some instances where survivors have received changes across the board that create an interest in trying out all of the Survivors. Two recent examples are the Steady Pulse "True-to-life skin reflections", or FNAF Survivor volume normalisation (confirmed in the 2025 reddit AMA but not the patch notes). Additionally, if the automatic prestige continues to be as low as P3L50, then 5 million Bloodpoints is a much more reasonable amount to allow players to get their character's bloody cosmetics without having to play a dozen games first. There are also players who have spent far more than 12,500 AC on cosmetics over time, meaning even for those that have purchased every chapter through Steam, they won't be able to get their full wardrobe of purchaseable cosmetics on the PTB, so an increased AC count seems very reasonable (if possible, not sure where the licensing restraints come in here as PTBs seem to be an exception allowing access to a limited amount of licensed content for free), something like 50,000 or 125,000 both seem like realistic numbers where they prevent players from needing to worry without injecting all of the unlocks into everyone's save data.**
+**This isn't in response to a specific part of the patch notes, but it's worth mentioning that the Developer badge and banner, while funny to equip during the PTB as a layperson, does devalue the badge and increases the likelihood of impersonation. It also removes those cool moments where you bump into a dev and can compliment the new content, give some brief direct feedback, or ask a short question, I imagine those that leave the badge equipped likely see more positive than negative interactions from it in-game, and I'm sure that serves to offset some of the verbal attacks and kicking & screaming from that portion of the community on social media who aren't digitally face-to-face with a person on the team.**
+
+## New Content
+
+### New Killer - The Krasue
+
+#### KILLER POWER: UNBODIED FLESH
+
+- The Krasue detaches from its body, emerging as a floating head with a trail of organs drifting behind it. **Not explicitly mentioned here but in the PTB the body kept the momentum in the movement direction the killer was running in, which can give the impression the killer isn't respecting a pallet or is walking around the side of a long wall on a four-lane for example. Having this leaned into a little more by extending the duration the body continues forward slightly could make for some interesting dynamic mindgames.**
+
+#### SPECIAL ABILITY: CORPOREAL WEAVE
+
+- Press Ability button 1 to shift between Body and Head Form. **The degree to which Head Form is granted third person feels extremely overtuned. A killer with this much mobility and what are currently timed injures after an infection does not need this strong of a variation of Chucky chuckspots. While I'm totally for third person killers, I think they're a very fun dynamic, the Krasue in particular absolutely does not need these to be this strong on her. The third person perspective FOV you get feels borderline ridiculous to a similar degree of vault speed myers where it feels less like something normally in the game and almost feels like it's modded or an exploit rather than something intentional.**
+  - Body Form has a 32 meter Terror Radius.
+  - Head Form has a 40 meter Terror Radius. It is slightly faster but cannot break pallets and is not granted the Bloodlust status effect. **No bloodlust is particularly interesting to me here, as previously we haven't seen a state change killer entirely lose the ability to Bloodlust as a balancing mechanic. It is interesting that this outright disables Bloodlust, rather than capping it at Bloodlust 2, as this is likely to accomodate the Krasue being the first killer with a native 4.8m/s (120%) movement speed mode, and a Bloodlust 2 cap would serve to limit her top-end movement speed with Bloodlust to the same as a 4.6m/s (115%) killer. However this would mean she would effectively have 115 BL2 speed after the activation time of BL1, and 115 BL3 speed after the activation time of BL3. I am a bit concerned about this, as the strength of her vault ability and it's viability at countering certain infinite setups involving dropped pallets has yet to be fully tested, and without the ability to break pallets, this would force her to swap to Body form, giving the Survivor a free chance to leave the tile. It would be a bit more complicated, but adjusting the Bloodlust gain so she reaches 125 after the typical 25 seconds (time for a 115 killer to reach BL2), and then BL3 10 seconds thereafter would be a better solution? One thing to note with this though is that her only attack method is a special attack in this mode, meaning that she would either need the billy treatment of building Bloodlust while using power, or she'd have to re-build BL3 for potentially 2+ hits in these scenarios.**
+
+#### KILLER EFFECT: LEECHED
+
+- Hitting a Survivor with Intestinal Whip and Regurgitate adds to their Leech Meter. When the meter is filled, the Survivor is afflicted with Leeched I.
+  - Leeched I: The Leech Meter automatically fills over time, up to Leeched II. **The unavoidable gradual climb of the Leech meter can feel quite bad to play against. There have been multiple situations on the PTB where the Krasue did not change to Head form as they "should" and also did not attempt to M1 me, instead spitting on my repeatedly, and eventually took my health state for doing effectively the wrong thing. It also seems to create the illusion that regurgitating on the survivor multiple times progresses their leeched meter, as a large number of killers in the PTB would continually do this for a full game without realizing, only for the end game chat to go 'ggs' "this killer sucks" 'you can't injure with the spit you need to swap head form once you have someone fully infected to damage them' "oh" "well thanks" (that is the interaction verbatim from a match I had). More on this and my solution in the regurgitate section below.**
+  - Leeched II: The Survivor is afflicted with Broken. If healthy, they become injured. **This is fine, happy to see Deep Wound wasn't tacked on basekit, although that could make for a reasonable addon to counter Endurance and discourage dropping chase, but that depends on her strength level once she comes to Live.**
+
+#### SPECIAL ABILITY: INTESTINAL WHIP
+
+- In Head Form, press the Attack button to lash out with your internal organs. **I think everyone was saying this; she feels a bit clunky. The control scheme is a bit unintuitive, having M1 be special attack isn't something players are used to. Having no forgiveness in hugging an obstacle, especially after all previous dash-type killers have had some degree of leniency when doing so results in using her whip ability feeling off/feeling wrong. This is amplified by varying quality in the of collision/clipping of obstacles in the environment (run along the railings on the porch of Garden of Joy's main building as an example).**
+- Survivors afflicted with Leeched can be damaged by Intestinal Whip. **I love that this encourages an infect with one power, state change to a whole different form, then use a different power all in one chase, without feeling like power creep with multiple different specialties across different forms like Dracula/Vecna have, this is implemented excellently. I know the devs love it so much when we compare a new killer's power to older killers', but this feels like a great evolution compared to the simplicity of Nemesis' tentacle, tentacle, tentacle power gameplay loop.**
+- Intestinal Whip partially fills a Survivor’s Leech Meter, up to Leech I. **3 whips to infect is a decision that does effectively force Krasue players to swap forms, which is good that they're being encouraged to use all portions of their power, but the idea of lowering this to 2-whips, maybe with an increased hit recovery time to accommodate, could increase user choice in how they want to approach an interaction and create more diverse gameplay when versing and playing as the Krasue. Not necessarily direct feedback, but something to consider for sure.**
+
+#### SPECIAL ABILITY: REGURGITATE
+
+- In Body Form, press and hold the Power button to charge Regurgitate. When charged, tap the Attack button to spew a Leeching Gland. **Personally for me, this felt a bit unpredictable when using her, and very unpredictable when playing against her. I did spend the majority of my time as Survivor so I do have far more time against her rather than as her, and not too much time playing as her in total, so that could very well be a contributing factor, but I did total over 100 games on the PTB and was still finding it difficult to predict where the splash would bounce. Making this not take into account the angle the killer shot a wall at, simply bouncing directly away from the wall in an even spread could make this more easy to predict but would likely make her feel less dynamic to play. Perhaps some sort of decrease to the number of projectiles so you feel like you got hit by RNG less often, with a compensatory buff allowing her to bounce her regurgitation off the floor could work? Another potential/partial solution is in the next bullet point as well. Alternatively this could very well be a me issue/experience issue and I'm fully aware of that.**
+- Leeching Gland completely fills a Survivor’s Leech Meter, up to Leech I. **Adjusting the leech-meter-increase values on the mini-glands to promote direct hits while still enabling indirect hits from the mini-glands could be a potential improvement.**
+
+#### SPECIAL ABILITY: HEADLONG FLIGHT
+
+- In Head Form, press and hold the Power button to speed through the air. **This feels like more of a scurry than fly ability anecdotally, but that's a naming thing more than anything. Having the head swim up and down more in a sine wave type motion to make her more visible when flying in the distance and around short loops could be a beneficial change.**
+
+#### SPECIAL ITEM: GLOWING FUNGUS
+
+- Survivors can eat Glowing Fungus to decrease the Leech Meter over time. Being hit ends the effect. **The mushrooms have a charming eating animation and seeing infection-cleanse mechanics allow moving is a direction I'm absolutely for! Despite not really making that much of a functional difference it simply FEELS so much better than something like a Wesker spray or Nemesis vaccination. Absolutely great job on these.**
+
+#### NEW KILLER PERKS:
+
+- **Ravenous**
+  - Whenever you hook a Survivor for the first time, gain 1 token, up to 4. **Love perks that reward you for spreading hooks, always a pleasant activation condition to see.**
+  - When you have 4 tokens, all Survivors scream and gain Exposed for 40/50/60 seconds. **These numbers felt reasonable, might be slightly buffable but the risk of creating snowball problems goes up exponentially the longer you expose multiple survivors, and it's not particularly weak or strong at the moment in my opinion. This does promote stealth gameplay similar to Grim Embrace, which isn't particularly in the Killer's best interest, but that's an inherent issue with putting players in a vulnerable state, not an issue with Ravenous, and the scream reveal does combat this.**
+- **Wandering Eye**
+  - Whenever you start chasing a Survivor, reveal the auras of all other injured Survivors within 16/16/16 meters for 5/5/5 seconds. **No comments really, perfectly fine aura perk, will likely see more usage than something like Predator but less than something like the Live version of BBQ, punishes Survivors for high risk gameplay which is a pretty reasonable thing to punish.**
+  - This perk has a 40/35/30-second cooldown. **This cooldown felt fine to verse on the PTB, no complaints, still had an impact a noticeable amount of times but didn't feel overbearing.**
+- **Hex: Overture of Doom**
+  - Spawns a Hex Totem that curses the farthest generator and reveals its aura to you in yellow. **I don't like the concept of not knowing something is in play until you're as far as you can be from it. This both sucks knowing if you want to avoid it's effect you now have to walk across the entire map (and potentially back if you wanted to do that specific generator), and is significantly less problematic in coordinated teams. Even when duo'd on the PTB there were multiple times where I asked my friend who was far closer to go search for the Totem for me because he was on the other side of the map, effectively countering the "farthest" portion of this perk while partied.**
+  - When a Survivor repairs the cursed generator for 5/5/5 seconds, you gain Undetectable and your Terror Radius is applied to the generator for 20/25/30 seconds. **Part of this may be because of the audio levels of the Krasue's Terror Radius, but this serves as more of an annoyance than anything else. I would actually like to see you receive the Oblivious status effect as the person on the generator. Experienced players are going to identify this perk immediately regardless, this makes it easier for newer players to identify it, less confusing for them, and substantially nicer on everyone's ears. There were multiple occasions where I lowered my volume to 1/10th it's normal level while versing this perk because it's simply that annoying.**
+  - When the cursed generator is repaired, the next farthest generator is cursed. **I like the concept of a perk moving generator to generator as they get done and I hope the "cursed generator" concept is used in many future perks, seems like it'll be much more engaging and dynamic than Compromised Generators from Machine Learning/Help Wanted.**
+
+### New Survivor - Vee Boonyasak
+
+#### NEW SURVIVOR PERKS:
+
+- **Road Life**
+  - While injured, not Broken and repairing a generator, gain 1/1/1 token for each regular great skill check success. **Rewarding players for hitting greats is both very fun and dangerous, given the low strength level of the perk as-is I don't think this has too much risk to become problematic.**
+  - When you have 8/7/6 tokens, spend all tokens and gain 100%/100%/100% healing speed until you stop healing. **I didn't use this perk very much and wasn't able to test how this works with interrupted heals but regardless I think this should be changed to "until you've healed 1 Health State" or "until you've Healed 24 charges" or similar. One interrupted heal nullifying counteracting 6 great skill checks is going to feel really bad when it occurs, especially if it's done by a scream perk outside of your control.**
+  - Lose 2/2/2 tokens when you fail a regular skill check. **This perk doesn't really need a downside, I think this can be safely removed.**
+- **ONE-TWO-THREE-FOUR!**
+  - Press Ability button 2 while standing and idle to enter the "performance" interaction that lasts up to 15/15/15 seconds and empowers Survivors within 16/16/16 meters. You will get continuous skill checks during the performance. The effect lasts for 90/90/90 seconds if the performance is completed.
+    - Increases the odds of getting healing and repair skill checks by 20/20/20%. **High potential to be problematic when used in high party sizes with loadouts with this perk in mind. These instances will be far between. That problematic behavior aside which needs to be fixed on it's own, I would love to see multiple performances be completable simultaneously one-man-band style, allowing you to activate this and Bardic Inspiration as well as future performance perks in one go, similar to how multiple Boons have their effects on a single blessed totem.**
+  - When the ability is cancelled or the performance completes, it goes on cooldown for 110/100/90 seconds. **I may be missing something, but I don't think this perk needs this cooldown, as long as the effect doesn't stack I don't see why you can't just re-up it in a new area and reset the timer for any teammates who already had the effect active and provide it to new players in the 16m radius. Seems like an artificial limitation that lowers the amount of decision making you have in applying the effect.**
+- **Ghost Notes**
+  - While you have Exhausted, your scratch marks disappear 50/50/50% faster. **This feels reasonably strong for a functionally passive ability when used with certain Exhausted perks (e.g. Sprint Burst). I do like that there's now a potential upside to being given Exhausted by non-haste Exhausted perks (e.g. Adrenaline and Killer perks/addons).**
+  - You recover 5/7.5/10% faster from Exhausted. **Extremely inconsequential effect, I don't mind that it's there, it's impact is extremely minute especially in comparison to Vigil, but it being there doesn't seem problematic either. No complaints overall.**
+
+## Features
+
+### Tunneling Reduction Update
+
+- Added Custom Match options to enable/disable this feature. **Love to see new gameplay features becoming toggle-able in custom matches.**
+
+#### Unhook Protections Update
+
+- Survivors that are unhooked or unhook themselves receive Unhook Protections for 30 seconds, which include: **30 seconds feels tremendously overtuned, I think at the very most this should be 15 seconds with Borrowed Time increasing it by +15, 30 seconds is absurdly long, this is effectively a free sprint burst worth of distance spread across 30 seconds, and there's no reason to need 30 seconds of Endurance off hook, especially compounded with the fact that the Killer won't receive a notification and therefore can't chase you off hook as easily without camping within line of sight. The Elusive status effect and Collision loss also makes increasing the off-hook protection timer even less needed.**
+  - 10% Haste status effect **This is fine, that's how it is on Live, and 10 seconds at 10% lets you get where you need to go without giving you the entire map at your disposal requiring you to still be smart with it and judge distance well. If we're insistent on giving X meters of distance and preventing the killer from chasing you off hook, increasing this percentage so you gain distance away from the killer rather than just letting you run around forever is a much better solution than the current 30 second timer above.**
+  - Endurance status effect **Once again this is fine as-is, 30 seconds is only going to create situations where people use the BT aggressively, not just to take a hit for the unhooker as they unhook, but to take a hit for them during their chase afterwards, which is no longer protecting them for unhooking you, it's now just aggressively using a basekit anti-tunnel feature. This is a great effect to provide off-hook, but should not last for 30-seconds for free.**
+  - Elusive status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood) **This is strong and pretty much fine. Killers can no longer have their cake and eat it too, they need to have line of sight on the unhook if they want to chase that survivor off hook, meaning you have to choose if you want either chase that person off the hook and actively maintain LOS on the hook, or if you want to chase another survivor in the meantime, you no longer get to easily do both, and would need to rely on macro awareness of survivor rotations to predict the unhook time and get there immediately before, as, or immediately after the unhook comes through to get eyes on the unhook-ee before the run out of view.**
+  - No collision with other players **Fantastic change people have been asking for for ages. I do think this should be disconnected from the basekit unhook protection timer and rather be lost once someone else gets hooked or you are attacked. This prevents situations where the Survivor off hook can aggressively body block to attempt to get the killer to not get their basekit unique hook buffs/try to get them to trigger their tunnelling penalties. There is the one concern of them using this to stand inside the player, but this is generally harder to pull off than standing in a doorway, thin passageway, or between some close-together obstacles.**
+  - Reveal the Killer's aura within 32 meters **This is overtuned and should be reduced to 24 meters, you generally do not need to know the killer's active position farther than that, particularly if you're imperceivable without line of sight due to Elusive. Additionally, giving 30 seconds of Killer whereabouts to a player is extremely beneficial to partied Survivors. Anecdotally I don't remember if this applied to Undetectable killers or if it revealed their auras through Blindness, but providing Killer Instinct periodically instead of displaying Aura could allow this to work through those status effects and with the right interval, limit how much information the off-hook Survivor can provide to partied Survivors, while still enabling them to hide from the Killer rather effectively (or at the very least, more effectively than they previously could).**
+  - Immunity to Killer Instinct **This breaks the fundamental concept that Killer Instinct is unstoppable, while punishing only a small handful of generally lower strength killers. It's also simply not necessary, the other effects are bonus enough to Survivors.**
+  - Immunity to AFK crows **This also doesn't seem necessary, if even after your unhook benefits you still don't work on an objective for a while, you aren't really progressing the game at that point and therefor should receive crows. If anything this is just going to increase scenarios where survivors will "rat out" and hide in 1v2 situations, discouraging the other Survivor from unhooking at risk of creating a "rat 1v1" where both Survivors stealth until the killer finds one of them.**
+- These effects linger for 3 seconds after being healed for a full health state. **This is borderline ignorable with 99ed heals, which is also substantially more viable in a partied environment than in solo queue. With resurgence and a med-kit, this was tremendously easy to ask my friend to 99 me, allowing me to safely reposition myself with the Haste and Elusive, healing myself once I got to the conspicuous action I wanted to do, entirely subverting this effect. If the second timer must remain higher than 10-15 seconds, this should be changed to speed up those timers while being healed either in correlation with charges or heal duration.**
+- These effects are lost when performing a Conspicuous Action. **This is good.**
+- These effects are disabled when all generators are completed, except for the Haste and Endurance status effects. **This is confusing for the new player Experience, I would rather see them significantly tuned down across the board rather than outright disabled, that way it's not "oh yeah this effect and that effect stay in end-game but at a limited duration and the rest don't work in end-game at all". I have had multiple different people in the last month who don't play the game very often or are returning players and are confused why they don't have an anti-face-camp resolve meter during end-game because they thought they'd be able to unhook themselves only for me to explain to them that it disables in end-game as there's no way this is communicated to players, and them to respond with something to the effect of "oh... that's nice to know..".**
+- The Survivor is still susceptible to attacks and powers. **Good, not sure why this needed to be mentioned though.**
+
+#### Hook Status Update
+
+- When a Survivor is hooked, the hook's status is obscured for the Killer: **Similar to the Elusive status effect on unhook, this seems like a good way to force the killer to choose between going after the unhooked Survivor or chasing during the hook stage, rather than allowing both. This also disproportionally affects higher mobility (which are generally higher strength) killers, and doesn't penalize the lower tier killers quite as much, which always a nice thing to see.**
+  - The Killer cannot see the hook's status in the HUD **This should be changed to only their portrait and the current hook stage progression UI should simply not be shown in the HUD. This would counteract some of the loss of macro knowledge from not knowing when an unhook comes through by allowing you to see the at-a-glance hook stages of all survivors, and easily tell who was last hooked as that's currently hidden behind the "hook status" hiding shroud that covers the player portrait and their name/etc.**
+  - The Killer can no longer see the hook's aura **This is fine. Hooks are static elements and it's generally not too difficult to remember where the one you put someone on was, you just need an okay memory and decent enough special awareness. Requires slightly more active effort to go back to the hook which seems pretty reasonable given it's effectiveness on Live.**
+- When a Survivor is unhooked:
+  - There is no loud noise notification
+  - The hook's status in the HUD is revealed 10 seconds later **I think this should come with some sort of audio queue so you don't have to be staring at your HUD to receive the macro knowledge of survivor positions, especially given you're receiving this information on a 10-second delay. The entire concept of not notifying the killer is great for preventing them from going back to hook from a distance to tunnel someone out, but it does come at the cost of the killer's macro awareness of the survivor locations and what they're up to, providing an audio queue like we had before via the loud noise notification would offset some of this loss of information, allowing you to predict where they went and figure out where they could gone since the unhook took place.**
+- These effects are disabled when all generators are completed. **I think this is fine. It'll harm the new player experience similar to the deactivation of only some of the unhook protections in end-game, but not too substantially. Changing the loud noise notification on hook to something unique so new players don't confuse this with a missed skill check seems like a pretty reasonable change to offset this partially.**
+
+#### Unique Hook Bonuses
+
+- When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following effects: **This is phrased poorly. These benefits are given to any killer who hooks someone as long as they weren't hooked twice in a row, meaning that your first hook will always grant these effects. Meaning this is more of a new baseline balance wise and you can tunnel at the cost of not gaining these effects, meaning every consecutive hook is effectively a net-negative compared to the standard of unique hooking and gaining these effects. I think the perspective at which you view these changes makes a great difference in gut reactions and how reasonable/unreasonable they are. These do function as a basekit buff to killer, providing basekit regression and information for the first time which is quite substantial as a concept, numbers aside.**
+  - 20% bonus to the next damage generator action ("kicking" the generator) **First of all this is stronger than Pop Goes the Weasel on Live because Pop subtracts 20% of the *current progress* on the kicked generator, whereas this is a flat 20% bonus which comes from the *total* progress. Pop on a 50% gen would only deal 9 charges of damage, this will deal 18. With that clarified, the amount of regression seems reasonable, across 10 hook states this is two full generators of damage, meaning you theoretically could reverse 2 full generators by the time you're in a 2v1 with spread hooks. There is one key problem here, that being that the time it takes to travel out of the way to kick a generator, as well as your ability to check multiple generators to kick a high(er) progress one, is directly tied to your mobility as a killer. A Blight can check multiple gens with one set of rushes away from a unique hook and kick one with decent progress, a trapper doesn't have that luxury. The simplest solutions would be to make this apply like Pain Resonance on Live but without the once-per-survivor limitation, this could either be done as one large amount, or it could distribute the damage across multiple generators, say 10% to the top 2, or 10% of current progress rather than total progress on all in-progress generators. Another potential method of basekit generator regression is to cause not-in-progress generators to begin regressing on unique hooks, similar to ruin but with standard regression rate as it functions Live, this could either apply on the unique hook, or when they're unhooked, which ensures at least two Survivors are not currently on generators. Personally I think 10% of current progress across all generators is the most fair and punishes split generator pressure the most which is the thing the Killer needs to slowed down the most.**
+  - 10% Haste for 15 seconds **This seems mostly aimed at helping the killer enter chase with a different Survivor after hooking them, but in the current iteration it ends up being used either to get to a generator to use your kick bonus, at which point the Killer is often better off going back to the hook to find someone as if this bonus didn't exist, or being used to get a hit by effectively starting a chase with Bloodlust 2 which feels bad to play against. There's two methods of resolving this, the boring one is removing the Haste upon entering chase with a Survivor, but a death hook survivor could use this aggressively so it's probably not great. The more interesting one is effectively basekitting the Blight Serum addon with the caveat of requiring them to be unique hooks, providing one-off high mobility repositioning to lower tier killers allowing them to choose the order of unique hook speed bonus and gen kick at will.**
+    -  Breaking a pallet or damaging a Survivor removes this bonus
+  - Reveal all Survivors outside of 40 meters that have less than or equal hook states for 4 seconds (think: basekit Barbecue & Chili) **This should be outside of the characters base Terror Radius instead of a flat 40m. Terror Radius is correlated relatively closely with killer mobility, so this seems like a reasonable way to make the time-to-engagement post hook more universal, seeing who's 40m away from you is pretty "big whoop" on killers without mobility, and the range difference makes basically no difference on higher mobility killers who can close the gap with power with little consequence. I'm also against this being less than *or equal* hook states. That's effectively promoting soft tunnelling when there's no reason to do so, alongside the other mostly killer-oriented changes I've recommended, this mild sacrifice to info gain for health reasons seems pretty reasonable.**
+- These effects can only be gained when the Killer performs the hook interaction themselves. **Poor executioner. I suspect this is primarily to prevent the Haste from becoming too overbearing and snowball-y, which my recommended replacement for the Haste bonus would mitigate. Not a fan of seeing one or two specific killer's be targetted with awkward exceptions or variations of existing changes with no immediately evident user-facing reason. If I'm a new player playing Executioner I'm going to be confused then sad when I realize that's the way this mechanic's implementation is specifically phrased to prevent him from gaining the bonuses.**
+- The following Killers have a different set of bonuses:
+  - The Blight, The Dark Lord, The Ghoul, The Hillbilly, The Krasue, and The Nurse **Targetting higher strength/higher mobility killers with different variations of a basekit Killer feature is a tremendous leap that players in the community have been asking to see for a very long time. I don't like the way it's implemented :). I think making an arbitrary list that isn't tied to anything else is unintuitive and for new and returning players who weren't around hearing about these changes when they were in the process of being implemented (so from August dev notes through eventual release), they aren't going to be aware they're different on certain killers. This wasn't very well communicated on the PTB either. I'd rather see all killers have their Terror Radius based on their movement speed, and adjust the strength of these effects based on Killer base Terror Radius to make this connected to an in-game mechanic. The less terror, the more help the entity gives them in torturing the Survivors, it's even flavorful for the lore folks out there. Explaining to someone new that Terror Radius is what determines the strength of these effects is fairly intuitive because they'll already have a rough idea of Terror Radii and they won't need to remember an arbitrary list of Killers where they won't have these bonuses as/won't have to worry about them as much against.**
+  - They get:
+    -  10% bonus to the next damage generator action **This being decreased of high strength killers doesn't really do that much. Tunnelling is effectively an extreme form of slowdown, there's no better slowdown than having someone on hook incapable of doing gens and requiring a teammate to come get them to prevent them from staging keeping them off gens, then once gone they permanently cannot work on gens for the remainder of the trial. Providing less compensatory slowdown to these killers keeps tunnelling similarly viable without giving them enough compensatory benefit to make it not the best strategy, meaning the players doing this on these killers who need it the least are the most likely to continue doing it in the future. Lowering this stat for the high strength killers doesn't make much since to me for this reason.**
+    -  5% Haste for 10 seconds **Since the killers under this special set of bonuses are all high mobility, this can realistically be completely removed. The benefit on these killers is already negligible, keeping it purely serves to make them more oppressive against survivors near the hook without giving them any noticeable mobility increase in terms of repositioning or seeking out a generator to kick. We really don't need to be increasing these killers' chase viability and this is a very reasonable bonus to cut back on.**
+    -  The same aura reveal bonus as above **This being unchanged is truly one of the strangest choices I've seen from this entire patch. I've been able to roughly figure out where all of the other changes are coming from aside from this one. The only idea that I have is that maybe this is because of the BBQ rework, meaning these high mobility killers that would've been using that perk no longer would be able to if this was removed? Even if that is the case, I think that's a very reasonable method to flatten the balance curve a bit and bring the tippy top killer strength down back in line with the relatively mortal other 3/4 of the roster. I'm not particularly interested in fully removing it because not providing the killer an alternative to defending the hook is inherently going to increase the likelihood they do just that so that approach likely isn't the best. The two ways this could (and in my opinion, should) be limited is by decreasing the duration of the aura reveal substantially so there's less time to parse direction of travel turning it into more of a snapshot without using infectious-esque notification system that's too distinctly different from the aura reveal given to other killers. The other way of nerfing this would be to only apply to very few or one survivor, this could be done by only showing survivors with the least hooks, if multiple exist and we only want to show a single survivor, we could then take the survivor with the least chase time, or the farthest survivor only.**
+- These effects are disabled when all generators are completed. **Reasonable, I'm a fan of end game being as sanitary as possible myself but that's just my opinion- I don't particularly like end-game specific perks/addons on either side both as and against.**
+
+#### Tunneling Penalties
+
+- When a Survivor dies to a hook action or Mori before 6 total hook states, the remaining Survivors gain a 25% repair speed bonus. **This should exclude Sadako until she can be adjusted, she's a relatively uncommon killer to run into as-is, and even if unfun for a brief time before she can be adjusted accordingly to encourage hooking with her power before building condemned, that at least increases variety and keeps her at the same fun level as she's at right now. I find this a better patchwork fix than holding the changes back from the other 97.5% of the killer roster, as well as better than hitting her with the penalties this hard without any compensatory buffs. I don't think its particularly necessary but I do think the idea of penalizing them further for getting another kill shortly thereafter if they do kill someone before 5 hooks, creating a scenario where once you've killed one person early, you're best off killing another person ASAP (or having another person ready to kill if you're pre-planning to tunnel), having increasing penalties the more single-survivor-biased your killing is seems like a logical thing. This could be changed to apply the repair bonus whenever the person being killed has more than half of the hook states of all survivors remaining in the trial, meaning you have to have 3 hooks spread between the remaining survivors whenever you want to kill someone.**
+- When a Survivor that was previously hooked is Killed or Sacrificed, the Killer loses the ability to block, damage, or regress generators by any means. **This is a poor design. I understand the concept, once you have a Survivor tunnelled out you don't really need other forms as slowdown as much anymore, however this is not the way to do it. This effectively disables roughly 15% of killer perks, including some that aren't forms of regression (e.g. Nowhere to Hide/Dragon's Grip) which are generally considered off-meta despite activating upon gen kicks, not to mention that gen-related killer perks tend to be the most popular inherently, you're likely effectively disabling the majority of the most popular perks in the game. My solution to this is fairly simple, instead of fully losing the ability to block/damage/regress, we half the effectiveness of those interactions. Damage % is reduced by half, regression rate is reduce by half, and block duration is reduced by half. An easy way to think about the changes in your head is simply think of all of these perks if their numbers were halved, 12.5 second deadlock and 20 second grim embrace go from "now i have to find a whole different gen to" "ah darn I have to wait for 10-20 seconds". Additionally, this means that there is actually an increasing penalty for tunnelling more than one survivor. As-is once you've triggered this protection once, doing it again is in your best interest as it has zero downside from then on, this way it can repeatedly half these effects for each survivor tunnelled off 2nd hook.**
+
+#### Perks
+
+The following perks have been updated. See the Perk Updates sections below for more details:
+
+- **Killer**: Barbecue & Chili, Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance **PR being adjusted is the only one that surprised me here.**
+- **Survivor**: Babysitter, Borrowed Time, Off the Record
+
+
+### Slugging Reduction Update
+
+#### Self-Recovery
+
+- While in the Dying State, the Resolve bar appears below the Recovery bar. **There is one major concern here in terms of potential for abuse, that being survivors intentionally entering the dying state to build their resolve meters, or opting to not pick themselves up and instead build resolve, ideally these mechanics should be difficult-to-impossible to weaponize. The two primary ways a Survivor can down themselves are dying to deep wound and using Plot Twist, entering the dying state via either of these methods simply shouldn't build resolve as they're opt-in ways of entering the dying state.**
+- The Resolve bar takes 90 seconds to fill. Progress does not reset between downs. **The number on this seems reasonable to me, some people think this should be higher, at very most I think 120 seconds is the upper limit to consider, two full minutes of sitting on the ground is a level of unfun where I think you can argue the fun detriment begins to outweigh any niche balance concerns that remain above this point in a casual setting. The other thing to consider is whether or not we should adjust the rate at which slug resolve builds in certain scenarios, notably while the slugged pallet is dead on a pallet and/or when other survivors are nearby. Given the high numbers I don't think this is too much of a concern personally, although it does definitely require the killer to be a lot more cognizant of other survivor's locations and decide whether or not to pick up faster on average. If we do think that it's too oppressive, we can use the distance modifier present on the anti-face-camp resolve meter to adjust the slugged survivor's resolve build rate based on survivor proximity (and therefor save likelihood).**
+- Once the Resolve bar is full, the Survivor gains the ability to pick themselves up from the Dying State after fully recovering. **I'd like for this to come with a unique dying state animation showing that the survivor can pick themselves up by the time the current recovery bar is filled, both for new player experience's sake and transparency reasons to both teammates not in comms and the killer, but I don't think this is necessarily a *need*, rather a UX improvement.**
+- Added a custom game setting to disable full recovery. **You called it custom games here and custom matches in the tunnelling section, make up your mind community team :). On a serious note, my thoughts on this from the tunnelling section are identical here, glad to see added granularity.**
+
+*Note: Perks can allow a Survivor to pick themselves up before the Resolve bar has been filled, so long as their conditions are met.*
+
+#### Quality of Life Improvements
+
+- Survivors can now crawl and recover at the same time. **I don't think this was necessary at all. This serves to simply make current flip-flop & power struggle combo stronger, which also happens to be one of the major abuse concerns with the self-recovery changes, the benefit is nice but this less of quality of life and more of an actual basekit strength buff, which I believe survivors have received enough of in these patch notes with the added unhook protections.**
+- Recovery is now automatic and no longer requires a button to be held. **Fantastic change, I've been asking for this for quite a while.One thing that hasn't been mentioned much is that this does serve as a mild nerf to things that cause the survivor to scream on the ground, such as doctor madness and infectious fright, if these weren't already relatively weak I would simply write them off as a reasonable loss, but I'm not opposed to using this as an excuse to give them some minor number buffs as "compensation" ;).**
+- When full self-recovery is available, tap the Interact button to pick yourself up. **Another thing I've been asking to get for a long time. In the opposite way of the above change being a nerf to some things, this actually ends up being a buff to exponential and unbreakable, making it impossible to accidentally pick yourself up and removing the requirement of a perfect 99 if you want to have a tap-to-get-up experience. Given these are both particularly frustrating perks to play against and are generally considered quite powerful (Unbreakable more than Exponential, but still), I would've liked to see some compensatory nerfs to these perks, even if the shadow buff by this change isn't practically that impactful to their strength level, it seems like a pretty good excuse to consider ways of adjusting these perks.**
+- Crawling speed increases over time when left in the Dying State, from 0.7m/s to 1.05m/s. **This is fine, doesn't actually do very much, for reference this is from 17.5% to 26.25% and crouching speed is 1.13m/s or 28.25%.**
+- Added a new scenario to the Abandon option: After recovering or being healed from the Dying State twice, the option to Abandon becomes available the next time you are downed. **I think this could be changed to three times pretty safely to avoid people simply DCing in difficult situations where a comeback is still more than possible, but I do see the interest in preventing griefing and forced farming and am appreciative of it.**
+
+#### Perks
+
+The following perks have been updated. See the Perk Updates sections below for more details:
+
+- **Survivor**: Tenacity, No Mither, Plot Twist **Upon first read I assumed Plot Twist would be getting a nerf or side-grade style readjustment here, and Tenacity would be getting a substantial speed increase.**
+- **Killer**: Deerstalker, A Nurse's Calling **Deerstalker rework was expected, Nurse's Calling changes didn't immediately come to mind to me but I'm happy they did to BHVR, I doubt that many people think Nurse's Calling when they think slugging.**
+
+### Pallet Density Quality of Life Update
+
+- Updated various Realms to adjust the quantity and distribution of pallets, reducing the presence of "dead zones". **This is a tremendous change alongside the new tiles and tile spawning RNG, will simply need time on live to realize the full implications and whether these changes were overtuned or good for the game's health. First impressions make them feel a bit overtuned but it's hard to say for sure with wonky PTB matchmaking and I'd like to remain open to see how winrates on affected realms shift, especially given I like the spirit of the change as dead zones reduce interactivity between the Killer and Survivors therein.**
+  - Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo **Was surprised to see the first two on this list, the rest made sense intuitively to me**
+
+## Content Updates
+
+### Killer Rework - The Shape
+
+#### Summary
+
+- The Shape now has three modes: Stalker, Pursuer, and Evil Incarnate. **Still a three-state killer, but spoiler alert I don't like the way this is now implemented**
+- The Shape can swap between Stalker & Pursuer modes without needing to Stalk. **I think maintaining the old 3-tier system by unlocking pursuer mode and playing a global jingle as though you reached old tier 2 is much better, particularly for non-partied survivors without the ability to remotely communicate who the killer is.**
+- The Shape must Stalk Survivors to unlock Evil Incarnate mode. **Effectively no change**
+- While Evil Incarnate mode is active, The Shape has a new special attack: Slaughtering Strike. **Really not a fan of his power being taken in this direction, he previously felt very unique, this makes him feel very samey.**
+- Updated most Add-Ons.
+
+#### Stalker Mode *(Previously Evil Within I)*
+
+- The Shape is Undetectable and moves at 4.2m/s. **This makes sense, no problems here.**
+- Hold the Power button to Stalk nearby Survivors. **Worded poorly, but yes stalking the people you can see in clear line of sight is the same, aside from the added range limitation there's no change here.**
+- When the Stalk meter is full, automatically enter Pursuer Mode. Stalker Mode becomes unavailable. **I think this is fine with the current rendition of Myers in these PTB patch notes, but would rather this not be the case and have Tier 1/Tier 2 swapping be added to his existing kit on Live instead.**
+- Note: No longer decreases lunge range. **Not a fan of this, especially given he can freely change to Pursuer Mode to get the increased lunge, it feels like this should go hand-in-hand with the 4.2 m/s movement speed.**
+
+#### Pursuer Mode *(Previously Evil Within II)*
+
+- The Shape has a 24m Terror Radius and moves at 4.6m/s. **I'd rather a 32m given he's 115 with no movement speed change and has a designated stealth killer mode in the form of Stalker Mode, but this isn't egregious by any means.**
+- Vault speed is increased by 15%. **Fine I suppose, would rather this be given as a bonus to current Myers in Tier 2 though.**
+- Lunge range, breaking speed, and stun recovery speeds are increased by 10%. **Once again all fine, would still rather all of these stat boosts be applied to the the current Myers Tier 2.**
+
+#### Evil Incarnate Mode *(Previously Evil Within III)*
+
+- When the Stalk meter is full, tap the Ability button to activate Evil Incarnate Mode. **Fantastic change, happy to see the shift away from 99ing for this, just like I'm happy to see it with the self recovery on slugging.**
+- Evil Incarnate mode lasts 40 seconds. **Reasonable.**
+- The Shape has a 40m Terror Radius and moves at 4.6m/s. **This makes perfect sense, he receives a high movement speed power in this mode, 40m is perfect and I wouldn't expect him to receive a base movement speed penalty given it's not ranged and is no where near the strength of a nurse blink.**
+- Vault speed is increased by 15%. **Fine, would rather this be granted as a buff to the existing Tier 3 vault speed.**
+- Unlocks a new special attack: Slaughtering Strike. **As much as this feels fine to play against and I'm not going to be sad to go against it or use it, I have more fun versing and playing as the current myers with his fully stalk-oriented gameplay rather than this new dash-centric power design.**
+- Unlocks the ability to kill Survivors who have reached the final hook stage. This cannot be used on Survivors with Endurance. **Nice to see this respecting Endurance, dead harding a mori is also quite funny out of principal, a bit concerned about bugs where the survivor receives endurance at the same time as the killer begins the mori, but hopefully shouldn't cause too many issues, I simply never went out of my way to test this interaction in the PTB it only occurred at time of writing after the PTB.**
+- Note: Survivors are no longer Exposed. **As stated multiples times, I prefer old Myers.**
+- Note: No longer increases lunge range. **Given he now has a dash ability that functions more like a very extended lunge, while this is true, practically he still has one with some asterisks.**
+
+#### Special Attack: Slaughtering Strike
+
+- Hold the Power button to charge a lunge, then press the Attack button to begin the attack.
+- Holding the Power button longer extends the lunge's duration up to a maximum of 2 seconds. **I'm a fan of this design, it's a way to provide more user choice and variability similar to how much you want to charge a nurse blink but in the form of a dash, it also doesn't affect how fun it is to against him effectively whatsoever.**
+- Slaughtering Strike has a base speed of 6.9m/s. **For reference this is identical to the speed of the Pig during the Ambush hitting phase.**
+- Hits with Slaughtering Strike instantly down healthy Survivors. **This is expected.**
+- Slaughtering Strike can break pallets and breakable walls. **This seemed a bit overtuned at first glance, but given the cooldown and such I don't really mind it in practice at least from the couple dozen PTB games I've had versus him.**
+- Slaughtering Strike has a 6 second cooldown. **Would rather the strike be slightly more lethal and have this be slightly longer to reward you for outplaying it slightly and give the killer more agency in getting that down, but it's fine as-is and this is more of a personal preference thing.**
+
+#### Stalking
+
+- The Stalk meter now takes 5 points to fill (was 3 for Tier 1, 6 for Tier 2). **This is fine, people still won't understand how points work.**
+- Increased the movement speed multiplier when Stalking a Survivor to 60% (was 20%). **I don't think this needed to be increased by this much.**
+- Stalk rate is decreased by 25% while moving. **I like this concept, but it isn't super clear to either side that the stalk rate is reduced for the duration, not sure exactly how this would be displayed intuitively, maybe some sort of unique distinct tint or adding stalk sound effects that vary based on stalk rate, could adjust Myers' lean angle based on stalk rate for the Survivor POV.**
+- When the Stalk meter is not full, after 20 seconds of not Stalking, Stalk progress decays to 50%. **I don't think this is necessary, and I don't think it will do much basically ever.**
+- Decreased the maximum Stalking range to 32m (was 40m). **Not a fan of turning the him from the guy who stalks you from a distance to the guy who stalks you from 32 meters or less, this feels way too close.**
+- Note: Survivors no longer have a limited amount of Stalk points. **Strongly against this change. It's always felt bad having an unaware or griefing survivor feed the killer his power on repeat, this has now been uncapped without much need, the existing stalk pools were already quite large.**
+- Note: Stalk rate is no longer affected by distance. **This is... fine. This is more of a design decision, either way is fine, this just happens to be the choice they've made and I don't have any intrinsic problem or appreciation for it.**
+
+#### The Shape's Add-Ons
+
+- Tacky Earrings:
+  - Increases movement speed while Stalking by 20% (was 10%).
+- Memorial Flower (Rework):
+  - Increases movement speed in Stalker Mode to 4.4m/s. **REALLY not a fan of this given scratch mirror exists and his short lunge has been removed. This combo is also insanely oppressive on specific maps, I'm strongly against the concept of someone rolling a 1-in-5 on their map offering and being extremely oppressive.**
+- Boyfriend's Memo (Rework):
+  - Increases maximum Stalk range by 8 meters.
+- Blond Hair (Rework):
+  - Scratch marks and pools of blood last 100% longer while in Stalker Mode. **Cool but people are gonna run this as often as they run Bloodhound which is effectively never, needs a secondary effect to ever be worth running.**
+- Reflective Fragment (Rework):
+  - Slaughtering Strike only deals a single health state of damage. Hitting a Survivor with Slaughtering Strike adds 20 seconds to Evil Incarnate's duration. **The benefit of this should be doubled in my opinion, 20 seconds isn't enough to account for the loss of instadown, 40 or at the very least 30 seems far more reasonable.**
+- Jewelry (Rework):
+  - Increases Stalk rate when Stalking stationary Survivors by 10%. **Odd but sure, this is fine.**
+- Hair Brush (Rework):
+  - When Evil Incarnate is activated, the next pallet you break is destroyed 50% faster. **Interesting, didn't get to see how this played in the PTB, this will likely either feel very horrendous to verse or feel relatively non-impactful.**
+- Glass Fragment (Rework):
+  - Increases the movement speed of Slaughtering Strike by 5%. Decreases the charge speed of Slaughtering Strike by 25%.
+- Dead Rabbit:
+  - Decreases Terror Radius in Pursuer Mode by 25%. Increases Terror Radius in Evil Incarnate by 25%. **Potential to be very strong tied with Monitor & Abuse, I love to see clear addon-perk synergy personally.**
+- Mirror Shard (Rework):
+  - Increases the base duration of Slaughtering Strike by 0.25 seconds. Decreases the charge speed of Slaughtering Strike by 25%.
+- Jewelry Box (Rework):
+  - Decreases Stalk range by 16 meters. Increases Stalk rate by 30%. **Not a fan of this, this only seems advantageous when stalking a survivor on the same loop, and being trapped at loops where if you leave you donate a ton of stalk or eventually just get stalked all the way up by staying there indefinitely feels like a lose-lose situation which will never feel good.**
+- J. Myers Memorial (Rework):
+  - While Evil Incarnate is active, your pickup and hook speeds are increased by 40%. **I don't think we needed another version of Forever Entwined/Fire Up, definitely not as an addon, I think this will be used as a gimmick addon and not much more, I also don't like it making it harder to identify Forever Entwined/Fire Up.**
+- Hair Bow:
+  - Increases the duration of Evil Incarnate by 20 seconds (was 30). Decreases Stalk rate by 20%.
+- Vanity Mirror (Rework):
+  - When Evil Incarnate ends, you see the auras of all Survivors for 4 seconds. **Not a fan of this, would rather this be changed to at the beginning of Evil Incarnate. As-is this feels like you're rewarding losing Evil Incarnate, if you play well you should get more than enough value from Evil Incarnate itself basekit, if you don't then you either likely either misplayed with it or deliberately activated it at a bad time.**
+- Tombstone Piece (Rework):
+  - When Evil Incarnate is activated, you become Undetectable for 20 seconds. **Not the biggest fan of undetectable instadown via one equippable but this is still a major improvement over previous tombstone piece.**
+- Lock of Hair (Rework):
+  - While Evil Incarnate is active, hold the Ability button to end it prematurely and retain 50% of the remaining duration as Stalk progress. **Not against this, honestly this seems like something that could've been added to old myers basekit as a buff rather than an addon as a buff.**
+- Judith's Tombstone (Rework):
+  - Hooking a Survivor during Evil Incarnate refreshes its duration. Limits the duration of Evil Incarnate to 40 seconds. **Fantastic rework, big fan of this. Don't think it needs the duration cap but I'm not going to be too upset it's here.**
+- Fragrant Tuft of Hair (Rework):
+  - Survivors become Exposed while Evil Incarnate is active. Your lunge range is increased by 50% while in Evil Incarnate mode. You can no longer use Slaughtering Strike.
+
+### Killer Updates
+
+#### The Unknown
+
+- Increased Weakened duration increase upon injuring a healthy Survivor with UVX projectile to 8 seconds (was 6 seconds). **Not a fan of this, Unknown already felt quite strong in the right hands, this makes him feel a bit too oppressive for my liking.**
+- Reduced movement speed recovery time after teleporting to 1.3 seconds (was 1.4 seconds). **This is fine but I'm not looking forward to the inevitable increase in players using Unknown's teleport as their primary power, effectively as a bootleg Dredge remnant, rather than as a ranged/damaging M2 ability killer.**
+- Increased The Unknown's vertical camera axis to allow higher aim elevation with the UVX Projectile. **Love this change, opens up the ability for more dynamic and skill expressive gameplay with the potential for some new super cool shots.**
+
+#### The Unknown's Add-Ons
+
+- Rabbit's Foot:
+  - Afflicts the Hemorrhage status effect to Survivors injured by UVX for 45 seconds (was 30 seconds).
+- Blurry Photo:
+  - After Teleporting, regain full movement speed 7% faster (was 15%).
+- Last Known Recording:
+  - Reduces the Hallucinations’ aura range visible to Survivors by 35% (was 25%).
+- Slashed Backpack:
+  - Destroying a Hallucination with UVX decreases the time until the next Hallucination spawns by 65% (was 75%). The extra time should allow for more precise placement.
+- Vanishing Box:
+  - Increases Hallucination spawn time by 120% (was 80%).
+- Hypnotist’s Watch:
+  - Inflicts the Exhausted status effect for 15 seconds (was 10 seconds).
+- Serum Vial:
+  - Inflicts the Exhausted status effect for 15 seconds (was 10 seconds).
+
+#### The Dark Lord
+
+- Vampire Form:
+  - Reduced the cooldown of Hellfire to 9.5 seconds (was 10 seconds). **Not a fan of this, I don't think he needs any compensatory buffs for this change given both his overall and hellfire-specific strength level.**
+  - Increased the number of Hellfire pillars to 8 (was 7). **Same as above, this seems unnecessary, and somewhat counteracts the below change because the Survivor can be farther from you and you can still get the hit while zoning them.**
+  - Reduced Hellfire charge movement speed to 3.68m/s (was 3.8m/s). **Great change, love to see the zoning with power into an M1 hit gameplay loop reduced.**
+  - Increased movement speed recovery time after activating Hellfire to 2.35 seconds (was 2.25 seconds). **Would rather this apply to cancellation only as a punishment to M2 cancelling rather than potentially after sending a shot and being punished for it.**
+- Wolf Form:
+  - Increased Pounce Attack charge time to 0.9 seconds (was 0.85 seconds). **I think there were other more meaningful and effective wolf form nerfs that could've been made, for example removing the ability to M2 cancelling so you can't zone with it as well or slowing the killer down immediately as they begin charging decreasing their mobility during the charge making it more deliberate and punishing M2 cancelling further.**
+  - Increased Scent Orb spawn time to 6 seconds (was 5 seconds). **I don't think this was the scent orb nerf anyone wanted, Decreasing the haste down to an even 4% would've been fine, or if you want to go more extreme, decreasing the cool down reduction to something like 10% or 15%.**
+- Bat Form:
+  - Increased Bat Form flying movement friction to reduce sliding motion to 2.2 (was 1.6). **This is fine, no real complaints here, it'll make it slightly hard to trick someone into slinging themselves onto the far side of a window, but that's arguably for the better. Nice quality of life as well, always good to see killers become less clunky to control.**
+
+#### The Dark Lord's Add-Ons
+
+- Ruby Circlet:
+  - Reduces the cooldown of Hellfire by 5% (was 10%).
+- Clock Tower Gear:
+  - Reduces the cooldown of Shapeshift by 5% (was 10%).
+- Traveler's Hat:
+  - Increases Shapeshift speed by 5% (was 10%).
+- Moonstone Necklace:
+  - Reduces the size of the Terror Radius in Vampire and Wolf Forms by 8 meters (was 4 meters). **I don't think reducing your Terror Radius while you have a movement ability makes much sense, but that's a this-addon-problem, not a this-change problem.**
+- Blood-Filled Goblet:
+  - Increases the duration of Scent Orbs by 60% (was 50%).
+- White Wolf Medallion:
+  - Increases Killer Instinct duration by 1 second while in Wolf Form after Survivors complete rushed actions (was 0.8 seconds)
+- Killer Doll:
+  - Increases the cooldown reduction of Pounce Attacks from Scent Orbs by 30% (was 50%).
+- Force of Echo:
+  - Increases the spawn rate of Scent Orbs by 10% (was 17%).
+- Medusa's Hair:
+  - Survivors within 8 meters (was 12 meters) of your teleport destination suffer from an 8% Hindered status effect for 2 seconds (was 3 seconds).
+- Warg's Fang:
+  - Reveals the auras of all Survivors whose Scent Orbs you have collected for 5 seconds (was 4 seconds).
+- Lapis Lazuli:
+  - After teleporting to a window, it is blocked for 8 seconds (was 15 seconds). **Absolutely love addon receiving a nerf. This addon felt super overtuned previously and it borderline felt like this addon was the differentiator between Draculas playing to win and playing for fun. Not sure if needed quite this amount of a nerf, 10 seconds would have likely been okay but I'm personally not complaining as someone who doesn't use this addon and for obvious reasons doesn't enjoy playing against it.**
+- Ring of Vlad:
+  - Hellfire pillar reduction downside removed (was reduced by 1 pillar). **Not a fan of this in combination with the basekit increase to the number of hellfire pillars. If we're reverting this PTB change before it hits live, removing the pillar reduction from this addon is fine, but having a 9-pillar honing beam that goes over pallets is likely going to feel not so great to verse.**
+
+#### The Clown
+
+- Increased the time it takes for Afterpiece Antidote clouds to activate to 1.6 seconds (was 1). **Glad to see Clown become a bit less mindless, I don't think this is enough of a nerf though.**
+- Increased the duration of the Hindered effect after leaving an Afterpiece Tonic cloud to 1.6 seconds (was 1). **Absolutely did not need a compensatory buff. Would've at the very least liked to see a reversal of the reload changes to allow the survivor a meaningful opportunity to change tiles if the Clown can't secure the kill within 6 bottles. If we're going to be buffing the purple bottle linger duration.**
+
+#### The Ghoul
+
+- When grabbing a Survivor on the other side of a vault with Kagune Leap, the Survivor is released at the start of the vault instead of the end. **Fantastic change, long overdue, long asked for by the community. I'm also happy this semi-middleground was found where you still do briefly get 'kidnapped' while still effectively removing the effectiveness of the "kidnap tech".**
+
+#### The Oni
+
+- Increased the number of Blood Orbs that spawn when hooking a Survivor to 5 (was 2). **Not meaningful enough to change the way Oni will be played, so it effectively just serves as a minor strength buff, doesn't accommodate for the anti slugging changes at all in my opinion. If we want to shift Oni away from slug-oriented gameplay, we need to take a look at his whole kit, not just the on-hook blood orb reward.**
+
+### Survivor Perk Updates
+
+- **Babysitter *(Rework)*:**
+  - After unhooking a Survivor, you see the Survivor's aura and the Killer's aura for 8/10/12 seconds.
+- **Borrowed Time:**
+  - Survivors you unhook retain their Unhook Protections for an additional 8/10/12 seconds. **I think the basekit number should be reduced back down to 10 seconds and BT should be buffed to 15 seconds. 12 seconds also feels pretty non-impactful given it's a very small fraction of the 30-second duration and that the basekit effects are removed after 3 seconds.**
+- **Clairvoyance:**
+  - Increased aura reading duration to 10/11/12 seconds (was 8/9/10 seconds).
+- **Friendly Competition:**
+  - Increased the bonus repair progress speed duration to 100/110/120 seconds (was 45/60/75 seconds).
+- **Hope:**
+  - Decreased the Haste status effect gained when the Exit Gates are powered to 3/4/5% (was 5/6/7%). **Glad to see hope getting nerf, not glad to see this being the nerf it received. Would've preferred for the killer to receive some sort of indicator that a survivor has Hope (e.g. Refined Serum visual effects) alongside a deactivation condition where upon losing a health state, the perk deactivates for a brief time. These would provide the killer with a choice on whether or not to chase the Survivor knowing getting a health state out of them will take longer than normal, and both make it viable to and encourage them to commit for the follow-up hit to chase them before the perk reactivates.**
+- **No Mither:**
+  - Increased the volume reduction for grunts of pain to 100% across all tiers (was 25/50/75%). **Glad to see the buff, wish there was more though.**
+- **Off the Record:**
+  - Removed the Endurance status effect. **Happy to see aggressive body blocking with anti-tunnel which are even less viable than before becoming significantly less possible.**
+  - Removed the stipulation that it disables once Exit Gates are powered. **Not a fan of this, I'm a big proponent of a sanitary end-game, that is to an extent simply personal opinion, but I don't think this stipulation needed to be removed.**
+  - Added a new effect: While active, you do not leave scratch marks while sprinting.
+- **Leader:**
+  - Increased action speed bonus value to 20/25/30% (was 15/20/25%).
+  - Increased action speed bonus range to 10 meters (was 8 meters).
+  - Updated perk description to simplify linger effect.
+- **Lucky Star:**
+  - Decreased cooldown to 35/30/25 seconds (was 40/35/30 seconds).
+- **Pharmacy:**
+  - Unlocking chests is 75/100/125% faster (was 70/85/100%).
+  - The hearing distance for noises from unlocking chests is reduced by 12 meters (was 16 meters). **Not sure why Pharmacy received a compensatory nerf. This was totally unneeded, making it fully silence the interaction to receive the blue med-kit seems very reasonable to me, not the other way around.**
+  - Guarantees an Emergency Med-Kit upon completing the interaction.
+- **Plot Twist:**
+  - Added a new effect: Increases recovery speed by 25% when used. **While I understand the intent of this change was likely moreso to decrease the amount of resolve you can build while being downed from Plot Twist, this is a very poor solution and the real solution is simply to make Plot Twist induced downs not grant resolve bar progression.**
+- **Poised:**
+  - Increased Killer aura reveal duration when repairing a generator for the first time to 8 seconds (was 6 seconds).
+  - Increased time where you leave no scratch marks after a generator is completed to 20/25/30 seconds (was 10/12/14 seconds).
+- **Quick Gambit:**
+  - Decreased the cooldown when losing a health state to 40 seconds (was 60 seconds).
+- **Tenacity:**
+  - Added a new effect: Prevents your aura from being read while in the Dying State. **It's significantly less viable to intentionally read the Aura of slugs, I don't think this was necessary at all.**
+  - Decreased crawling speed bonus to 15/20/25% (was 30/40/50%). **Would've preferred to see this number tuned up rather than downed, being able to crawl at walking speed once you've been slugged for the full recovery time with the basekit crawl bonus doesn't seem too problematic to me, if you want to use a perk slot to accomplish that, I don't see a problem with that.**
+- **Vigil:**
+  - Survivors can now only benefit from one Vigil perk's effect at a time (previously stacked with other versions of itself). **Glad to see a Vigil nerf, I don't think anyone can be upset about this as the only times this has any real effect is when it's being abused.**
+
+### Killer Perk Updates
+
+- **All-Shaking Thunder:**
+  - Increased lunge attack distance increase duration to 15/20/25 seconds (was 8/12/16 seconds).
+- **A Nurse's Calling:**
+  - Increased range to 28/30/32m (was 20/24/28). No longer affects Survivors who are in the Dying State. **I forgot this was an effect of the perk, glad to see the dev's caught this one.**
+- **Barbecue and Chili *(Rework)*:**
+  - After hooking all Survivors once, increase the base generator damage by 3/4/5%. **I don't think this impactful enough to bother running, especially over Pop even post-nerf. If this was changed to grant 1/1.5/2% bonus generator damage per token, gaining +1 Token per unique hook, I think this would be a much more viable design without being too strong.**
+- **Dark Arrogance:**
+  - Decreased the blind and pallet stun duration increase to 15% (was 25%). **This is a good change, would've liked to see this reduced further and/or have one of these two downsides completely removed, but this is definitely a step in the right direction.**
+- **Dead Man's Switch:**
+  - Decreased generator blocking duration to 25/30/35 seconds (was 40/45/50 seconds).
+- **Deerstalker *(Rework)*:**
+  - When a Survivor sees your aura, you see their aura. Every 40/35/30 seconds, reveal your aura to the Survivor with the lowest chase time for 3 seconds. **Absolutely LOVE this design, this is truly one of best designs that I believe has come to a perk in quite a while.**
+- **Eruption:**
+  - Decreased generator progress loss to 5/5/5% (was 10/10/10%). **Glad to see Eruption finally being adjusted.**
+- **Hex: Ruin:**
+  - Increased the generator regression to 100/125/150% (was 50/75/100%). **Interested to see how this plays out in practice. Might actually pretty much *have* to cleanse it which I think is a good characteristic for Hex perks to have.**
+- **Leverage:**
+  - Decreased healing speed reduction value to 20/25/30% (was 30/40/50%).
+  - Increased healing speed reduction duration to 60 seconds (was 30 seconds). **Love these changes, makes it much less viable to simply outwait the effect.**
+- **Monitor and Abuse:**
+  - While in a chase, your terror radius is now increased by 5/10/15% (was 6/7/8 meters).
+  - Otherwise, your terror radius is now decreased by 15/20/25% (was 6/7/8 meters).
+- **Pop Goes the Weasel:**
+  - Decreased generator progress loss to 15/15/15% (was 20/20/20%). **Reasonable compensatory nerf given the basekit increase to kick strength given to unique hooks with the tunnel reduction changes, without those I don't think should come to live though.**
+- **Oppression:**
+  - Increased random generator selection to 4 (was 3). **I mean this is fine but it doesn't really do much, I'm still going to hit 90% of these, and lower experience players will still miss them and get stomped by the perk just as hard, if not a little bit harder.**
+  - Decreased cooldown to 45/40/35 seconds (was 60/50/40 seconds). **Reasonable change.**
+- **Scourge Hook: Pain Resonance:**
+  - Decreased generator progress loss to 8/10/12% (was 10/15/20%). **12% seems a bit too low, 15% seems a lot more reasonable to me, especially given if this causes a gen to begin regressing, you can't apply your basekit gen kick to that gen as it's already regressing.**
+- **Septic Touch:**
+  - Increased the linger duration of the Blindness and Exhausted status effects to 20/25/30 seconds (was 6/8/10 seconds). **30 second Exhausted is a LOT and still not enough to make this perk that that viable, it'll continue to be used by spirit players who don't want to deal with Iron Will and no one else, this is a design problem, not a numbers problem.**
+- **Ultimate Weapon:**
+  - Increased range when opening a locker to 40 meters (was 32 meters). **Glad to see Darkness Revealed's little brother getting brought back into the swing of things, will be nice to actually see this in games every once in a while.**
+  - Reduced cooldown to 55/50/45 seconds (was 80/70/60 seconds).
+
+## Bug Fixes
+
+### Audio
+
+- Fixed an issue where the Pharmacy perk would remove chest SFX. **This seems like a feature to me, it's the second lowest pick-rate perk in the game according to Nightlight and it's boosted by players farming Refined Serums ever since they were changed to technically be Common rarity allowing them to appear from Up the Ante.**
+- Fixed an issue where The Dark Lord's Wolf Form would be silent.
+- Fixed an issue where The Twins' chase music was missing for survivors when chased by Victor.
+- Fixed an issue where The Twins' chase music would not stop when switching from Victor to Charlotte in a chase.
+- Fixed an issue where The Good Guy's Trial win voiceover would trigger every time a Survivor died.
+- Fixed an issue where the "Geralt of Rivia" outfit voiceover at the start of a Trial would not trigger when playing against The Animatronic.
+- Fixed an issue where Rick and Michonne Grimes' voiceover at the start of a Trial would not trigger when playing against The Animatronic.
+- Fixed an issue where The Houndmaster's stunned voiceover would not play.
+
+### Bots Improvements
+
+- Fixed an issue where bots were unable to move when a player disconnected in specific locations.
+- Fixed multiple issues where bots would vault at undesired times. **Hopefully this means mindgaming a bot into re-vaulting the same window 3 times in a row becomes a little less effective.**
+- Survivor bots will now crawl toward pallets instead of toward other Survivors. **Love this change, bots feeling more human-like is a good thing in my opinion, and they also server as a way for new players to see new ideas to consider. Now we just need them to stop instantly leaving in end-game and prioritize human players over themselves!**
+
+### Characters **No comments**
+
+- Fixed an issue where certain VFX wouldn't play when switching between cosmetics.
+- Fixed an issue where The Trapper's "Iridescent Stone" add-on would not arm the last trap.
+- Fixed an issue where generators would not be highlighted white for The Knight when ordering a guard to break them.
+- Fixed an issue where certain Killer power icons would not become transparent during cooldown.
+- Fixed an issue where dying Survivors would be missing animations and movement from other players' perspectives after being discovered by The Knight's Carnifex.
+- Fixed an issue where status effects belonging to The Twins' Charlotte would be displayed while controlling Victor.
+- Fixed an issue where The Knight's Guard would not de-spawn when a Survivor picked up the Standard.
+- Fixed an issue where certain Nightfall VFX would not display from the Spectator POV when watching The Dredge.
+- Fixed an issue where The Nemesis' Tentacle Strike could hit Survivors crouching behind windows.
+- Fixed an issue where The Knight's Guards would struggle to navigate between tables and chairs in the Freddy Fazbear's Pizza map.
+- Fixed an issue where The Hillbilly could completely turn around when breaking a door while using the LoPro Chains add-on.
+- Fixed an issue where The Animatronic would slide toward the hook from another Survivor's perspective when hooking a Survivor.
+- Fixed an issue where The Knight's Jailer would have a delay before beginning to chase a Survivor.
+- Fixed an issue where The Animatronic's Fire Axe would disappear from a Survivor upon entering and leaving a locker.
+- Fixed an issue where Security Doors would not be highlighted in yellow if The Animatronic entered one while a Survivor was teleporting.
+- Fixed an issue where The Lich would display unselected spells after quickly choosing several.
+- Fixed an issue where smoke color would display incorrectly in the Spectator's HUD when watching The Clown.
+- Fixed an issue where The Lich's Dispelling Sphere could become stuck on his model.
+- Fixed an issue where The Knight's Guards would take a longer-than-intended path when a Survivor vaulted.
+- Fixed an issue where Broken Keys obtained from The Lich's Treasure Chests would not work.
+- Fixed an issue where The Executioner's Punishment of the Damned trail VFX would appear off-centered.
+- Fixed an issue where Survivors afflicted with The Animatronic's Fire Axe could not unhook other Survivors.
+
+### Environment/Maps **No comments**
+
+- Fixed an issue in the Badham Preschool map where players could not drop through a hole.
+- Fixed an issue in The Underground Complex map where invisible collisions blocked the navigation of players.
+
+### Perks
+
+- Fixed an issue where Knock Out would remain inactive after dropping a Fragile Pallet.
+- Fixed an issue where the first wiggle skill check after being grabbed off a generator by a Killer with Unnerving Presence would be smaller than intended. **This could honestly be a reasonable buff to Unnerving Presence and is a previously unexplored thing that this and future perks could begin to effect.**
+- Fixed an issue where Finesse would not go on cooldown if a vaulted pallet was destroyed by a Killer's power.
+- Fixed an issue where Survivor auras were not revealed to the Killer when Blood Warden was equipped.
+- Fixed an issue where leaving a locker with Head On could be blocked by another Survivor.
+- Fixed an issue where players could get stuck when using Plot Twist at the same time they were grabbed by The Animatronic.
+
+### Platforms **No comments**
+
+- Fixed an issue where input settings were incorrectly applied to newly created accounts.
+
+### UI **No comments**
+
+- Fixed an issue where the "Lisa Garland" outfit was missing an earring in her in-game portrait.
+- Fixed an issue where the fire wings would not show up on The Wraith's "Phantom of Vengeance" outfit in the Store icons.
+- Fixed an issue where quest tooltips would still show their prerequisite quest needs despite being already unlocked.
+- Fixed an issue where declining a party join request would not send a confirmation popup to the requesting player.
+- Fixed an issue where the virtual keyboard would not load when adding a friend on Xbox touch interfaces.
+- Fixed an issue where the matchmaking popup would display the wrong text.
+- Improved animated smoke shader on tooltips.
+
+### Miscellaneous **No comments**
+
+- Fixed an issue where the game could softlock on the Tally Screen.
+- Fixed an issue where spamming the ready button could result in a connection error message.
+- Fixed an issue where the Fragile Pallet animation would not transition from the downed to upright position.
+- Fixed an issue where certain Survivors would not play voiceover related to crows when surrounded by AFK crows.
+- Fixed an issue where Fog Vial VFX would display incorrectly when falling after use.
+- Fixed an issue where some users could not unlock the Lost All Hope achievement.
+
+## Known Issues
+
+- Whilst in third person head view with The Krasue, the camera can clip into the environment, leading to some uncomfortable camera movements or partial obscuring of the view.
+- Tunneling reduction penalties trigger when Survivors go from the struggle hook phase to Sacrifice. These should only trigger when a hook interaction is performed to Sacrifice a Survivor. **Glad to see this was unintentional.**
