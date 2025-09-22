@@ -97,7 +97,7 @@
 
 ### [Lengthened Jaws](<https://deadbydaylight.wiki.gg/wiki/Lengthened_Jaws>) (Green)
 
-- <!-- Now basekit, needs rework -->
+-
 
 
 ### [Coffee Grounds](<https://deadbydaylight.wiki.gg/wiki/Coffee_Grounds>) (Green)
