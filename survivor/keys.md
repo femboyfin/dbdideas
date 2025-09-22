@@ -35,7 +35,7 @@
 -
 
 
-### [Shrill Whistle](<https://deadbydaylight.wiki.gg/wiki/Shrill_Whistle>) (Greeb)
+### [Shrill Whistle](<https://deadbydaylight.wiki.gg/wiki/Shrill_Whistle>) (Green)
 
 -
 
