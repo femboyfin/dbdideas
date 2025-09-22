@@ -1,5 +1,22 @@
 # [Hag](<https://deadbydaylight.wiki.gg/wiki/Lisa_Sherwood>) 📉
 
+## Power
+
+### SPECIAL ABILITY: BLACKENED CATALYST
+
+-
+
+
+### SPECIAL TRAP: PHANTASM TRAP
+
+-
+
+
+### SPECIAL LOCOMOTION: TELEPORT
+
+-
+
+
 ## Addons
 
 ### [Waterlogged Shoe](<https://deadbydaylight.wiki.gg/wiki/Waterlogged_Shoe>) (Red)

@@ -1,5 +1,12 @@
 # [Huntress](<https://deadbydaylight.wiki.gg/wiki/Anna>)
 
+## Power
+
+### SPECIAL WEAPON: HUNTING HATCHETS
+
+-
+
+
 ## Addons
 
 ### [Soldier's Puttee](<https://deadbydaylight.wiki.gg/wiki/Soldier%27s_Puttee>) (Red)

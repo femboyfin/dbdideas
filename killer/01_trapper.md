@@ -1,5 +1,32 @@
 # [Trapper](<https://deadbydaylight.wiki.gg/wiki/Evan_MacMillan>) 🗑️
 
+## Power
+
+### SPECIAL TRAP: BEAR TRAP
+
+-
+
+
+### SPECIAL INTERACTION: COLLECTING TRAPS
+
+-
+
+
+### SPECIAL INTERACTION: SETTING TRAPS
+
+-
+
+
+### SPECIAL INTERACTION: RESETTING TRAPS
+
+-
+
+
+### SPECIAL INTERACTION: CATCHING SURVIVORS
+
+-
+
+
 ## Addons
 
 ### [Iridescent Stone](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Stone>) (Red)

@@ -1,5 +1,32 @@
 # [Blight](<https://deadbydaylight.wiki.gg/wiki/Talbot_Grimes>)
 
+## Power
+
+### SPECIAL ABILITY: BLIGHTED CORRUPTION
+
+-
+
+
+### SPECIAL LOCOMOTION: RUSH
+
+-
+
+
+### SPECIAL INTERACTION: SLAM
+
+-
+
+
+### SPECIAL LOCOMOTION: LETHAL RUSH
+
+-
+
+
+### SPECIAL STATE: FATIGUE
+
+-
+
+
 ## Addons
 
 ### [Iridescent Blight Tag](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Blight_Tag>) (Red)

@@ -1,5 +1,47 @@
 # [Skull Merchant](<https://deadbydaylight.wiki.gg/wiki/Adriana_Imai>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: EYES IN THE SKY
+
+-
+
+
+### SPECIAL INTERACTION: INSPECTING RADAR
+
+-
+
+
+### SPECIAL INTERACTION: RECALLING DRONES
+
+-
+
+
+### SPECIAL INTERACTION: CHANGING ROTATIONAL DIRECTION
+
+-
+
+
+### SPECIAL ABILITY: DEPLOYING DRONES
+
+-
+
+
+### SPECIAL AFFLICTION: LOCK ON
+
+-
+
+
+### SPECIAL INTERACTION: HACKING DRONES
+
+-
+
+
+### SPECIAL AFFLICTION: CLAW TRAP
+
+-
+
+
 ## Addons
 
 ### [Iridescent Unpublished Manuscript](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Unpublished_Manuscript>) (Red)

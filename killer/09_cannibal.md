@@ -1,5 +1,27 @@
 # [Cannibal - Bubba](<https://deadbydaylight.wiki.gg/wiki/Bubba_Sawyer>) 📉 🗑️
 
+## Power
+
+### SPECIAL WEAPON: BUBBA'S CHAINSAW
+
+-
+
+
+### SPECIAL ABILITY: CHAINSAW SWEEP
+
+-
+
+
+### SPECIAL ABILITY: CHAINSAW DASH
+
+-
+
+
+### SPECIAL STATE: TANTRUM
+
+-
+
+
 ## Addons
 
 ### [Iridescent Flesh](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Flesh>) (Red)

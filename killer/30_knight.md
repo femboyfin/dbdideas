@@ -1,5 +1,37 @@
 # [Knight](<https://deadbydaylight.wiki.gg/wiki/Tarhos_Kovács>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: GUARDIA COMPAGNIA
+
+-
+
+
+### SPECIAL ABILITY: GUARD SUMMON
+
+-
+
+
+### SPECIAL COMPANIONS: GUARDS
+
+-
+
+
+### SPECIAL ABILITY: GUARD PATROL
+
+-
+
+
+### SPECIAL ABILITY: GUARD ORDER
+
+-
+
+
+### SPECIAL ATTACK: GUARD HUNT
+
+-
+
+
 ## Addons
 
 ### [Knight's Contract](<https://deadbydaylight.wiki.gg/wiki/Knight%27s_Contract>) (Red)

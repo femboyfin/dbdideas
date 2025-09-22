@@ -1,5 +1,47 @@
 # [Singularity](<https://deadbydaylight.wiki.gg/wiki/HUX-A7-13>) 📉
 
+## Power
+
+### SPECIAL ABILITY: QUANTUM INSTANTIATION
+
+-
+
+
+### SPECIAL ABILITY: SHOOTING BIOPODS
+
+-
+
+
+### SPECIAL INTERACTION: CONTROLLING BIOPODS
+
+-
+
+
+### SPECIAL AFFLICTION: TEMPORAL SLIPSTREAM
+
+-
+
+
+### SPECIAL ABILITY: SLIPSTREAM TELEPORTATION
+
+-
+
+
+### SPECIAL STATE: OVERCLOCK MODE
+
+-
+
+
+### SPECIAL STATE: OVERHEAT MODE
+
+-
+
+
+### SPECIAL ITEM: ELECTROMAGNETIC PULSE DEVICE
+
+-
+
+
 ## Addons
 
 ### [Iridescent Crystal Shard](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Crystal_Shard>) (Red)

@@ -1,5 +1,17 @@
 # [Hillbilly](<https://deadbydaylight.wiki.gg/wiki/Max_Thompson_Jr.>) 📉
 
+## Power
+
+### SPECIAL WEAPON: CHAINSAW
+
+-
+
+
+### SPECIAL LOCOMOTION: CHAINSAW SPRINT
+
+-
+
+
 ## Addons
 
 ### [Tuned Carburettor](<https://deadbydaylight.wiki.gg/wiki/Tuned_Carburettor>) (Red)

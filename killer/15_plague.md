@@ -1,5 +1,37 @@
 # [Plague](<https://deadbydaylight.wiki.gg/wiki/Adiris>) 📉
 
+## Power
+
+### SPECIAL ABILITY: VILE PURGE
+
+-
+
+
+### SPECIAL STATE: SICKNESS
+
+-
+
+
+### SPECIAL OBJECT: POOLS OF DEVOTION
+
+-
+
+
+### SPECIAL INTERACTION: CLEANSING INFECTION
+
+-
+
+
+### SPECIAL INTERACTION: INGESTING CORRUPTION
+
+-
+
+
+### SPECIAL ATTACK: CORRUPT PURGE
+
+-
+
+
 ## Addons
 
 ### [Iridescent Seal](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Seal>) (Red)

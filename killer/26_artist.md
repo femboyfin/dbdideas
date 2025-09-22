@@ -1,5 +1,27 @@
 # [Artist](<https://deadbydaylight.wiki.gg/wiki/Carmina_Mora>) 📉
 
+## Power
+
+### SPECIAL ABILITY: BIRDS OF TORMENT
+
+-
+
+
+### SPECIAL ATTACK: DIRE CROWS
+
+-
+
+
+### SPECIAL INTERACTION: SWARM
+
+-
+
+
+### SPECIAL INTERACTION: REPELLING
+
+-
+
+
 ## Addons
 
 ### [Iridescent Feather](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Feather>) (Red)

@@ -1,5 +1,27 @@
 # [Trickster](<https://deadbydaylight.wiki.gg/wiki/Ji-Woon_Hak>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: SHOWSTOPPER
+
+-
+
+
+### SPECIAL STATE: THROW STATE
+
+-
+
+
+### SPECIAL AFFLICTION: LACERATION
+
+-
+
+
+### SPECIAL ABILITY: MAIN EVENT
+
+-
+
+
 ## Addons
 
 ### [Iridescent Photocard](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Photocard>) (Red)

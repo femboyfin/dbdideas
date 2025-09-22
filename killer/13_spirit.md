@@ -1,5 +1,22 @@
 # [Spirit](<https://deadbydaylight.wiki.gg/wiki/Rin_Yamaoka>) 📉
 
+## Power
+
+### SPECIAL ABILITY: YAMAOKA'S HAUNTING
+
+-
+
+
+### SPECIAL LOCOMOTION: PHASE-WALK
+
+-
+
+
+### SPECIAL ABILITY: PASSIVE-PHASING
+
+-
+
+
 ## Addons
 
 ### [Mother-Daughter Ring](<https://deadbydaylight.wiki.gg/wiki/Mother-Daughter_Ring>) (Red)

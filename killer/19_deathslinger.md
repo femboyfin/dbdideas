@@ -1,5 +1,32 @@
 # [Deathslinger](<https://deadbydaylight.wiki.gg/wiki/Caleb_Quinn>) 📉
 
+## Power
+
+### SPECIAL ABILITY: THE REDEEMER
+
+-
+
+
+### SPECIAL WEAPON: SPEARGUN
+
+-
+
+
+### SPECIAL INTERACTION: REELING IN
+
+-
+
+
+### SPECIAL INTERACTION: BREAKING THE CHAIN
+
+-
+
+
+### SPECIAL INTERACTION: RELOADING
+
+-
+
+
 ## Addons
 
 ### [Iridescent Coin](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Coin>) (Red)

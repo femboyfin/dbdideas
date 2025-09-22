@@ -1,5 +1,37 @@
 # [Ghoul - Kaneki](<https://deadbydaylight.wiki.gg/wiki/Ken_Kaneki>)
 
+## Power
+
+### SPECIAL ABILITY: KAGUNE LEAP
+
+-
+
+
+### SPECIAL INTERACTION: TARGETING SURVIVORS & SURVIVOR COLLISION
+
+-
+
+
+### SPECIAL ATTACK: GRAB-ATTACK
+
+-
+
+
+### SPECIAL AFFLICTION: KAGUNE MARK
+
+-
+
+
+### SPECIAL MODE: ENRAGED MODE
+
+-
+
+
+### SPECIAL INTERACTION: COUNTDOWN
+
+-
+
+
 ## Addons
 
 ### [Yamori's Mask](<https://deadbydaylight.wiki.gg/wiki/Yamori%27s_Mask>) (Red)

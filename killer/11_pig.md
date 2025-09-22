@@ -1,5 +1,32 @@
 # [Pig](<https://deadbydaylight.wiki.gg/wiki/Amanda_Young>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: JIGSAW'S BAPTISM
+
+-
+
+
+### SPECIAL LOCOMOTION: CROUCHING
+
+-
+
+
+### SPECIAL ABILITY: AMBUSH DASH
+
+-
+
+
+### SPECIAL TRAP: REVERSE BEAR TRAPS
+
+-
+
+
+### SPECIAL INTERACTION: JIGSAW BOXES
+
+-
+
+
 ## Addons
 
 ### [Video Tape](<https://deadbydaylight.wiki.gg/wiki/Video_Tape>) (Red)

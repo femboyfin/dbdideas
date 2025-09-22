@@ -1,5 +1,52 @@
 # [Twins](<https://deadbydaylight.wiki.gg/wiki/Charlotte_%26_Victor_Deshayes>) 📉
 
+## Power
+
+### SPECIAL ABILITY: BLOOD BOND
+
+-
+
+
+### SPECIAL INTERACTION: UNBIND VICTOR
+
+-
+
+
+### SPECIAL STATE: DORMANT
+
+-
+
+
+### SPECIAL INTERACTION: SWITCH SIBLING
+
+-
+
+
+### SPECIAL ABILITY: VICTOR
+
+-
+
+
+### SPECIAL ABILITY: POUNCE
+
+-
+
+
+### SPECIAL INTERACTION: LATCHING ON
+
+-
+
+
+### SPECIAL INTERACTION: REMOVING / CRUSHING VICTOR
+
+-
+
+
+### SPECIAL INTERACTION: RECALLING VICTOR
+
+-
+
+
 ## Addons
 
 ### [Silencing Cloth](<https://deadbydaylight.wiki.gg/wiki/Silencing_Cloth>) (Red)

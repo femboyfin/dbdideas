@@ -1,5 +1,47 @@
 # [Nightmare - Freddy Krueger](<https://deadbydaylight.wiki.gg/wiki/Freddy_Krueger>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: DREAM DEMON
+
+-
+
+
+### SPECIAL STATE: MICROSLEEP
+
+-
+
+
+### SPECIAL STATE: ASLEEP
+
+-
+
+
+### SPECIAL INTERACTION: WAKING UP
+
+-
+
+
+### SPECIAL ABILITIES: DREAM TRAPS
+
+-
+
+
+### SPECIAL TRAP: DREAM SNARES
+
+-
+
+
+### SPECIAL TRAP: DREAM PALLETS
+
+-
+
+
+### SPECIAL LOCOMOTION: DREAM PROJECTION
+
+-
+
+
 ## Addons
 
 ### [Red Paint Brush](<https://deadbydaylight.wiki.gg/wiki/Red_Paint_Brush>) (Red)

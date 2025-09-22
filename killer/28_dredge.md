@@ -1,5 +1,32 @@
 # [Dredge](<https://deadbydaylight.wiki.gg/wiki/The_Dredge>) 📉
 
+## Power
+
+### SPECIAL ABILITY: REIGN OF DARKNESS
+
+-
+
+
+### SPECIAL LOCOMOTION: THE GLOAMING
+
+-
+
+
+### SPECIAL INTERACTION: HIDING INSIDE LOCKERS
+
+-
+
+
+### SPECIAL INTERACTION: LOCKING LOCKERS
+
+-
+
+
+### SPECIAL AFFLICTION: NIGHTFALL
+
+-
+
+
 ## Addons
 
 ### [Sacrificial Knife](<https://deadbydaylight.wiki.gg/wiki/Sacrificial_Knife>) (Red)

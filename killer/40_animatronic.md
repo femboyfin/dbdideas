@@ -1,5 +1,37 @@
 # [Animatronic - Springtrap](<https://deadbydaylight.wiki.gg/wiki/William_Afton>)
 
+## Power
+
+### SPECIAL ABILITY: FAZBEAR'S FRIGHT
+
+-
+
+
+### SPECIAL ABILITY: FIRE AXE
+
+-
+
+
+### SPECIAL MAP FEATURE: SECURITY SYSTEM
+
+-
+
+
+### SPECIAL INTERACTION: CAMERA VIEW
+
+-
+
+
+### SPECIAL MECHANIC: BATTERY POWER
+
+-
+
+
+### SPECIAL LOCATION: SECURITY ROOM
+
+-
+
+
 ## Addons
 
 ### [Iridescent Remnant](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Remnant>) (Red)

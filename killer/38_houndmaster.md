@@ -1,5 +1,47 @@
 # [Houndmaster](<https://deadbydaylight.wiki.gg/wiki/Portia_Maye>) 📉
 
+## Power
+
+### SPECIAL COMPANION: THE DOG
+
+-
+
+
+### SPECIAL INTERACTION: PET DOG
+
+-
+
+
+### SPECIAL INTERACTION: SWITCH COMMAND
+
+-
+
+
+### SPECIAL ABILITY: CHASE
+
+-
+
+
+### SPECIAL ABILITY: REDIRECT CHASE
+
+-
+
+
+### SPECIAL INTERACTION: DOG GRAB
+
+-
+
+
+### SPECIAL ABILITY: SEARCH
+
+-
+
+
+### SPECIAL EFFECT: HOUNDSENSE
+
+-
+
+
 ## Addons
 
 ### [Torn Novel](<https://deadbydaylight.wiki.gg/wiki/Torn_Novel>) (Red)

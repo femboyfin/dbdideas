@@ -1,5 +1,27 @@
 # [Lich - Vecna](<https://deadbydaylight.wiki.gg/wiki/Vecna>) 📉
 
+## Power
+
+### SPECIAL ABILITY: VILE DARKNESS
+
+-
+
+
+### SPECIAL TREASURE CHESTS: MAGIC ITEMS
+
+-
+
+
+### SPECIAL ITEMS: HAND & EYE OF VECNA
+
+-
+
+
+### SPECIAL INTERACTION: RECOVER ARTEFACT
+
+-
+
+
 ## Addons
 
 ### [Vorpal Sword](<https://deadbydaylight.wiki.gg/wiki/Vorpal_Sword>) (Red)

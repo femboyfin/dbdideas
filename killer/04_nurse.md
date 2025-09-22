@@ -1,5 +1,27 @@
 # [Nurse](<https://deadbydaylight.wiki.gg/wiki/Sally_Smithson>)
 
+## Power
+
+### SPECIAL ABILITY: SPENCER'S LAST BREATH
+
+-
+
+
+### SPECIAL LOCOMOTION: BLINK
+
+-
+
+
+### SPECIAL LOCOMOTION: CHAIN BLINK
+
+-
+
+
+### SPECIAL STATE: FATIGUE
+
+-
+
+
 ## Addons
 
 ### [Torn Bookmark](<https://deadbydaylight.wiki.gg/wiki/Torn_Bookmark>) (Red)

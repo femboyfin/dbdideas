@@ -1,5 +1,32 @@
 # [Nemesis](<https://deadbydaylight.wiki.gg/wiki/Nemesis_T-Type>)
 
+## Power
+
+### SPECIAL ABILITY: T-VIRUS
+
+-
+
+
+### SPECIAL ATTACK: TENTACLE STRIKE
+
+-
+
+
+### SPECIAL AFFLICTION: CONTAMINATION
+
+-
+
+
+### SPECIAL ENEMY: ZOMBIES
+
+-
+
+
+### SPECIAL ITEM: VACCINE
+
+-
+
+
 ## Addons
 
 ### [Shattered S.T.A.R.S. Badge](<https://deadbydaylight.wiki.gg/wiki/Shattered_S.T.A.R.S._Badge>) (Red)

@@ -1,5 +1,32 @@
 # [Demogorgon](<https://deadbydaylight.wiki.gg/wiki/The_Demogorgon>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: OF THE ABYSS
+
+-
+
+
+### SPECIAL ATTACK: SHRED
+
+-
+
+
+### SPECIAL OBJECTS: PORTALS
+
+-
+
+
+### SPECIAL INTERACTION: SEALING PORTALS
+
+-
+
+
+### SPECIAL LOCOMOTION: TRAVERSING THE UPSIDE DOWN
+
+-
+
+
 ## Addons
 
 ### [Red Moss](<https://deadbydaylight.wiki.gg/wiki/Red_Moss>) (Red)

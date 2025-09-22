@@ -1,5 +1,37 @@
 # [Ghost Face](<https://deadbydaylight.wiki.gg/wiki/Danny_Johnson_alias_Jed_Olsen>) 🗑️
 
+## Power
+
+### SPECIAL ABILITY: NIGHT SHROUD
+
+-
+
+
+### SPECIAL LOCOMOTION: CROUCHING
+
+-
+
+
+### SPECIAL ABILITY: STALKING
+
+-
+
+
+### SPECIAL ABILITY: LEANING AND STALKING
+
+-
+
+
+### SPECIAL STATE: MARKED
+
+-
+
+
+### SPECIAL INTERACTION: REVEALING
+
+-
+
+
 ## Addons
 
 ### [Outdoor Security Camera](<https://deadbydaylight.wiki.gg/wiki/Outdoor_Security_Camera>) (Red)

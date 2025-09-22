@@ -1,5 +1,47 @@
 # [Xenomorph](<https://deadbydaylight.wiki.gg/wiki/The_Xenomorph>) 📉
 
+## Power
+
+### SPECIAL ABILITY: HIDDEN PURSUIT
+
+-
+
+
+### SPECIAL OBJECT: CONTROL STATIONS
+
+-
+
+
+### SPECIAL INTERACTION: HIGHLIGHTING CONTROL STATIONS
+
+-
+
+
+### SPECIAL LOCOMOTION: TUNNELS
+
+-
+
+
+### SPECIAL ABILITY: TRACKING FOOTSTEPS
+
+-
+
+
+### SPECIAL STATE: CRAWLER MODE
+
+-
+
+
+### SPECIAL ATTACK: TAIL STRIKE
+
+-
+
+
+### SPECIAL ITEM: REMOTE FLAME TURRET
+
+-
+
+
 ## Addons
 
 ### [Improvised Cattle Prod](<https://deadbydaylight.wiki.gg/wiki/Improvised_Cattle_Prod>) (Red)

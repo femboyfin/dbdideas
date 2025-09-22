@@ -1,5 +1,42 @@
 # [Onryō - Sadako](<https://deadbydaylight.wiki.gg/wiki/Sadako_Yamamura>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: DELUGE OF FEAR
+
+-
+
+
+### SPECIAL ABILITY: MANIFESTATION / DEMANIFESTATION
+
+-
+
+
+### SPECIAL PROP: TV
+
+-
+
+
+### SPECIAL LOCOMOTION: PROJECTION
+
+-
+
+
+### SPECIAL AFFLICTION: CONDEMNED
+
+-
+
+
+### SPECIAL INTERACTION: INEXORABLE STARE
+
+-
+
+
+### SPECIAL INTERACTIONS: RETRIEVING TAPE / TURNING OFF TV
+
+-
+
+
 ## Addons
 
 ### [Remote Control](<https://deadbydaylight.wiki.gg/wiki/Remote_Control>) (Red)

@@ -1,5 +1,37 @@
 # [Shape - Michael Myers](<https://deadbydaylight.wiki.gg/wiki/Michael_Myers>) 🗑️
 
+## Power
+
+### SPECIAL ABILITY: EVIL WITHIN
+
+-
+
+
+### SPECIAL MODE: STALKER MODE
+
+-
+
+
+### SPECIAL MODE: PURSUER MODE
+
+-
+
+
+### SPECIAL MODE: EVIL INCARNATE
+
+-
+
+
+### SPECIAL ABILITY: STALKING
+
+-
+
+
+### SPECIAL ABILITY: SLAUGHTERING STRIKE
+
+-
+
+
 ## Addons
 
 ### [Judith's Tombstone](<https://deadbydaylight.wiki.gg/wiki/Judith%27s_Tombstone>) (Red)

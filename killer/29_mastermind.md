@@ -1,5 +1,37 @@
 # [Mastermind - Wesker](<https://deadbydaylight.wiki.gg/wiki/Albert_Wesker>)
 
+## Power
+
+### SPECIAL ABILITY: VIRULENT BOUND
+
+-
+
+
+### SPECIAL ATTACK: BOUND ATTACK
+
+-
+
+
+### SPECIAL INTERACTION: SURVIVOR COLLISION
+
+-
+
+
+### SPECIAL INTERACTION: VIRULENT VAULT
+
+-
+
+
+### SPECIAL AFFLICTION: UROBOROS INFECTION
+
+-
+
+
+### SPECIAL ITEM: FIRST AID SPRAY
+
+-
+
+
 ## Addons
 
 ### [Lab Photo](<https://deadbydaylight.wiki.gg/wiki/Lab_Photo>) (Red)

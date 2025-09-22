@@ -1,5 +1,27 @@
 # [Clown](<https://deadbydaylight.wiki.gg/wiki/Kenneth_Chase_alias_Jeffrey_Hawk>) 🗑️
 
+## Power
+
+### SPECIAL ABILITY: THE AFTERPIECE TONIC AND ANTIDOTE
+
+-
+
+
+### SPECIAL AFFLICTION: TONIC
+
+-
+
+
+### SPECIAL BENEFIT: ANTIDOTE
+
+-
+
+
+### SPECIAL INTERACTION: NEUTRALISATION
+
+-
+
+
 ## Addons
 
 ### [Tattoo's Middle Finger](<https://deadbydaylight.wiki.gg/wiki/Tattoo%27s_Middle_Finger>) (Red)

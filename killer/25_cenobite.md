@@ -1,5 +1,42 @@
 # [Cenobite](<https://deadbydaylight.wiki.gg/wiki/Elliot_Spencer>) 📉
 
+## Power
+
+### SPECIAL ABILITY: SUMMONS OF PAIN
+
+-
+
+
+### SPECIAL ATTACK: POSSESSED CHAIN
+
+-
+
+
+### SPECIAL INTERACTION: BREAKING CHAINS
+
+-
+
+
+### SPECIAL ITEM: LAMENT CONFIGURATION
+
+-
+
+
+### SPECIAL ABILITY: CHAIN HUNT
+
+-
+
+
+### SPECIAL INTERACTION: SOLVING
+
+-
+
+
+### SPECIAL LOCOMOTION: TELEPORT
+
+-
+
+
 ## Addons
 
 ### [Iridescent Lament Configuration](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Lament_Configuration>) (Red)

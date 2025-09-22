@@ -1,5 +1,32 @@
 # [Oni](<https://deadbydaylight.wiki.gg/wiki/Kazan_Yamaoka>) 📉
 
+## Power
+
+### SPECIAL ABILITY: YAMAOKA'S WRATH
+
+-
+
+
+### SPECIAL STATE: ABSORPTION MODE
+
+-
+
+
+### SPECIAL STATE: BLOOD FURY
+
+-
+
+
+### SPECIAL LOCOMOTION: DEMON DASH
+
+-
+
+
+### SPECIAL ATTACK: DEMON STRIKE
+
+-
+
+
 ## Addons
 
 ### [Renjiro's Bloody Glove](<https://deadbydaylight.wiki.gg/wiki/Renjiro%27s_Bloody_Glove>) (Red)

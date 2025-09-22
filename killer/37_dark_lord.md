@@ -1,5 +1,42 @@
 # [Dark Lord - Dracula](<https://deadbydaylight.wiki.gg/wiki/Dracula>) 📉
 
+## Power
+
+### SPECIAL ABILITY: SHAPESHIFT
+
+-
+
+
+### SPECIAL SHAPE: VAMPIRE FORM
+
+-
+
+
+### SPECIAL SHAPE: WOLF FORM
+
+-
+
+
+### SPECIAL SHAPE: BAT FORM
+
+-
+
+
+### SPECIAL ATTACK: HELLFIRE SPELL
+
+-
+
+
+### SPECIAL ATTACK: POUNCE
+
+-
+
+
+### SPECIAL LOCOMOTION: TELEPORT
+
+-
+
+
 ## Addons
 
 ### [Iridescent Ring of Vlad](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Ring_of_Vlad>) (Red)

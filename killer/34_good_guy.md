@@ -1,5 +1,27 @@
 # [Good Guy - Chucky](<https://deadbydaylight.wiki.gg/wiki/Charles_Lee_Ray>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: HIDEY-HO MODE
+
+-
+
+
+### SPECIAL ABILITY: ILLUSIONARY FOOTFALLS
+
+-
+
+
+### SPECIAL LOCOMOTION: SLICE & DICE
+
+-
+
+
+### SPECIAL INTERACTION: SCAMPER
+
+-
+
+
 ## Addons
 
 ### [Iridescent Amulet](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Amulet>) (Red)

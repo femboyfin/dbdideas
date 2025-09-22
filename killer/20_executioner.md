@@ -1,5 +1,32 @@
 # [Executioner - Pyramid Head](<https://deadbydaylight.wiki.gg/wiki/Pyramid_Head>) 📉
 
+## Power
+
+### SPECIAL ABILITY: RITES OF JUDGEMENT
+
+-
+
+
+### SPECIAL ATTACK: PUNISHMENT OF THE DAMNED
+
+-
+
+
+### SPECIAL AFFLICTION: TORMENT
+
+-
+
+
+### SPECIAL INTERACTION: SEND TO CAGE
+
+-
+
+
+### SPECIAL INTERACTION: FINAL JUDGEMENT
+
+-
+
+
 ## Addons
 
 ### [Obsidian Goblet](<https://deadbydaylight.wiki.gg/wiki/Obsidian_Goblet>) (Red)

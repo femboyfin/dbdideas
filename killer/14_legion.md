@@ -1,5 +1,27 @@
 # [Legion](<https://deadbydaylight.wiki.gg/wiki/Frank,_Julie,_Susie,_Joey>) 🗑️
 
+## Power
+
+### SPECIAL ABILITY: FERAL FRENZY
+
+-
+
+
+### SPECIAL ABILITY: FERAL VAULT
+
+-
+
+
+### SPECIAL ABILITY: FERAL SLASH
+
+-
+
+
+### SPECIAL STATE: FATIGUE
+
+-
+
+
 ## Addons
 
 ### [Iridescent Button](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Button>) (Red)

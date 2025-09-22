@@ -1,5 +1,32 @@
 # [Doctor](<https://deadbydaylight.wiki.gg/wiki/Herman_Carter>) 📉 🗑️
 
+## Power
+
+### SPECIAL ABILITY: CARTER'S SPARK
+
+-
+
+
+### SPECIAL AFFLICTION: MADNESS
+
+-
+
+
+### SPECIAL INTERACTION: SNAP OUT OF IT
+
+-
+
+
+### SPECIAL ABILITY: SHOCK THERAPY
+
+-
+
+
+### SPECIAL ABILITY: STATIC BLAST
+
+-
+
+
 ## Addons
 
 ### [Iridescent Queen](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Queen>) (Red)

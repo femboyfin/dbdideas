@@ -1,5 +1,37 @@
 # [Unknown](<https://deadbydaylight.wiki.gg/wiki/The_Unknown>) 📉
 
+## Power
+
+### SPECIAL ABILITY: UVX PROJECTILE
+
+-
+
+
+### SPECIAL AFFLICTION: WEAKENED
+
+-
+
+
+### SPECIAL INTERACTION: STARING DOWN THE UNKNOWN
+
+-
+
+
+### SPECIAL ABILITY: HALLUCINATIONS
+
+-
+
+
+### SPECIAL INTERACTION: DISPELLING HALLUCINATIONS
+
+-
+
+
+### SPECIAL LOCOMOTION: TELEPORT
+
+-
+
+
 ## Addons
 
 ### [Iridescent OSS Report](<https://deadbydaylight.wiki.gg/wiki/Iridescent_OSS_Report>) (Red)

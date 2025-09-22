@@ -1,5 +1,17 @@
 # [Wraith](<https://deadbydaylight.wiki.gg/wiki/Philip_Ojomo>) 🗑️
 
+## Power
+
+### SPECIAL OBJECT: WAILING BELL
+
+-
+
+
+### SPECIAL ABILITY: CLOAK / UNCLOAK
+
+-
+
+
 ## Addons
 
 ### [Coxcombed Clapper](<https://deadbydaylight.wiki.gg/wiki/Coxcombed_Clapper>) (Red)
