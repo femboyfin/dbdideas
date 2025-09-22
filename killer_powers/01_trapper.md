@@ -2,27 +2,28 @@
 
 ## Power
 
-### SPECIAL TRAP: BEAR TRAP
+### TRAP: BEAR TRAP
 
 -
 
 
-### SPECIAL INTERACTION: COLLECTING TRAPS
+
+### INTERACTION: COLLECTING TRAPS
 
 -
 
 
-### SPECIAL INTERACTION: SETTING TRAPS
+### INTERACTION: SETTING TRAPS
 
 -
 
 
-### SPECIAL INTERACTION: RESETTING TRAPS
+### INTERACTION: RESETTING TRAPS
 
 -
 
 
-### SPECIAL INTERACTION: CATCHING SURVIVORS
+### INTERACTION: CATCHING SURVIVORS
 
 -
 
@@ -96,7 +97,7 @@
 
 ### [Lengthened Jaws](<https://deadbydaylight.wiki.gg/wiki/Lengthened_Jaws>) (Green)
 
--
+- <!-- Now basekit, needs rework -->
 
 
 ### [Coffee Grounds](<https://deadbydaylight.wiki.gg/wiki/Coffee_Grounds>) (Green)
