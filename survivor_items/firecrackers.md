@@ -16,41 +16,41 @@ See [Limited Items](limited.md#flash-grenade) for changes; despite the current f
 
 Firecracker add-ons have never been naturally obtainable, but have been implemented.
 
-### [Large Pack](<https://deadbydaylight.wiki.gg/wiki/Large_Pack>) ()
+### [Large Pack](<https://deadbydaylight.wiki.gg/wiki/Large_Pack>) (Red)
 
 -
 
 
-### [Black Powder](<https://deadbydaylight.wiki.gg/wiki/Black_Powder>) ()
+### [Black Powder](<https://deadbydaylight.wiki.gg/wiki/Black_Powder>) (Blue)
 
 -
 
 
-### [Magnesium Powder](<https://deadbydaylight.wiki.gg/wiki/Magnesium_Powder>) ()
+### [Magnesium Powder](<https://deadbydaylight.wiki.gg/wiki/Magnesium_Powder>) (Green)
 
 -
 
 
-### [Long Fuse](<https://deadbydaylight.wiki.gg/wiki/Long_Fuse>) ()
+### [Long Fuse](<https://deadbydaylight.wiki.gg/wiki/Long_Fuse>) (Green)
 
 -
 
 
-### [Gun Powder](<https://deadbydaylight.wiki.gg/wiki/Gun_Powder>) ()
+### [Gun Powder](<https://deadbydaylight.wiki.gg/wiki/Gun_Powder>) (Green)
 
 -
 
 
-### [Medium Fuse](<https://deadbydaylight.wiki.gg/wiki/Medium_Fuse>) ()
+### [Medium Fuse](<https://deadbydaylight.wiki.gg/wiki/Medium_Fuse>) (Brown)
 
 -
 
 
-### [Flash Powder](<https://deadbydaylight.wiki.gg/wiki/Flash_Powder>) ()
+### [Flash Powder](<https://deadbydaylight.wiki.gg/wiki/Flash_Powder>) (Brown)
 
 -
 
 
-### [Buck Shot](<https://deadbydaylight.wiki.gg/wiki/Buck_Shot>) ()
+### [Buck Shot](<https://deadbydaylight.wiki.gg/wiki/Buck_Shot>) (Brown)
 
 -
