@@ -7,7 +7,7 @@ Unlike other item types, this will not include *all* Limited Items, because a ma
 
 ### [Flash Grenade](<https://deadbydaylight.wiki.gg/wiki/Flash_Grenade>)
 
--
+- Can now receive Firecracker add-ons when crafted with the Ace in the Hole perk
 
 
 ### [Fragile Mirror](<https://deadbydaylight.wiki.gg/wiki/Fragile_Mirror>) and [Pocket Mirror](<https://deadbydaylight.wiki.gg/wiki/Pocket_Mirror>)
