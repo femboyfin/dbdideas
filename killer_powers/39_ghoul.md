@@ -14,7 +14,8 @@
 
 ### ATTACK: GRAB-ATTACK
 
--
+- No longer inflicts Deep Wound
+- No longer blocks the Exit Gates
 
 
 ### AFFLICTION: KAGUNE MARK

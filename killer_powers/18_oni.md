@@ -14,7 +14,8 @@
 
 ### STATE: BLOOD FURY
 
--
+- Increased time penalty when downing a Survivor to **-15 seconds** *(was -7)*
+- Picking up a downed survivor now grants **5 charges**
 
 
 ### LOCOMOTION: DEMON DASH
@@ -24,7 +25,7 @@
 
 ### ATTACK: DEMON STRIKE
 
--
+- Increased the Turn-Rate limit during the Open phase of a Demon Strike to **180°** *(was 540)*
 
 
 ## Addons

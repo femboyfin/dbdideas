@@ -9,7 +9,7 @@
 
 ### ABILITY: FIRE AXE
 
--
+- Now displays a small circle crosshair in the center of the screen while holding up the axe
 
 
 ### MAP FEATURE: SECURITY SYSTEM

@@ -24,7 +24,11 @@
 
 ### ABILITY: STALKING
 
--
+- The Power Gauge no longer decays
+- No longer prevents The Shape from entering Stalker Mode once full
+- Increased maximum stalking range to **40 meters** *(was 32)*
+  - Reverts this change from [9.2.0](https://deadbydaylight.wiki.gg/wiki/Michael_Myers#Patch_9.2.0:~:text=Nerf:%20reduced%20the%20maximum%20Stalk%20range%20from%2040%20meters%20to%2032%20meters.)
+- Removed sound cue that plays once Evil Incarnate is ready
 
 
 ### ABILITY: SLAUGHTERING STRIKE
@@ -36,22 +40,23 @@
 
 ### [Judith's Tombstone](<https://deadbydaylight.wiki.gg/wiki/Judith%27s_Tombstone>) (Red)
 
--
+- Removed duration limitation
 
 
 ### [Scratched Mirror](<https://deadbydaylight.wiki.gg/wiki/Scratched_Mirror>) (Red)
 
--
+- Decreases Lunge Attack Range
+  - Reverts the buff from [9.2.0](https://deadbydaylight.wiki.gg/wiki/Scratched_Mirror#Patch_9.2.0:~:text=Buff:%20Lunge%20Attack%20range%20has%20been%20standardized%20with%20the%20changes%20to%20Stalker%20Mode.).
 
 
 ### [Lock of Hair](<https://deadbydaylight.wiki.gg/wiki/Lock_of_Hair>) (Purple)
 
--
+- Increased retained stalk to **100%** *(was 50)*
 
 
 ### [Reflective Fragment](<https://deadbydaylight.wiki.gg/wiki/Reflective_Fragment>) (Purple)
 
--
+- No longer limits Slaughtering Strike to only dealing a single health state of damage
 
 
 ### [Tombstone Piece](<https://deadbydaylight.wiki.gg/wiki/Tombstone_Piece>) (Purple)
@@ -61,7 +66,7 @@
 
 ### [Vanity Mirror](<https://deadbydaylight.wiki.gg/wiki/Vanity_Mirror>) (Purple)
 
--
+- Increased Aura reveal duration to **8 seconds** *(was 4)*
 
 
 ### [Hair Bow](<https://deadbydaylight.wiki.gg/wiki/Hair_Bow>) (Blue)

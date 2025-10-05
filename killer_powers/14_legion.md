@@ -26,12 +26,12 @@
 
 ### [Iridescent Button](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Button>) (Red)
 
--
+- Now requires a frenzy-hit to activate
 
 
 ### [Fuming Mix Tape](<https://deadbydaylight.wiki.gg/wiki/Fuming_Mix_Tape>) (Red)
 
--
+- No longer stacks with other Regression inducing unlockables
 
 
 ### [Stab Wounds Study](<https://deadbydaylight.wiki.gg/wiki/Stab_Wounds_Study>) (Purple)

@@ -9,7 +9,7 @@
 
 ### WEAPON: SPEARGUN
 
--
+- Now displays a small circle crosshair in the center of the screen while aiming in
 
 
 ### INTERACTION: REELING IN

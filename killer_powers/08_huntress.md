@@ -4,19 +4,23 @@
 
 ### WEAPON: HUNTING HATCHETS
 
--
+- Now displays a small circle crosshair in the center of the screen while holding up a hatchet
 
 
 ## Addons
 
 ### [Soldier's Puttee](<https://deadbydaylight.wiki.gg/wiki/Soldier%27s_Puttee>) (Red)
 
--
+- No longer increases movement speed while out of Hatchets
+- Now reduces the Lullaby Radius to **24 meters**
+- Now increases the Terror Radius to **24 meters**
 
 
 ### [Iridescent Head](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Head>) (Red)
 
--
+- No longer automatically puts survivors into the Dying State
+- Now causes thrown Hatchets to pierce through survivors and ricochet off the environment once.
+- Piercing and ricochet hits injure healthy survivors, and deep wound injured survivors, but cannot directly put a survivor into the dying state.
 
 
 ### [Wooden Fox](<https://deadbydaylight.wiki.gg/wiki/Wooden_Fox>) (Purple)

@@ -4,12 +4,13 @@
 
 ### ABILITY: SPENCER'S LAST BREATH
 
--
+- After breaking a pallet, lose 1 Token
+- After being stunned, lose 2 Tokens
 
 
 ### LOCOMOTION: BLINK
 
--
+- Charging a blink now inflicts the Blindness status effect until the Nurse has fatigued
 
 
 ### LOCOMOTION: CHAIN BLINK
@@ -19,7 +20,7 @@
 
 ### STATE: FATIGUE
 
--
+- No longer has stun immunity during fatigue
 
 
 ## Addons
