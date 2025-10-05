@@ -58,9 +58,9 @@ No changes; upcoming changes (9.2.0 PTB).
 
 ## [Beast of Prey](<https://deadbydaylight.wiki.gg/wiki/Beast_of_Prey>) 📉 🗑️
 
-- Now grants Undetectable Status Effect as long as the Bloodlust Status Effect is active
+- Now grants Undetectable status effect as long as the Bloodlust status effect is active
   - Partially reverts a change from [8.5.0](https://deadbydaylight.wiki.gg/wiki/Beast_of_Prey#Patch_8.5.0) where it was somewhat reworked at the time it lost it's Bloodpoint bonus, effectively makes it so the 8.5.0 changes plus this change make it a direct buff rather than a sidegrade.
-- Now grants **30/35/40 seconds** of Undetectable upon losing the Bloodlust Status Effect
+- Now grants **30/35/40 seconds** of Undetectable upon losing the Bloodlust status effect
   - Maintains the 40 second linger effect from the current post-8.5.0 version, maintaining it's niche as a drop-and-surprise on demand jump scare type of stealth perk.
 
 
@@ -78,7 +78,7 @@ No changes; upcoming changes (9.2.0 PTB).
 
 - Increased duration to **30/35/40 seconds** *(was 20/25/30)*
   - Mild numbers buff increasing general perk strength
-- Now inflicts the Mangled Status Effect as well
+- Now inflicts the Mangled status effect as well
   - Noticeable buff to the anti-heal portion of the perk, currently without supplementary aura reading perks it can be extremely difficult to actually locate someone and interrupt their normal speed heal to get Hemorrhage value, ideally mangled will lessen the frequency of this and make heal interrupts and therefor Hemorrhage value more often.
 
 
@@ -154,14 +154,13 @@ No changes
 
 ## [Dark Devotion](<https://deadbydaylight.wiki.gg/wiki/Dark_Devotion>) 📉 🗑️
 
-<!-- - Now activates for **60 seconds** after injuring a Survivor with a Basic Attack -->
-- Now activates with any survivor, not just the Obsession
-  - Increases perk strength by separating it from a specific survivor, you should see more consistent activations of the perk throughout the trial.
+- Now activates when hitting any survivor with a Basic Attack
+  - Increases perk strength by separating it from specifically the Obsession, you should see more consistent activations of the perk throughout the trial. Additionally limiting it to Basic Attacks makes the perk slightly less oppressive on higher strength killers and encourages more deliberate and thoughtful activation them.
 - Increased duration to **40/50/60 seconds** *(was 35/40/45)*
   - Sizable numbers buff, increasing the strength a bit by giving you more opportunities to catch someone off guard while your Terror Radius is elsewhere.
 - Now activates only on Basic Attack
   - Prevents it from becoming too oppressive on killers with high strength and mobility chase powers (e.g. Blight who can both get a hit and reposition across the map rather quickly).
-- While the perk is active, the last Survivor you injured with a Basic Attack receives your Terror Radius and it is set to **40 meters**, granting you the Undetectable Status Effect
+- While the perk is active, the last Survivor you injured with a Basic Attack receives your Terror Radius and it is set to **40 meters**, granting you the Undetectable status effect
   - Updated perk description to allow it's effects to be transferred to a different survivor for each subsequent basic attack within the same activation.
 - Now has a cooldown of **60 seconds**
   - 1:1 activation to cooldown duration to keep it from becoming too overbearing on survivors.
