@@ -20,7 +20,7 @@ or
 
 ## [Aftercare](<https://deadbydaylight.wiki.gg/wiki/Aftercare>) 📉 🗑️
 
-- Once you are hooked, stop revealing the auras of the **<!--1/1/-->2** longest revealed survivors *(was stop revealing all revealed survivors)*
+- Once you are hooked, stop revealing the auras of the **1/1/2** longest revealed survivors *(was stop revealing all revealed survivors)*
   - Increases the consistency of the perk providing even more value in low-party-size situations.
 
 
@@ -37,7 +37,7 @@ or
 
 ## [Any Means Necessary](<https://deadbydaylight.wiki.gg/wiki/Any_Means_Necessary>) 📉 🗑️
 
-- Permanently reveal the aura of dropped pallets <!-- to all players -->, once picked up
+- Permanently reveal the aura of dropped pallets to all players, once picked up
   - Minor side benefit as a reward for using the perk's primary purpose.
 
 
@@ -73,7 +73,7 @@ or
   - Allows gaining altruistic benefits from Self-Healing, without being fundamentally broken with uber-fast Self-Healing, removing the bar of only gaining tokens via Altruistic healing for another niche improvement.
 - Now works with Med-Kits
   - Straightforward removal of one of the perk downsides to increase its overall viability and opportunities for synergy.
-- Increased skillcheck healing progress per token to: **0/10/20/30/40/60%** <!-- **0/12/24/36/48/60** --> per stack *(was -15/0/15/30/45/60%)*
+- Increased skillcheck healing progress per token to: **0/12/24/36/48/60** per stack *(was -15/0/15/30/45/60%)*
   - Slight numbers buff avoiding the awkward situation where the first Autodidact skill check could potentially cause a teammate's heal to be incomplete because of the -15% progress, removing an artificial downside aside from the inability to hit great skill checks.
 
 
@@ -126,7 +126,7 @@ or
 
 ## [Bite the Bullet](<https://deadbydaylight.wiki.gg/wiki/Bite_the_Bullet>) 📉 🗑️
 
-- Now suppresses Pools of Blood
+- Now suppresses Pools of Blood while healing
   - Thematic added effects to slightly increase the strength level of a weak perk.
 - Now only suppresses effects from the killer
   - Ensures that the benefits of the perk don't incidentally make it more difficult to be healed by a teammate.
@@ -134,6 +134,7 @@ or
   - Slight number buff on an already very weak perk.
 - Failing skill checks no longer pauses healing progress
   - Another slight buff, introducing a new function on an already very weak perk.
+- Now reduces the lifetime of Pools of Blood while injured by **-50%**
 
 
 ## [Blast Mine](<https://deadbydaylight.wiki.gg/wiki/Blast_Mine>) 🗑️
@@ -349,13 +350,11 @@ No changes.
   - Increases the strength of the aura reveal providing more info on who is doing what passively.
 - Removed token limit
   - Allows the user to store a large buffer of skill check improvement tokens that can be used even in a situation where they're left on hook.
-- Now turns Failed Skill Checks into Good Skill Checks <!-- consuming **1 Token** -->
-- Now grants **1%** bonus progression for non-Med-Kit Good Skill Checks <!-- consuming **2 Tokens** -->
-  - Greatly increases the viability of the perk and moves it from being primarily a new-player aid to an assistant across all skill levels, similar to Stake out but altruistic. Med-kit skill checks are specifically exempt to prevent balancing issues around Self-Healing and Suture type addons. <!-- is this needed? they aren't great skill checks as they were in our initial change concept, so they can't be comboed with suture + needle, and healing skill checks are ordinarily 3% not 1% like on gens, meaning these have 1/3 the impact of a normal great skill check. if anything it may be better to exempt the bonus progression from healing altogether? -->
-<!--
+- Now turns Failed Skill Checks into Good Skill Checks consuming **1 Token**
+- Now grants **1%** bonus progression for Good Skill Checks consuming **2 Tokens**
+  - Greatly increases the viability of the perk and moves it from being primarily a new-player aid to an assistant across all skill levels, similar to Stake out but altruistic.
 - Increased starting token count to **2/4/6 Tokens** *(was 1/2/3)*
 - Increased tokens granted for succeeding a Great Skill Check to **+2 Tokens** *(was 1)*
--->
 
 
 ## [Counterforce](<https://deadbydaylight.wiki.gg/wiki/Counterforce>) 📉 🗑️
@@ -371,7 +370,7 @@ No changes.
 ## [Cut Loose](<https://deadbydaylight.wiki.gg/wiki/Cut_Loose>) 📉 🗑️
 
 - Removed cooldown
-  - Cooldown isn't particularly necessary because the chaining of the effect is lost after its pre-existing timer expires and the effect isn't particularly strong.
+  - Cooldown isn't particularly necessary because the chaining of the effect is lost after its pre-existing timer expires and the effect isn't particularly strong. There is a practical cooldown enforced by entity blockers, as a given window can only be vaulted 3 times in one chase.
 - Increased timer to **6/7/8** seconds *(was 4/5/6)*
   - Makes the timer a bit more forgiving, enabling chaining to be slightly more viable as the cost of unnecessarily incrementing window-entity-blocks is cost enough on its own.
 
@@ -477,6 +476,8 @@ No changes.
 
 - Now stuns the killer for **0.6 second** on direct impact
   - Enables high precision skill expression on an otherwise mostly playful silly perk. For reference, 0.6 seconds is the duration of an Enduring pallet stun.
+- Now varies the throw distance from **10m** to **30m** depending on camera pitch
+  - Enables more dynamic and skill expressive usage, allowing for precision pebble shots from a greater variety of positions
 
 
 ## [Do No Harm](<https://deadbydaylight.wiki.gg/wiki/Do_No_Harm>) 📉 💡
@@ -522,16 +523,8 @@ No changes.
   - Allows for more perk synergy.
 - Removed cooldown *(was 30/25/20 seconds)*
   - Since stuns are such a low-frequency event, this effectively provides a minor numbers buff without much risk.
-  <!--
-  and
-  -->
 - Increased Item recharge to **80/90/100%** *(was 75%)*
   - Slight numbers buff to increase strength level.
-  <!--
-  or
-  -->
-- Allow recharging items at max rarity
-  - This both enables the perk to be used with a high-tier item, and also allows for the perk to get value more than 3 times.
 
 
 ## [Eyes of Belmont](<https://deadbydaylight.wiki.gg/wiki/Eyes_of_Belmont>) 📉 🗑️
@@ -546,7 +539,7 @@ No changes.
 
 ## [Fast Track](<https://deadbydaylight.wiki.gg/wiki/Fast_Track>) 📉 🗑️
 
-- Now uses an Activate Ability button and <!-- Do we need this next part? --> the Tokens are applied after repairing for **8 seconds**
+- Now uses an Activate Ability button
   - Makes the perk less RNG dependent and allows the survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
 - Decreased tokens granted to **1 Token** *(was 1/2/3)* per hook, up to a maximum of **9 Tokens** *(was 9/18/27)*
   - To make the perk slightly more intuitive, we're moving the level variation to the % per stack which is functionally identical. 1 stack for 1/2/3% at level 3 = 1/2/3% per stack, 1/2/3 stacks for 1% at level 3 is also 3%.
@@ -607,7 +600,7 @@ No changes.
 
 ## [Hardened](<https://deadbydaylight.wiki.gg/wiki/Hardened>) 📉 🗑️
 
-- Now activates after <!-- either --> unlocking <!-- or rummaging --> a Chest or either cleansing-or-blessing a Totem *(was unlocking a chest and either cleansing-or-blessing a Totem)*
+- Now activates after either unlocking or rummaging a Chest or either cleansing-or-blessing a Totem *(was unlocking a chest and either cleansing-or-blessing a Totem)*
   - Reduces the time it takes to activate the perk initially substantially.
 - Increased duration to **6/8/10 seconds** *(was 3/4/5)*
   - Significant numbers buff to increase the perk's strength.
@@ -633,7 +626,7 @@ No changes.
   - Allows you to indefinitely increase your trigger odds at the cost of making them increasingly difficult until you can't hit them anymore.
 - Skill Check bonus progression now has a maximum of **60/120/180%**
   - Artificially imposes the old token limit specifically to bonus progression, preventing the perk from becoming too oppressive, but keeping it skill expressive.
-- No longer loses all Tokens when an interaction is interrupted, instead lose **-1 Token** and then **-1 Token** every **3 seconds** afterwards <!--, or once starting a different interaction -->
+- No longer loses all Tokens when an interaction is interrupted, instead lose **-1 Token** and then **-1 Token** every **3 seconds** afterwards, or once interacting with something or someone different
   - Quality of life change allowing you to momentarily check ping, dodge gen exploding perks, quickly heal a teammate, etc.
 
 
@@ -655,7 +648,7 @@ No changes.
 
 ## [Invocation: Treacherous Crows](<https://deadbydaylight.wiki.gg/wiki/Invocation:_Treacherous_Crows>) 📉
 
-- Reduced broken duration to **120 seconds** <!-- per equipped Invocation --> *(was permanent)*
+- Reduced broken duration to **120 seconds** *(was permanent)*
   - Changes the perks downside to create a reasonable argument that its use is a trade-off instead of detrimental.
 - Now applies the effects from all Invocation perks equipped by all survivors participating
   - Increases viability of stacking Invocation perks, without needing to perform two invocations.
@@ -1108,7 +1101,7 @@ No changes
 
 ## [Specialist](<https://deadbydaylight.wiki.gg/wiki/Specialist>) 📉 🗑️
 
-- No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button and the Tokens are applied after repairing for **8 seconds**
+- No longer requires you to hit a Great Repair Skill Check to consume tokens, instead uses an Activate Ability button
   - Makes the perk less RNG dependent and allows the survivor to hit Great Skill Checks on generators they don't want to apply their Fast Track stacks to.
 - Removed Token limit
   - Prevents you from needing to apply your 6 Tokens onto a gen and then go back to searching if you want to use the perk to remove a large amount from a gen at one time.
