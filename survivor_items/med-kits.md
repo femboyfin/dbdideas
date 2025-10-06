@@ -32,17 +32,21 @@
 
 ### [Gel Dressings](<https://deadbydaylight.wiki.gg/wiki/Gel_Dressings>) (Red)
 
--
+- Decreased additional charges to **+14 charges** *(was +16)*
 
 
 ### [Anti-Haemorrhagic Syringe](<https://deadbydaylight.wiki.gg/wiki/Anti-Haemorrhagic_Syringe>) (Red)
 
--
+- Healing time is no longer affected by Healing Speed modifiers
+- Increased duration to **32 seconds** *(was 16)*
+- Pools of Blood are bright red during the duration
+- Now takes 3 seconds to apply
+  - Uses Nemesis vaccination animation
 
 
 ### [Styptic Agent](<https://deadbydaylight.wiki.gg/wiki/Styptic_Agent>) (Purple)
 
--
+- Now triggers a difficult Skill Check before providing Endurance
 
 
 ### [Abdominal Dressing](<https://deadbydaylight.wiki.gg/wiki/Abdominal_Dressing>) (Purple)
