@@ -5,7 +5,7 @@ This repository is supposed to be an exhaustive list of theoretical positive cha
 
 ## Who's ideas are these? What makes you qualified to suggest balance changes?
 
-These are primarily ideas myself and my friend Echo have come up with and bounced off each other. I started in August of 2024 and have 2,800 hours to date, with the majority of my time duo queuing in public matches. On the other hand, Echo has been playing since shortly after launch and has comp experience, so we both have a reasonably high level of experience in different segments of Dead by Daylight. Some ideas may be the product of cryptomnesia and there's surely going to be plenty of examples of parallel thinking as well, but overall these ideas are from hours of discussion going through element by element of a current feature's implementation and thinking about what we could change to accomplish our [goals](#Goals).
+These are primarily ideas myself and my friend Echo have come up with and bounced off each other. I started in August of 2024 and have 2,800 hours to date, with the majority of my time duo queuing in public trials. On the other hand, Echo has been playing since shortly after launch and has comp experience, so we both have a reasonably high level of experience in different segments of Dead by Daylight. Some ideas may be the product of cryptomnesia and there's surely going to be plenty of examples of parallel thinking as well, but overall these ideas are from hours of discussion going through element by element of a current feature's implementation and thinking about what we could change to accomplish our [goals](#Goals).
 
 
 ## Current progress
@@ -29,7 +29,7 @@ There are multiple factors to consider with any change, but the core goals we ha
 
 3. **Lessen unhealthy elements.** We have two ways that something can qualify as unhealthy, 1) if something increases one side's fun significantly less than it decreases the opposing side's, and 2) if it provides little to zero counterplay or in other words, reduces how dynamic an interaction is instead of making it more dynamic.
 
-4. **Bridge balancing gaps.** This can primarily be broken down into 4 categories although the concept is also applicable to other more niche situations. Overall this means decreasing the viability disparity (the difference in how effective/useful something is) between matches by reducing the impact of the following match-to-match differences; 1) party size 2) map size, elevation variability, and floor count 3) anything that's particularly weak or strong with a very small subset of killer powers but is the opposite for the remainder of the roster, 4) anything that depends upon or is "hard countered" by a given thing outside of that player's control.
+4. **Bridge balancing gaps.** This can primarily be broken down into 4 categories although the concept is also applicable to other more niche situations. Overall this means decreasing the viability disparity (the difference in how effective/useful something is) between trials by reducing the impact of the following trial-to-trial differences; 1) party size 2) map size, elevation variability, and floor count 3) anything that's particularly weak or strong with a very small subset of killer powers but is the opposite for the remainder of the roster, 4) anything that depends upon or is "hard countered" by a given thing outside of that player's control.
 
 
 ## Glossary
@@ -40,14 +40,15 @@ We use the following emojis as shorthands to make it easier to view or opinions 
 
 | Emoji | Name          | Description                                                                            |
 |-------|---------------|----------------------------------------------------------------------------------------|
-|  📉   | Low pick rate | In the lower two thirds of pick rate according to [NightLight](https://nightlight.gg/) |
-|  😷   | Unhealthy     | See definition under the [Methodology](#Methodology)                                   |
+|  📉   | Low pick rate | In the lower two thirds of pick rate according to [NightLight](<https://nightlight.gg/perks/viewer?shown=pick&sort=pick&start_days=28&compact=true>) |
+|  😷   | Unhealthy     | See definition under the [Goals](#Goals)                                               |
 |  💪   | Too strong    | Extremely powerful without a need for comboing                                         |
 |  🗑️   | Too weak      | Either overall low strength or outclassed by similar stronger elements                 |
 |  🧑‍🤝‍🧑   | Abusable      | High potential to be abused in coordinated groups, particularly by high level players  |
 |  🔬   | Needs testing | Appreciable potential to be problematic (e.g. when comboed), requires playtesting      |
 |  💡   | Idea          | Just an early idea, not necessarily for implementation, and no balance promises        |
 |  ⏲️   | Incoming!     | A feature that has been officially roadmapped and concretely will be implemented soon  |
+|  5️⃣   | 5-addon pass  | Items are all going to have 5-addons in the future. This indicates which 5 we'd like.  |
 
 
 ### Common "No change" reasons
@@ -56,7 +57,7 @@ The vast majority of unchanged elements fall under a small handful of reasons, t
 
 #### Too recently changed
 
-It's difficult to evaluate something that has been very recently changed, even minor number tweaks can reposition something in unpredictable ways both in terms of strength and pick rate. Additionally, there are often surges in players using something after it's been updated, as well as other groups of people who don't realize the perk has changed until long after it has been changed, both of these lead to freshly changed perks picked an abnormal amount in the days and sometimes even months after a change has been pushed to live. This combined with the likelihood for players to substitute a single freshly changed perk in with a build of abnormal synergy/strength level can skew kill rate/escape rates and make it difficult to judge how players are adjusting to the new perk immediately. For these reasons, we often prefer to wait to give our feedback on a freshly changed perk in most scenarios, or if we do, it will likely be marked as an Idea and/or Needs testing.
+It's difficult to evaluate something that has been very recently changed, even minor number tweaks can reposition something in unpredictable ways both in terms of strength and pick rate. Additionally, there are often surges in players using something after it's been updated, as well as other groups of people who don't realize the perk has changed until long after it has been changed, both of these lead to freshly changed perks picked an abnormal amount in the days and sometimes even months after a change has been pushed to live. This combined with the likelihood for players to substitute a single freshly changed perk in with a loadout of abnormal synergy/strength level can skew kill rate/escape rates and make it difficult to judge how players are adjusting to the new perk immediately. For these reasons, we often prefer to wait to give our feedback on a freshly changed perk in most scenarios, or if we do, it will likely be marked as an Idea and/or Needs testing.
 
 #### Upcoming changes
 
@@ -69,7 +70,7 @@ Some designs are intrinsically high risk to tamper with. I'll provide two practi
 
 ## Styling
 
-In order to keep our changes as natural as possible, we do our best to format them familiarly. When describing an idea, we first try to mimic the official patch notes as much as possible (e.g. bolding numbers and their units and suffixing previous values in italics). Second we prioritize the [Wiki's style guide](https://deadbydaylight.wiki.gg/wiki/Dead_by_Daylight_Wiki:Style_guide), which provides explicit rules and guidelines to enhance consistency. Finally, we do our best to keep things consistent outside of the aforementioned wherever applicable.
+In order to keep our changes as natural as possible, we do our best to format them familiarly. When describing an idea, we first try to mimic the official patch notes as much as possible (e.g. bolding numbers and their units as well as suffixing previous values in italics). Second we prioritize the [Wiki's style guide](<https://deadbydaylight.wiki.gg/wiki/Dead_by_Daylight_Wiki:Style_guide>), which provides explicit rules and guidelines to enhance consistency. Finally, we do our best to keep things consistent outside of the aforementioned wherever applicable.
 
 Let's use an example from a recent patch to demonstrate. If we want to lower the duration of insidious from it's previous 4/3/2 seconds to 3/2/1 seconds, the resulting change would be:
 - Decreased the time it takes to activate to **3/2/1 second** *(was 4/3/2)*

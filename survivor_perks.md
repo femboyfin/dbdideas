@@ -27,7 +27,7 @@ or
 ## [Alert](<https://deadbydaylight.wiki.gg/wiki/Alert>) 🗑️
 
 - Now activates whenever the killer performs a **Break, Damage, or Vault Action** *(was Break or Damage)*
-  - Adding an additional activation condition should make it viable in more situations, making it more consistent throughout matches.
+  - Adding an additional activation condition should make it viable in more situations, making it more consistent throughout trials.
 
 or
 
@@ -44,7 +44,7 @@ or
 ## [Apocalyptic Ingenuity](<https://deadbydaylight.wiki.gg/wiki/Apocalyptic_Ingenuity>) 📉 🗑️
 
 - Now activates after repairing a total of **40%** of a Generator *(was unlock/rummage two chests)*
-  - Greatly increases it's viability for use throughout the match by removing the need to accomplish a side objective to activate your perk which in and of itself is effectively a side objective.
+  - Greatly increases it's viability for use throughout the trial by removing the need to accomplish a side objective to activate your perk which in and of itself is effectively a side objective.
 - Reduced rebuild time to **3 seconds** *(was 4)*
   - Slight numbers buff to an already weak perk, specifically without creating guaranteed re-stuns.
 
@@ -199,7 +199,7 @@ or
 - Removed Med-Kit exception to altruistic healing speed bonus
   - Generally increasing viability of the perk by removing a situation where it previously made no difference.
 - Now works while healthy
-  - Provides the opportunity for an injured survivor to navigate directly to a healthy player with a healing build within a boon for an extremely fast multi-person reset.
+  - Provides the opportunity for an injured survivor to navigate directly to a healthy player with a healing loadout within a boon for an extremely fast multi-person reset.
 - Increased altruistic healing speed bonus to **150%** *(from 100%)*
   - Numbers buff to increase the general viability of the perk, offsetting the time loss of traversing into the Boon's range.
 
@@ -247,7 +247,7 @@ or
 
 - Increased Haste & Endurance effects to **11/13/15 seconds** *(was 6/8/10)*
   - Sizable numbers buff to increase the viability of the perk in a post-basekit-BT world.
-- Use the Activate ability button to grant the unhooker 15 seconds of Endurance once per match
+- Use the Activate ability button to grant the unhooker 15 seconds of Endurance once per trial
   - Enables the same ability from our preferred buff but in a much more limited capacity, with the benefit of it being usable in endgame. Notably, this disallows use with Shoulder the Burden, meaning you can't get free endurance AND take the survivors health state at the very end of the game.
 
 
@@ -333,7 +333,7 @@ No changes.
 - In addition to revealing your aura to the killer, reveal the killer's aura to you for **5 seconds**
   - Helps with the goal of the perk which is to get the killer to chase you instead of the other survivors, allowing you to throw yourself in the killer's face even if they tried to initially ignore you to tunnel.
 - Now works on Healthy survivors
-  - Allows you to assist healthy survivors that are death hook but were nearby as you saved (for instance due to a lack of communication as a result of low-party size), somewhat avoiding soft-tunnelling.
+  - Allows you to assist healthy survivors that are death hook but were nearby as you rescued (for instance due to a lack of communication as a result of low-party size), somewhat avoiding soft-tunnelling.
 
 
 ## [Conviction](<https://deadbydaylight.wiki.gg/wiki/Conviction>) 😷 💪
@@ -398,7 +398,7 @@ No changes.
 ## [Deadline](<https://deadbydaylight.wiki.gg/wiki/Deadline>) 📉 🗑️
 
 - Now works while injured
-  - Makes the perks more reasonably useful for the majority of the match.
+  - Makes the perks more reasonably useful for the majority of the trial.
 - Increased skill check trigger chance to **8/10/12%** *(was 6/8/10%)*
   - Noticeable strength increase to increase playrate of a low-tier perk.
 - Increased penalty reduction for missed skilled skill checks to **75%** *(was 50%)*
@@ -514,7 +514,7 @@ No changes.
 - Removed range limitation
   - Slightly increases the strength while removing map variance caused by extremely large maps.
 - Now shows the aura of survivors in chase farther than **64/48/32 meters**
-  - Moves Empathy to a more altruistic perk, allowing you to set up to be in a position to heal/save/hit tank, etc. for a teammate who's going to imminently be injured.
+  - Moves Empathy to a more altruistic perk, allowing you to set up to be in a position to heal/rescue/hit tank, etc. for a teammate who's going to imminently be injured.
 
 
 ## [Exultation](<https://deadbydaylight.wiki.gg/wiki/Exultation>) 📉 🗑️
@@ -794,7 +794,7 @@ No changes.
 - Increased Action speed bonus to **100/125/150%** *(was 50/75/100%)*
   - Slight numbers buff to increase the strength of a low playrate perk.
 - Now reveals your aura to other survivors as well
-  - Slight buff making it easier for other survivors to come and get healed and coordinate a save in end-game, self synergy.
+  - Slight buff making it easier for other survivors to come and get healed and coordinate a rescue in end-game, self synergy.
 
 
 ## [Object of Obsession](<https://deadbydaylight.wiki.gg/wiki/Object_of_Obsession>) 📉 🗑️
@@ -854,7 +854,7 @@ No changes.
 - Now uses an Activate Ability prompt to get the Med-Kit from the chest, rather than being automatic
   - Provides more user choice on when you'd like to retrieve your Med-Kit. Prevents the awkward situation where you're trying to go for a hail mary play searching a chest for a key, only to be shot in the foot by your own perk.
 - Now grants the rummage option on chests to get the guaranteed Med-Kit on chests that have been opened
-  - Allows you to get the original item from the chest and still receive your Med-Kit, meaning you can exchange the extra time of an added rummage action for the benefit of an extra random item. Somewhat increases chest build synergy as well.
+  - Allows you to get the original item from the chest and still receive your Med-Kit, meaning you can exchange the extra time of an added rummage action for the benefit of an extra random item. Somewhat increases chest loadout synergy as well.
 
 
 ## [Plot Twist](<https://deadbydaylight.wiki.gg/wiki/Plot_Twist>)
@@ -1075,7 +1075,7 @@ No changes
 ## [Smash Hit](<https://deadbydaylight.wiki.gg/wiki/Smash_Hit>) 📉 *🗑️ (For Exhaustion)*
 
 - Now activates on any stun, not just Pallet stuns
-  - broadens the activation condition to enable use with Decisive Strike, Last Stand, and Blast Mine (Head On triggers Exhausted meaning it will not work with Head On). Smash Hit is the only exhaustion perk that isn't in the top 33% playrate, this should also encourage build diversity to an extent, and gives it comparable value to Sprint Burst when used with Decisive Strike for anti-tunnel purposes.
+  - broadens the activation condition to enable use with Decisive Strike, Last Stand, and Blast Mine (Head On triggers Exhausted meaning it will not work with Head On). Smash Hit is the only exhaustion perk that isn't in the top 33% playrate, this should also encourage loadout diversity to an extent, and gives it comparable value to Sprint Burst when used with Decisive Strike for anti-tunnel purposes.
 
 
 ## [Sole Survivor](<https://deadbydaylight.wiki.gg/wiki/Sole_Survivor>) 📉 😷 🗑️
@@ -1211,7 +1211,7 @@ No changes pending 9.2.0 PTB patch notes release.
 - No longer affects Recovery speed
   - Noticeable decreases perk strength and prevents using this secondary effect too oppressively in combination with other anti-slugging perks aggressively.
 - Now activates after 40 seconds of remaining stationary in one Dying State, allowing you to recover yourself once per Trial
-  - Sizable nerf, giving the killer plenty of time to ensure they aren't going to end up in a "let them get picked up, or pick up and get pallet saved" situation, while still leaving the perk effective in extreme slugging situations. This number is also notably greater than the duration of our adjusted Decisive Strike timer, meaning this lose-lose situation has been lessen significantly.
+  - Sizable nerf, giving the killer plenty of time to ensure they aren't going to end up in a "let them get picked up, or pick up and get pallet rescued" situation, while still leaving the perk effective in extreme slugging situations. This number is also notably greater than the duration of our adjusted Decisive Strike timer, meaning this lose-lose situation has been lessen significantly.
 
 
 ## [Up the Ante](<https://deadbydaylight.wiki.gg/wiki/Up_the_Ante>) 📉 🗑️ 🧑‍🤝‍🧑

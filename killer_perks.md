@@ -59,7 +59,7 @@ No changes; upcoming changes (9.2.0 PTB).
 ## [Beast of Prey](<https://deadbydaylight.wiki.gg/wiki/Beast_of_Prey>) 📉 🗑️
 
 - Now grants Undetectable status effect as long as the Bloodlust status effect is active
-  - Partially reverts a change from [8.5.0](https://deadbydaylight.wiki.gg/wiki/Beast_of_Prey#Patch_8.5.0) where it was somewhat reworked at the time it lost it's Bloodpoint bonus, effectively makes it so the 8.5.0 changes plus this change make it a direct buff rather than a sidegrade.
+  - Partially reverts a change from [8.5.0](<https://deadbydaylight.wiki.gg/wiki/Beast_of_Prey#Patch_8.5.0:~:text=Nerf:%20Undetectable%20now%20lasts%20for%20a%20limited%20time%20after%20gaining%20Bloodlust%2C%20instead%20of%20for%20as%20long%20as%20Bloodlust%20is%20active.>) where it was somewhat reworked at the time it lost it's Bloodpoint bonus, effectively makes it so the 8.5.0 changes plus this change make it a direct buff rather than a sidegrade.
 - Now grants **30/35/40 seconds** of Undetectable upon losing the Bloodlust status effect
   - Maintains the 40 second linger effect from the current post-8.5.0 version, maintaining it's niche as a drop-and-surprise on demand jump scare type of stealth perk.
 
@@ -149,13 +149,13 @@ No changes
 - Reduced Pallet Stun Recovery speed to **10%** *(was 25)*
   - Further reduces the remaining downside's impact
 - Increased Vaulting speed to **20/25/30%** *(was 15/20/25)*
-  - Slight numbers buff to increase perk strength, this combined with the lack of downsides could potentially bump it to a level where it's occasionally used outside of full vault speed builds.
+  - Slight numbers buff to increase perk strength, this combined with the lack of downsides could potentially bump it to a level where it's occasionally used outside of full vault speed loadouts.
 
 
 ## [Dark Devotion](<https://deadbydaylight.wiki.gg/wiki/Dark_Devotion>) 📉 🗑️
 
 - Now activates when hitting any survivor with a Basic Attack
-  - Increases perk strength by separating it from specifically the Obsession, you should see more consistent activations of the perk throughout the trial. Additionally limiting it to Basic Attacks makes the perk slightly less oppressive on higher strength killers and encourages more deliberate and thoughtful activation them.
+  - This is a reversion of the change made in [6.1.0](<https://deadbydaylight.wiki.gg/wiki/Patch_Notes_6.1.X#:~:text=Dark%20Devotion-,Now%20triggers%20when%20a%20Survivor%20loses%20a%20health%20state%20by%20any%20means%20(was%20just%20basic%20attacks>). Increases perk strength by separating it from specifically the Obsession, you should see more consistent activations of the perk throughout the trial. Additionally limiting it to Basic Attacks makes the perk slightly less oppressive on higher strength killers and encourages more deliberate and thoughtful activation them.
 - Increased duration to **40/50/60 seconds** *(was 35/40/45)*
   - Sizable numbers buff, increasing the strength a bit by giving you more opportunities to catch someone off guard while your Terror Radius is elsewhere.
 - Now activates only on Basic Attack
@@ -243,7 +243,7 @@ No changes; too recently changed (9.1.0).
 - Decreased Obsession Action Speed bonus to **20%** *(was 33)*
   - Reduces the number of situations where the perk is detrimental to run.
 - Increased non-Obsession Action Speed penalty to **3/4/5% per token** *(was 2/2.5/3)*
-  - Sizeable numbers buff, should ensure the perk has a very noticeable impact each match.
+  - Sizeable numbers buff, should ensure the perk has a very noticeable impact each trial.
 - Now applies Action Speed penalties to all Action Speeds (except vaulting)
   - Mild buff, mostly effects less-critical and less-common action speeds, but will notably slow down gate-opening.
 

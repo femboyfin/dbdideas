@@ -15,7 +15,6 @@
 - Traps now displace foliage
 
 
-
 ### INTERACTION: COLLECTING TRAPS
 
 - Disarmed traps can now be remotely retrieved by pressing the Activate Ability button
