@@ -12,56 +12,65 @@ Here we'll include changes to other features that don't fit into the categories 
 
 - While a Survivor is on hook, the Aura of all Survivors are revealed to each other
 
-This one has been suggested a lot, but having the survivor-aura portion of Kindred (Whenever any Survivor is hooked, the Auras of all Survivors are revealed to each other). This would substantially reduce the solo-queue guesswork as to whether or not your teammate is actually going for the save, and allow for much more coordinated two-man saves without communication.
+***DEV NOTE**: It's not secret that coordinating Unhooks can be difficult for Survivors outside of a party. Kindred has long been a go-to perk for solo survivors to make coordinating Unhooks smart and reliable. This change should help both in determining whether or not to go for an Unhook, as well as for setting up multi-survivor Unhooks, reducing the gap between solo queue survivors and coordinated teams.*
 
 
 ### Haste Transparency
 
 - All players affected by the Haste effect now create a Blight trail behind the affected player
 
-The survivor Halloween event add-on [Refined Serum](<https://deadbydaylight.wiki.gg/wiki/Refined_Serum>) both applies Haste and "Creates a Blight trail behind the affected Survivor", this is a very distinct visual effect that clearly portrays to the killer and that survivor's teammates that they've used a Refined Serum and have the haste effect. Repurposing this visual effect would be a great way to convey to other players that a given player has Haste at the moment, and the strength of the effect could even be based upon the strength of the Haste, making it possible to identify Haste stacking. This allows players to make more informed decisions, for example, deciding not to chase a Hope user, identify Hex: No One Escapes Death at the beginning of end-game, or confirming Boon: Dark Theory.
+***DEV NOTE**: Finding out your opponent had the Haste status effect without your knowledge can be frustrating for both new and experienced players. Our goal is to decrease the frequency of these frustrating interactions while making it clear what our new players are going up against.*
 
+
+### Slugging Reduction
+
+- Haemorrhage no longer affects healing survivors in the dying state
+- Perks charged by spending time in the killer's Terror Radius while not in chase can now be charged while in the Dying State
+
+<!-- TODO: Needs note -->
 
 ### Proxy-Camp Prevention
 
-- Survivors' on-hook Resolve meter now fills slowly while the Killer is aiming at the hook
+- Survivors' on-hook resolve meters now fill slowly based on how closely the killer is looking at the hooked Survivor
+- This additional resolve fills at a rate of **1 charge per second** while aiming directly at the hooked survivor, decreasing by **0.1 charges** per **10 degrees** away the killer is aiming.
+- This mechanic is disabled while the killer is farther than **32 meters** from the hooked survivor
 
-Progress the anti-camp meter at a faster rate based on killer power proximity. Would take more than one stage, say 90 seconds, to fully fill the anti-camp meter, meaning in practice, it primarily prevents the killer from proxying with power and then face camping to secure the stage progression. Would be somewhat tricky for certain killers like Huntress and Ghoul, although less effective, there could be checks on whether the hatchet is held down and aimed within a 90 degree cone towards the hook from the killer's position, same going for Ghoul power with his power held up ready to leap. This definitely would vary in effectiveness killer to killer, but overall would definitely be an improvement if tuned well.
+***DEV NOTE**: We know it can be frustrating to see a killer walk just far enough away to not provide anti-camp resolve, camping as close as possible to the hook while subverting the existing anti-face camp system. Our goal with this change is to discourage killers from trying to circumvent the existing anti-camp systems, without punishing killers for solely keeping an eye on the hook from a distance if they aren't participating in other forms of camping.*
 
 
 ### Stage Securing Prevention
 
-- Survivors' on-hook Resolve meter is no longer slowed by nearby Survivors during final 10 seconds of each Hook stage
+- Survivors' on-hook resolve meter is no longer slowed by nearby Survivors during final **10 seconds** of each Hook stage
 
-During the final portion (e.g. 10-20 seconds) of each hook stage, the other-survivor penalty is temporarily disabled, preventing the hooked survivor from being punished by a teammate attempting to go for an unhook while the killer is trying to secure the stage.
+***DEV NOTE**: In certain situations, survivors approaching a hook that's been camped from a slight distance can prevent the hooked survivor from filling their resolve meter, creating situations where the killer ends up being able to aggressively face-camp for the final portion of a survivor's hook stage. This change aims to reduce frustration surrounding this tactic, without unfairly punishing killers opportunistically returning to the hook from afar, as at most this will fill half of the anti-camp bar during this final 10 seconds.*
 
 
 ### Chronic Camping Prevention
 
-- The 7-second Resolve meter grace period is now permanently disabled for all Survivors once a Survivor's Resolve meter is filled
+- The 7-second resolve meter grace period is now permanently disabled once a survivor's resolve meter has been filled
 
-Modify the normal 7-second grace period based on the average progression of the anti-camp meter per hook stage.
+***DEV NOTE**: We understand how frustrating it can be to have a killer repeatedly camp survivors on hook throughout the same trial. This change shouldn't unfairly punish killers who aren't doing this, and gives camping a single a hook a lasting penalty.*
 
 
 ### Running Grunts Improvement
 
 - Running grunts are now affected by the volume of Grunts of Pain
 
-There is an additional sound layer to players running called "running grunts" that begin playing after sprinting continuously for ~5 steps. Currently there is nothing that effects the existence nor volume of these. Tying the volume of Running Grunts to the Grunts of Pain adjustments done by Iron Will, Off the Record, Stridor, etc. would provide these otherwise injured-only effects a more general minor benefit.
+***DEV NOTE**: Running Grunts are a little-known mechanic that adds a layer of grunting after continuously sprinting for a short period of time. Previously, there has never been any way to adjust this audio layer, this should provide a minor while-healthy benefit to Grunts of Pain reducing unlockables, increasing their typically relatively low strength level.*
 
 
 ### Multicolor Aura Striping
 
 - Players and Objects revealed in more than one color of Aura are now striped with both colors
 
-If for example, a Generator should be highlighted in both red and yellow, this would be shown as diagonal red and yellow striping.
+***DEV NOTE**: In situations where multiple unlockables that grant different color auras are in play (Déjà Vu, Blast Mine anyone?), it currently make its more difficult to determine which objects are under the effects of your perks. This ensures it's always possible to determine this, by highlighting the object in both colors at once.*
 
 
 ### Escape Boundary Designation
 
 - The Exit Gate escape boundary is now visually marked with a smoky line
 
-Over time a variety of new gate designs have been introduced to better suit different maps. This is great thematically and in certain maps the traditional gates would definitely clash/feel jarring. However this has introduced the issue where it is sometimes unclear exactly where the line to escape is, leading to some awkward situations where you may think you're in a safe position stalling for time but you actually aren't, or think you're safe from a given exit gate blocker addon because the escape boundary is farther than you intuitively thought. Having some sort of subtle glow or fog emanate from the line would make this much clearer, including for killers at a distance before their exit gate blockers are shown, making it easier to gauge whether hitting someone will knock them out or not before the swing.
+***DEV NOTE**: With the increase in unique map-specific gate designs over time, situations where survivors accidentally leave the trial or don't quite make it out have increased with this added variety. It's an all too common occurrence where it's difficult to tell exactly where the line you have to cross is, this should remediate these situations and prevent survivors from getting caught off guard by exactly where this boundary lies.*
 
 
 ### Haste & Hindered Stacking
@@ -70,22 +79,37 @@ Over time a variety of new gate designs have been introduced to better suit diff
 - While multiple Haste or Hindered effects are active and they total higher than 15%, the percentage is set to 15%
 - While multiple Haste or Hindered effects are active and one is above 15%, the largest percentage for each is used
 
-Haste stacking is a controversial issue, Behaviour has previously attempted to address this in the [8.7.0 PTB](<https://forums.bhvr.com/dead-by-daylight/kb/articles/501-8-7-0-ptb-patch-notes>) but it was removed following community backlash. There were effectively two groups of people at the time, proponents of keeping Haste stacking generally cited either the incentive to use off-meta perks or the build diversity benefits from unique synergies on otherwise low-strength Haste perks, whereas those against Haste stacking generally cited balancing problems where having to adjust every new Haste element (perks, powers, and addons) with the possibility of of it being used with any combination of existing Haste sources was limiting the potential Haste elements we could receive, because Haste can become very problematic when the numbers get too high. Both of these schools of thought are on their, correct, people were in effect arguing which of these factors were more important. The problem with Behaviors approach of outright disabling any type of Haste stacking was the all-or-nothing solution to such a polarizing issue. With the backstory out of the way, a likely better remediation to prevent extremely case scenarios, is to prevent stacking of 15% Haste on both sides. This stops Survivors from exceeding the base speed of a 4.6m/s killer, allowing them and even a 4.4m/s killer to catch up using Bloodlust, while also limiting non-bloodlust killers from exceeding the typical speed allowed by maximum Bloodlust (Bloodlust 3 = 15% movement speed increase). Notably this would take the highest strength Haste source into account first, and then only increase Haste up to this 15% cap at maximum. A few notable examples of cases where this middle-ground approach shrines are; Sprint Burst and other Exhaustion perks grant 50% Haste, if we outright cap Haste at 15%, this fundamentally breaks the Exhaustion perk concept of high speed balanced out by a short duration. So instead we apply the Haste from Sprint Burst, then if the survivor also is in range of Boon: Dark Theory, we see we're already above 15% so we stay at the 50% Haste from Sprint Burst rather than increasing it further to 53%. On the other hand, when activating Blood Pact and Power of Two, we see the 7% Haste from Blood pact is under the 15% cap, allowing us to add the 5% Haste from from Power of Two on top of it because that 12% is still under the cap, but if we suddenly both activate Hope, we're now limited to 15% instead of the full 19% from the +7% Haste, preventing us from moving faster than the killer in a straight line.
+***DEV NOTE**: As explained in the [April 2025 Developer Update](<https://forums.bhvr.com/dead-by-daylight/kb/articles/500-developer-update-april-2025>), the stacking of status effects like Haste and Hindered have historically led to problematic circumstances with certain combos, resulting in these unlockables being far more powerful than intended. We heard the concerns the community shared during the [8.7.0 PTB](<https://forums.bhvr.com/dead-by-daylight/kb/articles/501-8-7-0-ptb-patch-notes>) about the first round of Haste & Hindered Stacking changes, and agree that it's important to maintain stacking for loadout synergy and variety. These revised changes should only limit extreme cases of stacking, without preventing the use of multiple Haste or Hindered perks in the same loadout.*
 
 
-### Match Reconnection
+### Trial Drop-In
 
-- Players who have disconnected from a still-ongoing trial now have the option to Reconnect in place of the "Ready Up" button
+- Players who have disconnected from a still-ongoing trial now have the option to Reconnect in place of the "Ready Up" button for the duration of the trial
+- Added a check-box next to the Ready Up button to opt-in to being queued into on-going trials, where you will take control of an existing bot with their loadout after a player has disconnected from the trial for a Bloodpoint bonus
+- Added the option to take control of Bots while spectating after dying for a Bloodpoint bonus
+- Enabled killer bots, enabling usage of the above system for killer while providing survivors the Abandon option in the meantime
+- Survivors who have received 3 AFK Crows are now automatically replaced by a bot
 
-This is a long requested feature that has been previously dismissed under the guise that given the relatively short nature of Dead by Daylight trials, it would rarely serve much benefit. However in modern DBD, everyone has been in matches that lasted for an extended period of time- based on the official stats tracker, the average duration of my last 10 matches is 10.4 minutes, more than enough time to reconnect and take control over the bot that took my place (for reference it takes me 1 minute and 8 seconds to get from DBD's Steam library page to the main menu past the login steps on 5-6 year old hardware). The game crashes on occasion- all games do, internet and power can drop out on people, their computer itself can crash, their game could be experiencing a problem that requires a restart, and so on. This could provide a way to wait out some of your penalty by playing the match you disconnected from (potentially even earning bonus credit towards the remainder of your penalty for doing so), it would allow you to rejoin your friends after instead of waiting for their match to finish, enable the potential to take over the place of someone else's bot once you die, and so on. This can also work to disable queuing for the duration of the match as the user now has a way to play the game in front of them, extending DC penalties appropriately when their reason for disconnecting is because they object to something being used, played, or done, rather than out of frustration or out-of-game obligations. This prevents situations where someone can disconnect against a given character (e.g. Skull Merchant the moment they get past the camera pan and see her unique character portrait backgrounds) knowing that the match will likely last longer than 5 minutes and their penalty will only be 5 minutes. They now will have to wait out the duration of the match at minimum (the same amount of time the other players in that lobby had a degraded experience for), removing this awkward edge case where players who understand the system can abuse it, reducing DC rates overall.
+***DEV NOTE**: Trial reconnection is one of the longest requested features, and it's implementation has opened up the potential for multiple drop-in mechanics. There are a variety of reasons why someone may need to disconnect from a Trial due to unforeseeable problems, and having a way to continue playing with your team once everything is sorted decreases the amount of time waiting for friends to finish up as well as the amount of time players spend playing with bots. This also provides an option for sacrificed survivors to hop in and keep helping their team by taking the place of an existing bot, and for players who don't mind the unpredictable loadout and situation to find a trial quicker all while gaining extra Bloodpoints.*
+
+
+### Abandon Options
+
+- Added the following abandon scenarios:
+  - As Killer: once the End Game Collapse has started
+  - As Survivor: once the sacrifice animation has started
+  - As Survivor: once the mori animation has started
+  - As Survivor: if all other survivors are bots
+
+***DEV NOTE**: The abandon system has been a great success so far and in the interest of respecting player time, we've decided to add some additional options. All of these conditions are meant to enable abandoning once your presence in the match no longer affects it's conclusion.*
 
 
 ### Bloodlust Reduction
 
 - Removed Bloodlust tier 3
-- Increased chase time required to reach Bloodlust tier 2 to **30 seconds** *(was 25)*
+- Increased chase time required to reach Bloodlust tier 2 to **30 seconds** *(was 25 seconds)*
 
-A common community request over time has been some form of nerf to Bloodlust. Bloodlust's original purpose was to mitigate problematic "infinites" where the survivor could theoretically loop a structure or combination of structures for an unlimited amount of time without any possibility of the killer being able to injure the survivor, particularly in the case of basic attack-only killers. Common arguments for the removal of Bloodlust are that improved balancing of individual tiles and tile generation as a whole have naturally reduced the potential of infinites drastically, that the existence of window entity blockers have largely mitigated infinites on their own, and that higher tiers of Bloodlust are unnecessary to counter infinites. Common arguments against the removal of Bloodlust are that the time inefficiency of using higher tiers of Bloodlust to get an injury cancels out the benefit, that the removal disproportionately affects weaker killers as most chase powers reset Bloodlust on use making it primarily beneficial on killers with less beneficial chase powers, and that it serves as an important safety net in the rare case where tile generation does provide survivors with such a strong setup that it is (or at least almost is) an infinite even with the other systems in place. With that said, the outright removal of Bloodlust is likely not the best route to go, at least without playtesting the removal of higher tiers of bloodlust first. The third tier of bloodlust practically doesn't function as a needed safety net as even on a 4.4m/s killer, 120% movement speed is enough to maintain chase forcing entity blockers on window in effectively every tile setup, providing a feature that rewards players for playing inefficiently without a separate reason for such feature to exist is harmful to the growth of less experienced players, and needing anything beyond Bloodlust 2 to get a down is less of a low-tier killer problem and more of a low level of experience on that killer problem, leaving Bloodlust to serve as a secondary path to brute-force an injury for short term benefit without requiring the player to learn how to use that killer to get their injury in the traditional fashion with that killer's abilities. Bloodlust 2 is generally unneeded, but because it can be an important safety net for 4.4m/s movement killers in certain situations where they're unable to use their power to get an injury on a given loop, removing this altogether could have potential negative ramifications. Bloodlust 1 is still rarely needed, but does serve to benefit lower tier killers more than higher tier killers.
+***DEV NOTE**: In the years since Bloodlust was introduced, it's main purpose has decreased in necessity through the addition of window entity blockers and improvements to tile generation. These changes should incentivize killers to use their power more in chase, while ensuring Bloodlust still functions as a safety net in tile generation edge-cases, even for lower movement speed killers.*
 
 
 ### Exhausted Penalty
@@ -93,33 +117,45 @@ A common community request over time has been some form of nerf to Bloodlust. Bl
 - Now increases survivor volume by **50%** while Exhausted
 - Now causes running grunts to played for twice as long
 
-Currently, there is no basekit penalty for being Exhausted, making Exhausted-inflicting perks and addons on the killer side meaningless if the survivor doesn't have a perk equipped that's affected by Exhausted. Additionally, Exhaustion perks are among the strongest survivor perks in the game by a disproportionate margin, effectively being a must-run for all players if you're aiming for builds with the strongest perks.
+***DEV NOTE**: Previously there was no direct penalty for being Exhausted, resulting in Exhausted-inflicting unlockables having no effect if the survivor doesn't have a perk disabled by Exhausted equipped. This change resolves this edge-case, slightly increasing the strength of Exhausted-inducing unlockables and slightly decreasing the strength of perks that cannot activate while Exhausted.*
 
 
-### Flashlight Changes
+### Flashlight Quality of Life
 
-- Reduced stun buffer at the end of the killer pick-up animation to **0.1 seconds** *(was 0.4)*
+- Reduced stun buffer at the end of the killer pick-up animation to **0.1 seconds** *(was 0.4 seconds)*
 - Now fades flashlight beams in and out when clicking and un-clicking
 - Removed minimum flashlight beam on-and-off hold-time
 - Added a brief delay before you can re-click a flashlight after turning it off
 
-The previous two patches changing flashlights were 6.3.0 and 6.4.0, these were aimed at improving accessibility around photosensitivity and decreasing annoyance of flashlight clicking, but had a number of negative side effects. Clicking a flashlight has long been a non-verbal method of communicating with teammates who aren't in comms. The minimum hold time was intended to reduce the potential of "clicky spam" where survivors spam-clicked their flashlights extremely fast (sometimes using macros), causing an extremely loud clicking noise, as well as reduce the frequency of sudden flashing lights to avoid triggering strobing photosensitivity problems. The negative consequence of this change was increasing the amount of charges lost for clicking a survivor, before you'd lose one frame (~1/120th of a charge), whereas now you lose an actually noticeable amount. The actual lost charges is not very much, less than one charge, but over the course of a solo queue match where you're using your flashlight to point things out to your teammates quickly, it can add up and potentially cost you a blind. The other negative consequence of this is flashlights feeling a lot more clunky now than they used to. You're forced into walking speed for the duration of the minimum hold-time even after releasing right click, leading to your movement speed penalty being disconnected from your inputs which feels quite poor.
+***DEV NOTE**: These changes are intended to address the main pain points surrounding flashlights while playing both roles. For killer, flashlight rescues have long been easier to accomplish than avoid particularly at lower experience levels, this decrease in stun buffer will require more precise timing from survivors to succeed a flashlight rescue attempt. For survivors, photosensitivity safety measures have been adjusted to allow for extremely brief flashlight clicks, enabling their use as communication tools for survivors outside of a party, and improving the feel of using them across the board.*
 
 
 ### Bloodpoint Adjustments
 
 - Removed bloodpoint Category caps *(was 10,000)*
-- Added a new combined cap of **50,000** *(was uncapped)* bloodpoints total per match before offerings
+- Added a new combined cap of **50,000** *(was uncapped)* bloodpoints per trial before offerings
 - Survivors in chase now receive **25%** of the Objectives and Altruism score their teammates receive during the duration of the chase
-- All category-specific bloodpoint offerings are now all-player offerings
-  - Category-specific bloodpoint offerings now boost the opposite-roles categories as follows; Objectives:Brutality, Survival:Sacrifice, Altruism:Deviousness, and Boldness:Hunter.
+- Retired Bound Envelope
+- All offerings now grant bonus Bloodpoints to all players
+- Category-specific bloodpoint offerings now boost the matching opposing-role category
 - Increased the effects of all category-specific bloodpoint offerings by **+100%**
-- Survivor Pudding and Escape Cakes now provide bonus bloodpoint to all players
 - Decreased Survivor Pudding and Escape Cake bloodpoint bonuses to **50%**
-- Added dynamic bloodpoint bonuses for killers based on their playrate ranging from **+25%** to **+250%**
+- Added dynamic bloodpoint bonuses for the **10** lowest playrate killers, ranging from **+250%** to **+25%**
 - Added **+50%** bloodpoint bonus while using perks currently in the Shrine of Secrets
 - Added a weekly **+50%** bloodpoint bonus to the lowest play rate addons for each Item and Power from the previous week
 - Decreased the P100 Bloodweb to renew at **Level 25** *(was 50)*
+
+***DEV NOTE**: The existing Bloodpoint cap currently doesn't reward players for excelling in a specific category of score events, these changes should ensure players are rewarded for everything they do. The chase changes should reward survivors taking chase at high-importance times to buy their teammates time for generators, rescues, and heals, while also communicating the idea that they should do as much of these actions as possible while a teammate is in chase. The changes to personal and category-specific Bloodpoint offerings are intended to encourage more diverse Bloodpoint offering usage, while giving newer players with fewer offerings faster progression. Unlockable-specific Bloodpoint bonuses should incentivize usage of less-played characters increasing diversity in trials and guiding players to try different unlockables than what they're used to, while giving newer players a method of hastening their progression while gathering more diverse experience with a variety of unlockables. As a result of these changes and to encourage item and addon diversity at high MMR, the P100 Bloodweb now resembles a Level 25 Bloodweb instead of Level 50.*
+
+
+### Shrine of Secrets Improvements
+
+- Perks belonging to original characters no longer appear in the Shrine of Secrets
+- Perks in the Shrine of Secrets now rotate in a consistent order
+- Universal Perks now appear in the Shrine of Secrets
+- Perks in the Shrine of Secrets can now also be unlocked for **125 Auric Cells** per tier
+
+***DEV NOTE**: It's been a long time since the Shrine of Secrets has received many changes, and we want to give it an overdue update. These changes are intended to make the availability of licensed perks through the shrine more consistent and provide an alternate solution to players who are only interested in a small number of a licensed character's perks, and not the character themselves.*
 
 
 ### Player Loyalty Customizations
@@ -127,122 +163,132 @@ The previous two patches changing flashlights were 6.3.0 and 6.4.0, these were a
 - Added unique Badge Borders based on player Devotion
 - Added the option to equip prestige crests from previous prestiges
 
+***DEV Note**: We know experienced players are always looking for ways to show off their accomplishments. While we are limited in what customization options can be made available across all original and licensed characters, these additions should provide more customization options and allow players to show off their general experience level in a non-character specific way.*
+
 
 ### Prestige Sacrifice
 
-- Added the ability for characters at P100 to sacrifice their current prestige up to 6 times with the following benefits:
-  - Sacrificed Torso/Weapon, Sacrificed Legs/Body, Sacrificed Head/Mask, Sacrificed First Perk Charm, Sacrificed Second Perk Charm, then Sacrificed Third Perk Charm. Sacrificed cosmetics are similar to the Legacy pattern but use a light blue color.
+- Added the ability to Sacrifice Prestige 100 characters up to 6 times, resetting them to Prestige 9 and unlocking one of the following cosmetics each time:
+  - Sacrificed Torso/Weapon, Sacrificed Legs/Body, Sacrificed Head/Mask, Sacrificed First Perk Charm, Sacrificed Second Perk Charm, then Sacrificed Third Perk Charm. Sacrificed cosmetics (including charms) are similar to the character's default cosmetics, but with a blue variant of the Legacy pattern.
 - Sacrificing a P100 character will result in the loss of all non-event and non-retired unlockables
+- Grants **1,000,000** Bloodpoints per **10,000** sacrificed unlockables, up to a maximum of **75,000,000 Bloodpoints**
+
+***DEV NOTE**: It has been a long time since new prestige cosmetics have been implemented, and we've seen players' commitment to gathering multiple P100 characters! We want to provide players who've gone above and beyond a way to display the love and commitment they have for their favorite characters. Learning from the legacy prestige system years ago, we wanted to ensure players didn't lose their relics of the past, and give players who continued pouring Bloodpoitns into a character past the maximum prestige a head-start.*
 
 
 ### Inventory Quality Of Life
 
-- Now automatically equips one of the pre-equipped starter add-ons if you don't de-equip your previous one after running out
+- Now automatically equips a starter add-on when finding a trial if you have an add-on equipped that has zero remaining.
+
+***DEV NOTE**: Everyone has had that moment of loading into the trial only to realize one of your add-ons is missing. This change should remediate this by ensuring you at least have something in it's place.*
+
+
+### Maze Tile Quality of Life
+
+- Maze Tiles are now guaranteed to have a unique number of pallets and windows
+
+***DEV NOTE**: The recent changes making all Realms draw from the same pool of maze tiles has provided significantly more tile options to select from across different maps. This has made it realistic to not only ensure no repeat tiles, but ensure that all tiles have a unique number of pallets and windows. This should reduce repetition per trial by increasing maze tile diversity, and decrease the likelihood of an overwhelming number of very strong or very weak tiles.*
+
+
+### Pallet Density Quality of Life Improvements
+
+- Adjusted the MacMillan Estate, Autohaven Wreckers, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Ormond, and The Decimated Borgo realms in the following ways:
+  - Reduced the maximum number of pallets and further reduced the minimum number of pallets
+  - Enforced a maximum distance between pallets
+
+***DEV NOTE**: We've heard your feedback surrounding the recent Pallet Density Quality of Life Improvements from 9.2.0 and have made some changes accordingly. We've reduced the number of pallets, while enforcing a maximum distance between pallets to reduce the presence of deadzones while keeping the total number of pallets in check.*
+
+
+### Match Disconnection Quality of Life
+
+- All players without any disconnection penalty points:
+  - Now receive a 10,000 Bloodpoint bonus when completing a trial
+  - Are placed in a priority queue based on the number of out-of-party players who disconnected from their previous trial
+  - Are placed at the front of a Priority Queue if an out-of-party player disconnects while loading
+
+***DEV Note**: Players disconnecting early is never fun, these changes are intended provide an incentive to players who don't disconnect, while easing the blow on players in trials with disconnections.*
+
+
+### Totem Improvements
+
+- Blessing Boon Totems and Cleansing Hex Totems now display a variable level of glow based on the action progress
+- Existing Boon Totems can be Blessed at **+100%** speed to add effects from previouisly missing Boon perks
+
+***DEV NOTE**: It's not secret that over time Boon perks have become overshadowed by other perk options. Our goal with these changes is to increase the viability of running one or two Boon perks, enabling survivors to spread a full "Boon build" across multiple survviors without putting all of their eggs in one basket.*
 
 
 ## UI
 
-### Text Chat
+### Communication Improvements
 
+- Enabled text chat for players on Xbox, Playstation, and Nintendo Switch
 - Text chat is now available during Trials
-
-Enables Keyboard & Mouse players to communicate with one another mid match, without the need for voice communication nor the moderation issues that accompany it, while still reducing the impact of survivors playing with voice chat.
-
-
-### Quick Communications
-
+- Added speech-to-text dictation, allowing players to hold the Voice button to dictate what they'd like to send
 - Added an 8-axis quick communication wheel to send customizable preset messages to your teammates
+- Updated several Survivor and Killer perks to account for these changes
 
-This will function similar to DBD Mobile's implementation, providing you with a variety of customizable preset messages to send to your teammates (e.g. via the above mid-match chat). An 8-axis system is usable via D-pad, controller stick, mouse flick, and unique-key keybindings.
+***DEV NOTE**: One of the major difficulties faced while balancing survivor and killer is the difference in coordination between four solo survivors and a full team. These changes should ensure that everyone, regardless of party size or platform, is able to communicate with each other effectively, enabling much better balance at the high level without diminishing uncoordinated survivors' potential to win.*
 
 
 ### Teammate Loadout Previews
 
-- Survivors can now see other Survivors' loadouts in the lobby screen
+- Survivors can now see other survivors' loadouts in the lobby screen
+- Updated several Survivor perks to account for these changes
 
-Show the loadouts (perks, offerings, items, and addons) of survivors to one another, allowing survivors to play into each others perks. This is [partially planned](<https://x.com/DeadbyDaylight/status/1956094946320007554>), but only for perks (no offerings, items, or addons) and only once survivors are in the match, meaning you cannot plan your build around others. This means you may still have multiple players with unhook perks, non-stacking perks such as Open-Handed, or conflicting offerings (e.g. two separate Hatch/Basement offerings or contradictory reagents).
+***DEV NOTE**: We know the lack of information about out-of-party teammates' loadouts can be frustrating, especially when knowledge of a perk or item could have changed the outcome of a Trial. This change should prevent these situations going forward, enabling solo survivors to play around each other's perks as if they're in a coordinated team. This has the added benefit of enabling perk balance around the idea of all players being aware the perk is in play, and we've adjusted some perks with that in mind.*
 
 
-### Survivor HUD Status Effects
+### Player Portrait HUD Improvements
 
-- All status effects affecting other survivors are now shown in the portraits portion of the survivor HUD
+- Added the killer's portrait above the survivor portraits, revealed to all survivors upon first chase
+- Added a persistent loadout display to the player portraits portion of the HUD, displaying perks, items, and addons as they're encountered
 - Status effects shown in the portraits portion of the survivor HUD now display timers
+- Survivor status effects are now shown to all survivors in the portraits portion of the HUD
+- Status effects that are killer-inflicted or associated with a perk notification are now shown to the killer with timers in the portraits portion of the HUD
+- Updated several Survivor and Killer perks to account for these changes
 
-This comes in two parts:
-1. Similar to the broken icon that shows up for broken teammates, display other status hud effects alongside it like Exhausted, Hindered, and so on.
-2. Display the timer for all effects, even though the timer is currently not present for Broken
-
-
-### Heal Progress Display
-
-- The survivor progress bar now displays partial healing and mend progress in the HUD
-- The existing deep wound bleed-out timer is now an outline around the bar itself
-
-This can use the same bar used for hook states/deep wound, simply displaying how healed a survivor is so you can tell if they're 99ed, have resurgence, etc. remotely. The decreasing deep wound timer could be changed to display as an outline around the bar, allowing the bar itself to display the mend progress consistent with the injured heal progress display.
+***DEV NOTE**: The HUD has only shown the Broken status effect for a long time, this now supports all status effects, with timers. Additionally, once a survivor first enters chase, all survivors will now be able to see the killer's portrait in the HUD, further increasing available information with communciation. These changes are aimed at reducing the difference in information available to solo survivors compared to full teams, making balancing easier overall. To compensate, killers are now able to see the status effects they inflict (with timers) and some perks have been adjusted accordingly.*
 
 
-### Anti-Face Camp HUD Improvements
+### HUD Bar Improvements
 
-- Hooked survivor's anti-face camp resolve meter is now shown as an outline around the hook stage bar for all survivors
+- The HUD bar now displays partial healing and mend progress persistently
+- The deep wound bleed-out timer is now an outline around the bar itself
+- Survivors' resolve meter is now shown as an outline around the hook stage bar to all survivors
+- Updated several Survivor perks to account for these changes
 
-This could be implemented similarly to the above change to the deep wound display, where there would be an outline around the hook stage bar indicating how close the survivor is to filling their anti-camp meter, making it easier to play around a camping killer and know if the killer is camping without other sorts of communication.
-
-
-### Text Chat Accessibility
-
-- Enabled text chat for players on Xbox, Playstation, and Nintendo Switch
-- Added speech-to-text for text chat, allowing players to hold a button to dictate what they'd like to send
-
-At worst this means console players can read chat but will have a hard time responding, at best this means they can respond on keyboard and mouse just like the other keyboard and mouse players on PC. This opens up the opportunity for pre-game planning and camaraderie, as well as post-game tips to help console players learn and grow.
+***DEV NOTE**: These changes are intended to reduce the difference in information available between solo survivors and full teams, and keep the bar behavior consistent between different interactions. This should reduce how often survivors attempt to unhook while the killer is nearby, slowing resolve progress.*
 
 
-### Perk Notifications
+### Perk Notification Improvements
 
-- Added notifications for more perks post-encounter
+- Added notifications for more perks on first encounter
+- Now shows killer perk notifications to all survivors on first encounter
+- The names of icons shown in the Player Effects section are now shown in the upper right corner of the HUD on first encounter
 
-As of right now, a limited set of perks are displayed to the opposing role in the upper right when they're encountered. This means post interaction, sometimes it's unclear exactly what effect applied. This is particularly true in the case of Endurance effects, as it can be nearly impossible to tell if the survivor that got picked up died getting their final Mettle stack, had Soul Guard, or if the healer had We're Gonna Live Forever. This creates an unfortunate game of guesswork even among highly experienced players, and makes it more difficult for newer players to catch onto what effects are being used against them mid-game. Some easy examples are perks that cause survivors to scream, Endurance effects (and mettle), Breakout if it assists in a wiggle, Saboteur if it's used to successfully sabotage a hook, the cause of a generator explosion, and so-on.
-
-
-### Global Perk Identification Notifications
-
-- Now shows killer perk notifications to all survivors whenever someone encounters one for the first time
-
-Currently, if one survivor encounters a perk like Dead Man's Switch or Oppression that show up in the upper right, this is only displayed to the survivor that encountered it, meaning it can be communicated to teammates in SWFs but not in solo queue. This could very easily be changed to also display it to other survivors once it's encountered.
+***DEV NOTE**: We know it can be frustrating to not understand why something happened, or need to guess between a few potential unlockables. Our intention with these changes it reduce the frequency where you end and interaction without knowledge of what affected it, helping both new and experienced players grasp the unlockables at play in a given Trial and what they do, while reducing the difference in information available to solo survivors compared to full teams.*
 
 
 ### Revealed Status Effect
 
-- All forms of Aura reveal now inflict the Revealed status effect for the duration
+- All forms of aura reveal now inflict the Revealed status effect for the duration
+- Updated several Survivor and Killer perks to account for these changes
 
-In 2v8, Survivor Aura reveal is done via a status effect known as Revealed. This clearly communicates to the user that their Aura is being revealed. This is tremendously good for the new player experience, as absent equipping either Distortion (4,500 IS) or Object of Obsession (500 AC), there is no way to know if your Aura is being revealed to the opposing side. This could be done to both roles, meaning Killers would gain the Revealed effect as well. This would result in less confusion and allow for more opposing-side perk identification where it's otherwise impossible in many cases (Kindred, Wiretap, I'm All Ears, Bitter Murmur, etc).
-
-
-### Player Effects Unlockable Notifications
-
-- The names of icons shown in the Player Effects section are now shown in the upper right corner of the HUD upon first encounter
-
-Buff/debuff Player Effects currently don't always identify themselves by name in the upper right, making it more difficult to recognize and learn them for new players. For experienced players, they have the icon visible and can identify it visually, but there's no way for a new player to ask their friend what it does mid-match, or google it while working on generator/as you hook using a voice assistant. There is effectively no downside to this as you're not introducing new information, instead serving existing information in an additional way, making this primarily an accessibility and new player experience change.
+***DEV NOTE**: The Revealed status effect has been a major success in 2v8, helping new players recognize they're visible to the opposing role and experienced players identify what is revealing them. It's time for this status effect to be introduced into 1v4, some aura-related perks have been adjusted accordingly.*
 
 
-## Settings
+### Settings Improvements
 
-### Volume Sliders
+- Added independent volume sliders for different types of audio
+- Added an audio quality option to audio settings
+- Added separate quality settings for different categories of visuals
+- Added an Aim Assist section under Accessibility, with "Prompts", "Basic Attacks", and "Killer Power" options
 
-- Added independent volume sliders for different types of sounds
-
-Separate the master and sound effects volume sliders into multiple sliders, for example: Menu/Lobby sound effects (e.g. doctor laugh, Jonesey meow, etc.), Terror Radii & Lullaby, Chase Music, Screams, and Power Sound Effects (Blight rush, global Wraith cloak, Biopod ambient noise, etc.)
-
-
-### Independently adjustable graphics settings
-
-- Added separate quality settings for different types of visuals
-
-Enable changing the graphics settings Scalability Groups from the GameUserSettings.ini file directly through the in-game UI, opening up this customization to more PC players and to console players. Currently this consists of Resolution, View Distance, Anti-Aliasing, Shadows, Global Illumination, Reflections, Post-Processing Effects, Textures, Visual Effects, Foliage, Shading, Animation, and Landscape.
+***DEV NOTE**: PC players already had the ability to manually edit their saved settings and adjust specific quality levels, these changes should ensure all players are able to do so, regardless of platform. Additionally the audio customization should increase accessibility for players who are hard of hearing or misophonic, helping existing players and opening the door for new players to come into the fog. We've also included the option to selectively disable Aim Dressing/Aim Assist for the following scenarios; 1) Interacting with a prompt (such as a window, pallet, hatch, or generator) based on look-angle rather than proximity, 2) Automatically swinging when within range of a survivor as well as smoothing the camera towards the center of the survivor on-swing, and 3) Killer power aim-assist interactions, such as during the Ghoul's Kagune-Leap.*
 
 
-### Killer HUD Portrait
+### Queue Time Estimates
 
-- Added the killer to the player HUD on the left-hand side of the screen
-- Now displays the killer's portrait to all survivors once a survivor has entered chase with them for the first time
+- Added an estimated queue time while searching for a trial
 
-One sizeable benefit of playing in a party with out-of-game communication is the ability to call out who the killer is upon first interaction. This allows the other survivors to reposition themselves on their generators, decide which generators to focus on, create a plan for where to go if they're interrupted, determine how early they need to run from Terror Radius, or if there's even going to be a Terror Radius warning at all. Currently, the HUD contains four survivor portraits, with blank space above them up to the top of the screen. A simple and intuitive method of portraying the killer to survivors would be to add the killer above the four survivors in the HUD, populating their character portrait once someone enters chase with the killer.
+***DEV NOTE**: This was first trialed in 2v8 v5 and worked extremely well, you can now expect to see this in your 1v4 matches as well!*
