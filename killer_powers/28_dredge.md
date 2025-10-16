@@ -14,7 +14,7 @@
 
 ### INTERACTION: HIDING INSIDE LOCKERS
 
--
+- Now begins the trial entering a locker
 
 
 ### INTERACTION: LOCKING LOCKERS

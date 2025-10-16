@@ -6,11 +6,12 @@
 
 - After breaking a pallet, lose 1 Token
 - After being stunned, lose 2 Tokens
+- Tokens no longer recharge while stunned, performing actions, or carrying
 
 
 ### LOCOMOTION: BLINK
 
-- Charging a blink now inflicts the Blindness status effect until the Nurse has fatigued
+- Charging a blink now inflicts the Blindness status effect until the Nurse has finished her fatigue
 
 
 ### LOCOMOTION: CHAIN BLINK

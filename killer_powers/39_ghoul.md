@@ -16,6 +16,8 @@
 
 - No longer inflicts Deep Wound
 - No longer blocks the Exit Gates
+- Grab-Attacks now inflict 100% Hindered instead of directly preventing all movement
+- Removed Aim-Assist
 
 
 ### AFFLICTION: KAGUNE MARK
@@ -52,7 +54,7 @@
 
 ### [Red-Headed Centipede](<https://deadbydaylight.wiki.gg/wiki/Red-Headed_Centipede>) (Purple)
 
--
+- Now only activates on Leap Vault *(was any vault action)*
 
 
 ### [Fresh Coffee](<https://deadbydaylight.wiki.gg/wiki/Fresh_Coffee>) (Purple)

@@ -24,7 +24,8 @@
 
 ### ABILITY: VICTOR
 
--
+- Victor can now drag survivors to hooks and is crushed upon hooking or dropping the survivor
+- Victor now fills anti-camp resolve
 
 
 ### ABILITY: POUNCE
@@ -44,7 +45,7 @@
 
 ### INTERACTION: RECALLING VICTOR
 
--
+- Increased regrow duration to **30 seconds** *(was 20 seconds)*
 
 
 ## Addons

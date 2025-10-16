@@ -18,9 +18,16 @@
 
 ### [Iridescent Head](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Head>) (Red)
 
-- No longer automatically puts survivors into the Dying State
-- Now causes thrown Hatchets to pierce through survivors and ricochet off the environment once.
-- Piercing and ricochet hits injure healthy survivors, and deep wound injured survivors, but cannot directly put a survivor into the dying state.
+- No longer reduces the number of carried Hatchets
+
+and
+
+- Now causes thrown Hatchets to pierce through survivors, or ricochet off the environment once.
+- Piercing and ricochet hits injure healthy survivors and deep wound injured survivors, but cannot directly put a survivor into the dying state.
+
+or
+
+- Now only instantly puts survivors into the Dying State if the Hatchet travelled more than **48 meters**
 
 
 ### [Wooden Fox](<https://deadbydaylight.wiki.gg/wiki/Wooden_Fox>) (Purple)

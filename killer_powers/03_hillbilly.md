@@ -4,7 +4,7 @@
 
 ### WEAPON: CHAINSAW
 
--
+- Added a **1 second** window after the Chainsaw's charge meter is depleted before Basic Attacks are available
 
 
 ### LOCOMOTION: CHAINSAW SPRINT

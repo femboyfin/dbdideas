@@ -16,7 +16,8 @@
 
 ### [Coxcombed Clapper](<https://deadbydaylight.wiki.gg/wiki/Coxcombed_Clapper>) (Red)
 
--
+- No longer silences the Wailing Bell
+- Now inflicts **10 seconds** of deafened on survivors within **8 meters** while uncloaking
 
 
 ### ["All Seeing" - Spirit](<https://deadbydaylight.wiki.gg/wiki/%22All_Seeing%22_-_Spirit>) (Red)

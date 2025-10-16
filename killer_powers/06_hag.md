@@ -4,7 +4,7 @@
 
 ### ABILITY: BLACKENED CATALYST
 
--
+- Increased base movement speed to **4.6 m/s** *(was 4.4 m/s)
 
 
 ### TRAP: PHANTASM TRAP

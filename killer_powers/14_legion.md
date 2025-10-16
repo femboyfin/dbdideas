@@ -26,7 +26,7 @@
 
 ### [Iridescent Button](<https://deadbydaylight.wiki.gg/wiki/Iridescent_Button>) (Red)
 
-- Now requires a frenzy-hit to activate
+- Now activates while in Feral Frenzy after a successful Feral Slash
 
 
 ### [Fuming Mix Tape](<https://deadbydaylight.wiki.gg/wiki/Fuming_Mix_Tape>) (Red)

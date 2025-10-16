@@ -4,7 +4,7 @@
 
 ### ABILITY: DREAM DEMON
 
--
+- Awake survivors no longer only see glimpses of The Nightmare
 
 
 ### STATE: MICROSLEEP

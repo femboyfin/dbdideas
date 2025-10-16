@@ -14,7 +14,8 @@
 
 ### SHAPE: HEAD FORM
 
--
+- Increased duration before Intestinal Whip is available after transitioning to Head Form to **1.9 seconds** *(was 1.2 seconds)*
+- Decreased base movement speed to **4.6 m/s** *(was 4.8 m/s)
 
 
 ### AFFLICTION: LEECHED
@@ -24,7 +25,9 @@
 
 ### ABILITY: REGURGITATE
 
--
+- Decreased Mini-Gland Leech Meter progression to **+33%** *(was 100%)
+- Removed Mini-Gland homing
+- Leeching Glands can now rebound Mini-Glands off of the ground
 
 
 ### ABILITY: HEADLONG FLIGHT
@@ -34,17 +37,12 @@
 
 ### ATTACK: INTESTINAL WHIP
 
--
+- Decreased Intestinal Whip turn-rate to **185** *(was 220)*
 
 
 ### ITEM: GLOWING FUNGUS
 
--
-
-
-### ABILITY: REGURGITATE
-
--
+- Glowing Fungus can now be directly fed to a Leeched survivor standing still
 
 
 ## Addons
@@ -56,7 +54,12 @@
 
 ### [Chicken Head](<https://deadbydaylight.wiki.gg/wiki/Chicken_Head>) (Red)
 
--
+- Decreased affliction to 66% Leeched *(was Leecehed I)*
+
+or
+
+- Decreased affliction to 33% Leeched *(was Leecehed I)*
+- No longer increases the initial count of Glowing Fungus
 
 
 ### [Rotten Swine](<https://deadbydaylight.wiki.gg/wiki/Rotten_Swine>) (Purple)

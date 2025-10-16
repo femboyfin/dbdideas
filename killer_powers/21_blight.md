@@ -4,7 +4,9 @@
 
 ### ABILITY: BLIGHTED CORRUPTION
 
--
+- After breaking a pallet, lose 2 Tokens
+- After being stunned, lose 3 Tokens
+- Tokens no longer recharge while stunned, performing actions, or carrying
 
 
 ### LOCOMOTION: RUSH

@@ -9,12 +9,13 @@
 
 ### LOCOMOTION: PHASE-WALK
 
--
+- Increased Pallet Stun duration to **2.5 seconds** if stunned while her speed boost is active
+- After being stunned, resets the power gauge to **0 charges** when stunned
 
 
 ### ABILITY: PASSIVE-PHASING
 
--
+- Removed passive-phasing
 
 
 ## Addons

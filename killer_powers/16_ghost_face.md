@@ -4,7 +4,7 @@
 
 ### ABILITY: NIGHT SHROUD
 
--
+- Now begins the Trial in Night Shroud
 
 
 ### LOCOMOTION: CROUCHING

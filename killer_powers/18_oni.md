@@ -14,7 +14,7 @@
 
 ### STATE: BLOOD FURY
 
-- Increased time penalty when downing a Survivor to **-15 seconds** *(was -7)*
+- Increased time penalty when downing a Survivor to **-15 seconds** *(was 7 seconds)*
 - Picking up a downed survivor now grants **5 charges**
 
 

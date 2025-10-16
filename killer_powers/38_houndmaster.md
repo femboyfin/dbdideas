@@ -29,7 +29,7 @@
 
 ### INTERACTION: DOG GRAB
 
--
+- If the dog collides with a vaulting survivor, it now vaults after them and grabs them on the destination side of the vault
 
 
 ### ABILITY: SEARCH

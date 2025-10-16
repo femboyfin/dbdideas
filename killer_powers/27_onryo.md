@@ -9,7 +9,8 @@
 
 ### ABILITY: MANIFESTATION / DEMANIFESTATION
 
--
+- Removed Flicker-State linger
+- Increased base Movement Speed while Demanifested to 4.8 m/s
 
 
 ### PROP: TV
@@ -24,8 +25,8 @@
 
 ### AFFLICTION: CONDEMNED
 
--
-
+- Hooking a Survivor now guarantees a minimum of 1 locked in Stack, regardless of the survivor's current Condemned Stacks
+- The Onryo can now see how many locked in Stacks survivors have
 
 ### INTERACTION: INEXORABLE STARE
 
