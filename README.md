@@ -15,8 +15,8 @@ The intention is to slowly iterate through element by element taking the time to
 - [x] [Survivor perks](survivor_perks.md) *as of 9.1.3*
 - [ ] [Killer perks](killer_perks.md) **IN PROGRESS**
 - [ ] [Basekit/miscellaneous](misc.md) **IN PROGRESS**
-- [ ] Killer powers & addons <!-- [Killer powers & addons](killer) -->
-- [ ] Survivor items & addons <!-- [Survivor items & addons](survivor) -->
+- [ ] Killer powers & addons **IN PROGRESS**
+- [ ] Survivor items & addons **IN PROGRESS**
 
 
 ## Goals
@@ -73,7 +73,7 @@ Some designs are intrinsically high risk to tamper with. I'll provide two practi
 In order to keep our changes as natural as possible, we do our best to format them familiarly. When describing an idea, we first try to mimic the official patch notes as much as possible (e.g. bolding numbers and their units as well as suffixing previous values in italics). Second we prioritize the [Wiki's style guide](<https://deadbydaylight.wiki.gg/wiki/Dead_by_Daylight_Wiki:Style_guide>), which provides explicit rules and guidelines to enhance consistency. Finally, we do our best to keep things consistent outside of the aforementioned wherever applicable.
 
 Let's use an example from a recent patch to demonstrate. If we want to lower the duration of insidious from it's previous 4/3/2 seconds to 3/2/1 seconds, the resulting change would be:
-- Decreased the time it takes to activate to **3/2/1 second** *(was 4/3/2)*
+- Decreased the time it takes to activate to **3/2/1 second** *(was 4/3/2 seconds)*
 
 Note there are two differences from the official patch notes here which are done for clarity:
 
