@@ -7,19 +7,20 @@
 
 ### [Bloodsense Map](<https://deadbydaylight.wiki.gg/wiki/Bloodsense_Map>) (Event)
 
-- Decreased charge count to **6 charges** *(was 8)*
-- Decreased ranged to **40 meters** *(was 48)*
+- Decreased charge count to **6 charges** *(was 8 charges)*
+- Decreased ranged to **40 meters** *(was 48 meters)*
 
 
 ### [Annotated Map](<https://deadbydaylight.wiki.gg/wiki/Annotated_Map>) (Blue)
 
-- Increased charge count to **8 charges** *(was 6)*
-- Increased ranged to **48 meters** *(was 40)*
+- Increased charge count to **8 charges** *(was 6 charges)*
+- Increased ranged to **48 meters** *(was 40 meters)*
+- Now has a unique model
 
 
 ### [Scribbled Map](<https://deadbydaylight.wiki.gg/wiki/Scribbled_Map>) (Green)
 
--
+- Now has a unique model
 
 
 ### [Cryptic Map](<https://deadbydaylight.wiki.gg/wiki/Cryptic_Map>) (Brown)

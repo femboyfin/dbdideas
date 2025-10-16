@@ -4,12 +4,12 @@
 
 ### [Utility Flashlight](<https://deadbydaylight.wiki.gg/wiki/Utility_Flashlight>) (Purple)
 
--
+- Now has a unique model
 
 
 ### [Sport Flashlight](<https://deadbydaylight.wiki.gg/wiki/Sport_Flashlight>) (Blue)
 
--
+- Now has a unique model
 
 
 ### [Flashlight](<https://deadbydaylight.wiki.gg/wiki/Flashlight>) (Green) and Event Flashlights
@@ -25,10 +25,10 @@
 -
 
 
-### [Odd Bulb](<https://deadbydaylight.wiki.gg/wiki/Odd_Bulb>) (Red)
+### [Odd Bulb](<https://deadbydaylight.wiki.gg/wiki/Odd_Bulb>) (Red) 5️⃣
 
 - Now causes the flashlight beam to have a wavey heat mirage
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 and
 
@@ -44,28 +44,28 @@ or
 ### [High-End Sapphire Lens](<https://deadbydaylight.wiki.gg/wiki/High-End_Sapphire_Lens>) (Purple)
 
 - Now tints the beam slightly blue
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
-### [Long Life Battery](<https://deadbydaylight.wiki.gg/wiki/Long_Life_Battery>) (Blue)
+### [Long Life Battery](<https://deadbydaylight.wiki.gg/wiki/Long_Life_Battery>) (Blue) 5️⃣
 
 - Now causes an additional un-click sound effect
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
 ### [Intense Halogen](<https://deadbydaylight.wiki.gg/wiki/Intense_Halogen>) (Blue)
 
 - Increases the opacity of the beam
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
-### [TIR Optic](<https://deadbydaylight.wiki.gg/wiki/TIR_Optic>) (Green)
+### [TIR Optic](<https://deadbydaylight.wiki.gg/wiki/TIR_Optic>) (Green) 5️⃣
 
 - Now tints the beam slightly yellow
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
-### [Rubber Grip](<https://deadbydaylight.wiki.gg/wiki/Rubber_Grip>) (Green)
+### [Rubber Grip](<https://deadbydaylight.wiki.gg/wiki/Rubber_Grip>) (Green) 5️⃣
 
 - Now causes a unique shining stance/animation
   - If this is a more satisfying one than default, it may encourage some players to run this lower-strength add-on for the better feel, encouraging off-meta play and usage of this low play-rate add-on.
@@ -74,16 +74,16 @@ or
 ### [Low Amp Filament](<https://deadbydaylight.wiki.gg/wiki/Low_Amp_Filament>) (Green)
 
 - Now causes an additional un-click sound effect
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
 ### [Heavy Duty Battery](<https://deadbydaylight.wiki.gg/wiki/Heavy_Duty_Battery>) (Green)
 
 - Now causes an additional un-click sound effect
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
-### [Focus Lens](<https://deadbydaylight.wiki.gg/wiki/Focus_Lens>) (Green)
+### [Focus Lens](<https://deadbydaylight.wiki.gg/wiki/Focus_Lens>) (Green) 5️⃣
 
 -
 
@@ -96,7 +96,7 @@ or
 ### [Power Bulb](<https://deadbydaylight.wiki.gg/wiki/Power_Bulb>) (Brown)
 
 - Increases the opacity of the beam
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial
 
 
 ### [Leather Grip](<https://deadbydaylight.wiki.gg/wiki/Leather_Grip>) (Brown)
@@ -108,4 +108,4 @@ or
 ### [Battery](<https://deadbydaylight.wiki.gg/wiki/Battery>) (Brown)
 
 - Now causes an additional un-click sound effect
-  - Makes it possible to quickly identify that the add-on is in play mid-match
+  - Makes it possible to quickly identify that the add-on is in play mid-trial

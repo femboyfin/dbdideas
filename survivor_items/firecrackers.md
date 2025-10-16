@@ -17,7 +17,7 @@ See [Limited Items](limited.md#flash-grenade) for changes; despite the current f
 
 Firecracker add-ons have never been naturally obtainable, but have been implemented.
 
-### [Large Pack](<https://deadbydaylight.wiki.gg/wiki/Large_Pack>) (Red)
+### [Large Pack](<https://deadbydaylight.wiki.gg/wiki/Large_Pack>) (Red) 5️⃣
 
 - Now available in the Bloodweb
 
@@ -32,12 +32,12 @@ Firecracker add-ons have never been naturally obtainable, but have been implemen
 - Now available in the Bloodweb
 
 
-### [Long Fuse](<https://deadbydaylight.wiki.gg/wiki/Long_Fuse>) (Green)
+### [Long Fuse](<https://deadbydaylight.wiki.gg/wiki/Long_Fuse>) (Green) 5️⃣
 
 - Now available in the Bloodweb
 
 
-### [Gun Powder](<https://deadbydaylight.wiki.gg/wiki/Gun_Powder>) (Green)
+### [Gun Powder](<https://deadbydaylight.wiki.gg/wiki/Gun_Powder>) (Green) 5️⃣
 
 - Now available in the Bloodweb
 
@@ -47,11 +47,11 @@ Firecracker add-ons have never been naturally obtainable, but have been implemen
 - Now available in the Bloodweb
 
 
-### [Flash Powder](<https://deadbydaylight.wiki.gg/wiki/Flash_Powder>) (Brown)
+### [Flash Powder](<https://deadbydaylight.wiki.gg/wiki/Flash_Powder>) (Brown) 5️⃣
 
 - Now available in the Bloodweb
 
 
-### [Buck Shot](<https://deadbydaylight.wiki.gg/wiki/Buck_Shot>) (Brown)
+### [Buck Shot](<https://deadbydaylight.wiki.gg/wiki/Buck_Shot>) (Brown) 5️⃣
 
 - Now available in the Bloodweb

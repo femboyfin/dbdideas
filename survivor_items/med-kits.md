@@ -4,12 +4,12 @@
 
 ### [Ranger Med-Kit](<https://deadbydaylight.wiki.gg/wiki/Ranger_Med-Kit>) (Purple)
 
--
+- Now has a unique model
 
 
 ### [Emergency Med-Kit](<https://deadbydaylight.wiki.gg/wiki/Emergency_Med-Kit>) (Blue)
 
--
+- Now has a unique model
 
 
 ### [First Aid Kit](<https://deadbydaylight.wiki.gg/wiki/First_Aid_Kit>) (Green) and Event Med-Kits
@@ -19,7 +19,7 @@
 
 ### [Camping Aid Kit](<https://deadbydaylight.wiki.gg/wiki/Camping_Aid_Kit>) (Brown)
 
--
+- Now has a unique model
 
 
 ## Add-ons
@@ -30,31 +30,31 @@
 -
 
 
-### [Gel Dressings](<https://deadbydaylight.wiki.gg/wiki/Gel_Dressings>) (Red)
+### [Gel Dressings](<https://deadbydaylight.wiki.gg/wiki/Gel_Dressings>) (Red) 5️⃣
 
-- Decreased additional charges to **+14 charges** *(was +16)*
+- Decreased additional charges to **+14 charges** *(was 16 charges)*
 
 
-### [Anti-Haemorrhagic Syringe](<https://deadbydaylight.wiki.gg/wiki/Anti-Haemorrhagic_Syringe>) (Red)
+### [Anti-Haemorrhagic Syringe](<https://deadbydaylight.wiki.gg/wiki/Anti-Haemorrhagic_Syringe>) (Red) 5️⃣
 
 - Healing time is no longer affected by Healing Speed modifiers
-- Increased duration to **32 seconds** *(was 16)*
+- Increased duration to **32 seconds** *(was 16 seconds)*
 - Pools of Blood are bright red during the duration
 - Now takes 3 seconds to apply
   - Uses Nemesis vaccination animation
 
 
-### [Styptic Agent](<https://deadbydaylight.wiki.gg/wiki/Styptic_Agent>) (Purple)
+### [Styptic Agent](<https://deadbydaylight.wiki.gg/wiki/Styptic_Agent>) (Purple) 5️⃣
 
 - Now triggers a difficult Skill Check before providing Endurance
 
 
-### [Abdominal Dressing](<https://deadbydaylight.wiki.gg/wiki/Abdominal_Dressing>) (Purple)
+### [Abdominal Dressing](<https://deadbydaylight.wiki.gg/wiki/Abdominal_Dressing>) (Purple) 5️⃣
 
 -
 
 
-### [Surgical Suture](<https://deadbydaylight.wiki.gg/wiki/Surgical_Suture>) (Blue)
+### [Surgical Suture](<https://deadbydaylight.wiki.gg/wiki/Surgical_Suture>) (Blue) 5️⃣
 
 -
 
