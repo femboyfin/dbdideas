@@ -6,7 +6,7 @@ Killer perks are a work-in-progress, some changes may not have their reasoning t
 
 ## [A Nurse's Calling](<https://deadbydaylight.wiki.gg/wiki/A_Nurse%27s_Calling>)
 
-- Increased range to **24/28/32 meters** *(was 20/24/28)*
+- Increased range to **24/28/32 meters** *(was 20/24/28 meters)*
   - Slightly increases perk strength, also keeps the numbers more in line with the standard multiples-of-8 numbering scheme which should make the values slightly more memorable.
 
 ## [Agitation](<https://deadbydaylight.wiki.gg/wiki/Agitation>)
@@ -16,7 +16,7 @@ No changes
 
 ## [Alien Instinct](<https://deadbydaylight.wiki.gg/wiki/Alien_Instinct>) 📉 🗑️
 
-- Increased Aura reveal duration to **16 seconds** *(was 8)*
+- Increased Aura reveal duration to **16 seconds** *(was 8 seconds)*
   - Sizable numbers buff to increase perk strength and therefor playrate.
 
 
@@ -28,7 +28,7 @@ No changes
   - Now being token based we simply subtract one Token per lunge.
 - Removed deactivation timer *(was 8/12/16)*
   - No longer makes sense as it's now Token based.
-- Increased cooldown to **60 seconds** *(was 5)*
+- Increased cooldown to **60 seconds** *(was 5 seconds)*
   - Prevents it from being too oppressive in specific scenarios (we don't want this to become Balanced Landing that doesn't trigger Exhausted)
 
 
@@ -36,7 +36,7 @@ No changes
 
 - Added a linger effect to the Aura of Survivors within range of a successful Hook, this lingering Aura reveal lasts for **8 seconds**
   - Increases the perk strength quite considerably while buffing specifically the scenarios where you aren't picking someone up purely for backpack build benefits, incentivizing actually getting the hook and not purely trying to snowball with a backpack build.
-- Increased range to **24 meters** *(was 20)*
+- Increased range to **24 meters** *(was 20 meters)*
   - Mild numbers buff to increase perk strength, now in line with the size of small killer Terror Radii
 
 
@@ -52,7 +52,7 @@ No changes; upcoming changes (9.2.0 PTB).
 
 ## [Batteries Included](<https://deadbydaylight.wiki.gg/wiki/Batteries_Included>) 🗑️
 
-- Increased linger duration to **4/6/8 seconds** *(was 1/3/5)*
+- Increased linger duration to **4/6/8 seconds** *(was 1/3/5 seconds)*
   - Slight numbers buff to a mediocre situational perk, should increase viability prior to gates being powered without making it that much stronger in end game where it already shines.
 
 
@@ -68,7 +68,7 @@ No changes; upcoming changes (9.2.0 PTB).
 
 - Now applies to all generators, not only the one that was completed
   - Sizable buff turning this into a pretty solid info perk, enabling you to decide between going after the survivors who just completed the generator or interrupt another in progress one.
-- Reduced range to **4 meters** *(was 16)*
+- Reduced range to **4 meters** *(was 16 meters)*
   - Ensures it only applies to people effectively working on generators without directly tying it to players repairing generators to avoid survivors dodging bitter murmur (either intentionally or unintentionally) in the same way Pain Resonance's explosion is dodged.
 - Now lingers for the duration once leaving the radius rather than immediately losing Aura reveal
   - Ensures this remains purely a buff not a sidegrade, guaranteeing your 5 seconds of Aura reveal on all affected survivors.
@@ -76,7 +76,7 @@ No changes; upcoming changes (9.2.0 PTB).
 
 ## [Blood Echo](<https://deadbydaylight.wiki.gg/wiki/Blood_Echo>) 📉 🗑️
 
-- Increased duration to **30/35/40 seconds** *(was 20/25/30)*
+- Increased duration to **30/35/40 seconds** *(was 20/25/30 seconds)*
   - Mild numbers buff increasing general perk strength
 - Now inflicts the Mangled status effect as well
   - Noticeable buff to the anti-heal portion of the perk, currently without supplementary aura reading perks it can be extremely difficult to actually locate someone and interrupt their normal speed heal to get Hemorrhage value, ideally mangled will lessen the frequency of this and make heal interrupts and therefor Hemorrhage value more often.
@@ -94,7 +94,7 @@ No changes; upcoming changes (9.2.0 PTB).
 
 ## [Bloodhound](<https://deadbydaylight.wiki.gg/wiki/Bloodhound>) 📉 🗑️
 
-- Increased duration to **3/4/5 seconds** *(was 2/3/4)*
+- Increased duration to **3/4/5 seconds** *(was 2/3/4 seconds)*
   - Slight numbers buff, increasing this too much has the potential to make tracking *more* confusing as it can become harder to determine direction of travel from blood pools immediately.
 - Now extends the Lifetime of Scratch Marks as well
   - Provides effective counterplay to Lightweight and Ghost Notes
@@ -146,9 +146,9 @@ No changes
 
 - No longer increases Killer Blind duration
   - Fully removes half of the perk's somewhat unnecessary downsides.
-- Reduced Pallet Stun Recovery speed to **10%** *(was 25)*
+- Reduced Pallet Stun Recovery speed to **10%** *(was 25%)*
   - Further reduces the remaining downside's impact
-- Increased Vaulting speed to **20/25/30%** *(was 15/20/25)*
+- Increased Vaulting speed to **20/25/30%** *(was 15/20/25%)*
   - Slight numbers buff to increase perk strength, this combined with the lack of downsides could potentially bump it to a level where it's occasionally used outside of full vault speed loadouts.
 
 
@@ -156,7 +156,7 @@ No changes
 
 - Now activates when hitting any survivor with a Basic Attack
   - This is a reversion of the change made in [6.1.0](<https://deadbydaylight.wiki.gg/wiki/Patch_Notes_6.1.X#:~:text=Dark%20Devotion-,Now%20triggers%20when%20a%20Survivor%20loses%20a%20health%20state%20by%20any%20means%20(was%20just%20basic%20attacks>). Increases perk strength by separating it from specifically the Obsession, you should see more consistent activations of the perk throughout the trial. Additionally limiting it to Basic Attacks makes the perk slightly less oppressive on higher strength killers and encourages more deliberate and thoughtful activation them.
-- Increased duration to **40/50/60 seconds** *(was 35/40/45)*
+- Increased duration to **40/50/60 seconds** *(was 35/40/45 seconds)*
   - Sizable numbers buff, increasing the strength a bit by giving you more opportunities to catch someone off guard while your Terror Radius is elsewhere.
 - Now activates only on Basic Attack
   - Prevents it from becoming too oppressive on killers with high strength and mobility chase powers (e.g. Blight who can both get a hit and reposition across the map rather quickly).
@@ -170,7 +170,7 @@ No changes
 
 - Now grants **5% Haste** for **10 seconds** upon completing a locker search
   - Offsets the cost of performing a locker search and allows you to better take advantage of the info you gain
-- Reduced cool-down to **20 seconds** *(was 30)*
+- Reduced cool-down to **20 seconds** *(was 30 seconds)*
   - Mild numbers buff, this combined with the above change provides potential to use Darkness Revealed to find a survivor and enter chase, then again mid chase.
 
 
@@ -215,19 +215,19 @@ No changes; upcoming changes (9.2.0 PTB).
 
 - Reduced grace period duration to **1 second** *(was 3 seconds)*
   - Mild buff that still allows Survivors to vault a pallet as they get hit, but punishes them for vaulting during their on-hit Haste.
-- Increased effect duration to **15/20/25 seconds** *(was 12/16/20)*
+- Increased effect duration to **15/20/25 seconds** *(was 12/16/20 seconds)*
   - Mild buff to generally increase the perk's strength level.
 
 
 ## [Distressing](<https://deadbydaylight.wiki.gg/wiki/Distressing>) 📉 🗑️
 
-- Increased Terror Radius bonus to **40%** *(was 30)*
+- Increased Terror Radius bonus to **40%** *(was 30%)*
   - Sizable numbers buff to increase the perk's impact.
 
 
 ## [Dominance](<https://deadbydaylight.wiki.gg/wiki/Dominance>) 📉
 
-- Increased duration to **12/16/20 seconds** *(was 8/12/16)*
+- Increased duration to **12/16/20 seconds** *(was 8/12/16 seconds)*
   - Mild numbers buff increasing the impact of the perks current effect and the new effect below.
 - Now reveals the aura of the Survivor who interacted with the Chest or Totem for the duration
   - Not only provides location information on where *a* survivor is, but also who that survivor is and where they went, should make it much easier to defend a lit Hex by preventively chasing the survivor who knows it's location.
@@ -240,9 +240,9 @@ No changes; too recently changed (9.1.0).
 
 ## [Dying Light](<https://deadbydaylight.wiki.gg/wiki/Dying_Light>) 📉 🗑️
 
-- Decreased Obsession Action Speed bonus to **20%** *(was 33)*
+- Decreased Obsession Action Speed bonus to **20%** *(was 33%)*
   - Reduces the number of situations where the perk is detrimental to run.
-- Increased non-Obsession Action Speed penalty to **3/4/5% per token** *(was 2/2.5/3)*
+- Increased non-Obsession Action Speed penalty to **3/4/5% per Token** *(was 2/2.5/3 per Token)*
   - Sizeable numbers buff, should ensure the perk has a very noticeable impact each trial.
 - Now applies Action Speed penalties to all Action Speeds (except vaulting)
   - Mild buff, mostly effects less-critical and less-common action speeds, but will notably slow down gate-opening.
@@ -277,7 +277,7 @@ No changes; upcoming changes (9.2.0 PTB Tunnelling reduction).
 
 - Increased bonus to **5%** *(was 4%)*
   - Slightly increases perk impact, particularly at lower Token counts.
-- Increased maximum tokens to **8/9/10 Tokens** *(was 6/7/8)*
+- Increased maximum tokens to **8/9/10 Tokens** *(was 6/7/8 Tokens)*
   - Mildly increases strength at max Tokens.
 
 
